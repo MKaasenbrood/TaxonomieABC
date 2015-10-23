@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="test-t_TupleA_label_nl" xlink:label="test-t_TupleA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Tuple A</link:label>
+    <link:label id="test-t_TupleB_label_nl" xlink:label="test-t_TupleB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Tuple B</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-t_TupleA_loc" xlink:to="test-t_TupleA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-t_TupleB_loc" xlink:to="test-t_TupleB_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="test-tuples.xsd#test-t_TupleA" xlink:label="test-t_TupleA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-tuples.xsd#test-t_TupleB" xlink:label="test-t_TupleB_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

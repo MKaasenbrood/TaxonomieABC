@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:test-dlr="http://www.nltaxonomie.nl/report/test/linkroles/test-linkroles-tables" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/report/test/linkroles/test-linkroles-tables">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-linkroles-tables-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
+      <link:roleType id="test_dlr_LinkroleTableA" roleURI="urn:test:linkrole:table-a">
+        <link:definition>Tabel A</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableB" roleURI="urn:test:linkrole:table-b">
+        <link:definition>Tabel B</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableC" roleURI="urn:test:linkrole:table-c">
+        <link:definition>Tabel C</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableD" roleURI="urn:test:linkrole:table-d">
+        <link:definition>Tabel D</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableE" roleURI="urn:test:linkrole:table-e">
+        <link:definition>Tabel E</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableF" roleURI="urn:test:linkrole:table-f">
+        <link:definition>Tabel F</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableG" roleURI="urn:test:linkrole:table-g">
+        <link:definition>Tabel G</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableH" roleURI="urn:test:linkrole:table-h">
+        <link:definition>Tabel H</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableI" roleURI="urn:test:linkrole:table-i">
+        <link:definition>Tabel I</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlr_LinkroleTableJ" roleURI="urn:test:linkrole:table-j">
+        <link:definition>Tabel J</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+</xs:schema>

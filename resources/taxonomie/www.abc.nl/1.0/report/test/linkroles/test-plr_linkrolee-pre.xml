@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:test:linkrole:e" xlink:href="test-linkroles-pre.xsd#test-plr_LinkroleE" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:test:linkrole:e" xlink:type="extended">
+    <link:loc xlink:href="../abstracts/test-abstracts.xsd#test-abstr_TitleA" xlink:label="test-abstr_TitleA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptA" xlink:label="test-i_ConceptA_loc" xlink:type="locator"/>
+    <link:presentationArc order="0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleA_loc" xlink:to="test-i_ConceptA_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>

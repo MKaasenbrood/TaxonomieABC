@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="test-dm_DomainA_label_nl" xlink:label="test-dm_DomainA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein A</link:label>
+    <link:label id="test-dm_DomainB_label_nl" xlink:label="test-dm_DomainB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein B</link:label>
+    <link:label id="test-dm_DomainC_label_nl" xlink:label="test-dm_DomainC_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein C</link:label>
+    <link:label id="test-dm_DomainD_label_nl" xlink:label="test-dm_DomainD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein D</link:label>
+    <link:label id="test-dm_DomainE_label_nl" xlink:label="test-dm_DomainE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein E</link:label>
+    <link:label id="test-dm_DomainF_label_nl" xlink:label="test-dm_DomainF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein F</link:label>
+    <link:label id="test-dm_DomainG_label_nl" xlink:label="test-dm_DomainG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein G</link:label>
+    <link:label id="test-dm_DomainH_label_nl" xlink:label="test-dm_DomainH_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein H</link:label>
+    <link:label id="test-dm_DomainI_label_nl" xlink:label="test-dm_DomainI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein I</link:label>
+    <link:label id="test-dm_DomainJ_label_nl" xlink:label="test-dm_DomainJ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Domein J</link:label>
+    <link:label id="test-dm_MemberA_label_nl" xlink:label="test-dm_MemberA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member A</link:label>
+    <link:label id="test-dm_MemberB_label_nl" xlink:label="test-dm_MemberB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member B</link:label>
+    <link:label id="test-dm_MemberC_label_nl" xlink:label="test-dm_MemberC_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member C</link:label>
+    <link:label id="test-dm_MemberD_label_nl" xlink:label="test-dm_MemberD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member D</link:label>
+    <link:label id="test-dm_MemberE_label_nl" xlink:label="test-dm_MemberE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member E</link:label>
+    <link:label id="test-dm_MemberF_label_nl" xlink:label="test-dm_MemberF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member F</link:label>
+    <link:label id="test-dm_MemberG_label_nl" xlink:label="test-dm_MemberG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member G</link:label>
+    <link:label id="test-dm_MemberH_label_nl" xlink:label="test-dm_MemberH_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member H</link:label>
+    <link:label id="test-dm_MemberI_label_nl" xlink:label="test-dm_MemberI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member I</link:label>
+    <link:label id="test-dm_MemberJ_label_nl" xlink:label="test-dm_MemberJ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member J</link:label>
+    <link:label id="test-dm_MemberK_label_nl" xlink:label="test-dm_MemberK_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member K</link:label>
+    <link:label id="test-dm_MemberL_label_nl" xlink:label="test-dm_MemberL_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member L</link:label>
+    <link:label id="test-dm_MemberM_label_nl" xlink:label="test-dm_MemberM_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member M</link:label>
+    <link:label id="test-dm_MemberN_label_nl" xlink:label="test-dm_MemberN_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member N</link:label>
+    <link:label id="test-dm_MemberO_label_nl" xlink:label="test-dm_MemberO_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member O</link:label>
+    <link:label id="test-dm_MemberP_label_nl" xlink:label="test-dm_MemberP_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member P</link:label>
+    <link:label id="test-dm_MemberQ_label_nl" xlink:label="test-dm_MemberQ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member Q</link:label>
+    <link:label id="test-dm_MemberR_label_nl" xlink:label="test-dm_MemberR_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member R</link:label>
+    <link:label id="test-dm_MemberS_label_nl" xlink:label="test-dm_MemberS_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member S</link:label>
+    <link:label id="test-dm_MemberT_label_nl" xlink:label="test-dm_MemberT_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member T</link:label>
+    <link:label id="test-dm_MemberU_label_nl" xlink:label="test-dm_MemberU_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member U</link:label>
+    <link:label id="test-dm_MemberV_label_nl" xlink:label="test-dm_MemberV_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member V</link:label>
+    <link:label id="test-dm_MemberW_label_nl" xlink:label="test-dm_MemberW_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member W</link:label>
+    <link:label id="test-dm_MemberX_label_nl" xlink:label="test-dm_MemberX_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member X</link:label>
+    <link:label id="test-dm_MemberY_label_nl" xlink:label="test-dm_MemberY_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member Y</link:label>
+    <link:label id="test-dm_MemberZ_label_nl" xlink:label="test-dm_MemberZ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Member Z</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainA_loc" xlink:to="test-dm_DomainA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainB_loc" xlink:to="test-dm_DomainB_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainC_loc" xlink:to="test-dm_DomainC_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainD_loc" xlink:to="test-dm_DomainD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainE_loc" xlink:to="test-dm_DomainE_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainF_loc" xlink:to="test-dm_DomainF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainG_loc" xlink:to="test-dm_DomainG_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainH_loc" xlink:to="test-dm_DomainH_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainI_loc" xlink:to="test-dm_DomainI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_DomainJ_loc" xlink:to="test-dm_DomainJ_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberA_loc" xlink:to="test-dm_MemberA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberB_loc" xlink:to="test-dm_MemberB_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberC_loc" xlink:to="test-dm_MemberC_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberD_loc" xlink:to="test-dm_MemberD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberE_loc" xlink:to="test-dm_MemberE_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberF_loc" xlink:to="test-dm_MemberF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberG_loc" xlink:to="test-dm_MemberG_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberH_loc" xlink:to="test-dm_MemberH_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberI_loc" xlink:to="test-dm_MemberI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberJ_loc" xlink:to="test-dm_MemberJ_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberK_loc" xlink:to="test-dm_MemberK_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberL_loc" xlink:to="test-dm_MemberL_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberM_loc" xlink:to="test-dm_MemberM_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberN_loc" xlink:to="test-dm_MemberN_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberO_loc" xlink:to="test-dm_MemberO_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberP_loc" xlink:to="test-dm_MemberP_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberQ_loc" xlink:to="test-dm_MemberQ_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberR_loc" xlink:to="test-dm_MemberR_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberS_loc" xlink:to="test-dm_MemberS_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberT_loc" xlink:to="test-dm_MemberT_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberU_loc" xlink:to="test-dm_MemberU_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberV_loc" xlink:to="test-dm_MemberV_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberW_loc" xlink:to="test-dm_MemberW_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberX_loc" xlink:to="test-dm_MemberX_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberY_loc" xlink:to="test-dm_MemberY_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dm_MemberZ_loc" xlink:to="test-dm_MemberZ_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainA" xlink:label="test-dm_DomainA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainB" xlink:label="test-dm_DomainB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainC" xlink:label="test-dm_DomainC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainD" xlink:label="test-dm_DomainD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainE" xlink:label="test-dm_DomainE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainF" xlink:label="test-dm_DomainF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainG" xlink:label="test-dm_DomainG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainH" xlink:label="test-dm_DomainH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainI" xlink:label="test-dm_DomainI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_DomainJ" xlink:label="test-dm_DomainJ_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberA" xlink:label="test-dm_MemberA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberB" xlink:label="test-dm_MemberB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberC" xlink:label="test-dm_MemberC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberD" xlink:label="test-dm_MemberD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberE" xlink:label="test-dm_MemberE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberF" xlink:label="test-dm_MemberF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberG" xlink:label="test-dm_MemberG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberH" xlink:label="test-dm_MemberH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberI" xlink:label="test-dm_MemberI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberJ" xlink:label="test-dm_MemberJ_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberK" xlink:label="test-dm_MemberK_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberL" xlink:label="test-dm_MemberL_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberM" xlink:label="test-dm_MemberM_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberN" xlink:label="test-dm_MemberN_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberO" xlink:label="test-dm_MemberO_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberP" xlink:label="test-dm_MemberP_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberQ" xlink:label="test-dm_MemberQ_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberR" xlink:label="test-dm_MemberR_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberS" xlink:label="test-dm_MemberS_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberT" xlink:label="test-dm_MemberT_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberU" xlink:label="test-dm_MemberU_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberV" xlink:label="test-dm_MemberV_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberW" xlink:label="test-dm_MemberW_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberX" xlink:label="test-dm_MemberX_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberY" xlink:label="test-dm_MemberY_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-domains.xsd#test-dm_MemberZ" xlink:label="test-dm_MemberZ_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

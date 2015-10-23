@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:test-plr="http://www.nltaxonomie.nl/report/test/linkroles/test-linkroles-pre" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/report/test/linkroles/test-linkroles-pre">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-linkroles-pre-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
+      <link:roleType id="test-plr_LinkroleA" roleURI="urn:test:linkrole:a">
+        <link:definition>A</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleB" roleURI="urn:test:linkrole:b">
+        <link:definition>B</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleC" roleURI="urn:test:linkrole:c">
+        <link:definition>C</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleD" roleURI="urn:test:linkrole:d">
+        <link:definition>D</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleE" roleURI="urn:test:linkrole:e">
+        <link:definition>E</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleF" roleURI="urn:test:linkrole:f">
+        <link:definition>F</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleG" roleURI="urn:test:linkrole:g">
+        <link:definition>G</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleH" roleURI="urn:test:linkrole:h">
+        <link:definition>H</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleI" roleURI="urn:test:linkrole:i">
+        <link:definition>I</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test-plr_LinkroleJ" roleURI="urn:test:linkrole:j">
+        <link:definition>J</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+	  <link:roleType id="test-plr_LinkroleMoney" roleURI="urn:test:linkrole:money">
+        <link:definition>Money</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+</xs:schema>

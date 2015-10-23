@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:label="http://xbrl.org/2008/label" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/label http://www.xbrl.org/2008/generic-label.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#standard-label" xlink:type="simple"/>
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisA_loc" xlink:to="test_dlra_LinkroleAxisA_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisB_loc" xlink:to="test_dlra_LinkroleAxisB_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisC_loc" xlink:to="test_dlra_LinkroleAxisC_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisD_loc" xlink:to="test_dlra_LinkroleAxisD_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisE_loc" xlink:to="test_dlra_LinkroleAxisE_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisF_loc" xlink:to="test_dlra_LinkroleAxisF_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisG_loc" xlink:to="test_dlra_LinkroleAxisG_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisH_loc" xlink:to="test_dlra_LinkroleAxisH_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisI_loc" xlink:to="test_dlra_LinkroleAxisI_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlra_LinkroleAxisJ_loc" xlink:to="test_dlra_LinkroleAxisJ_label_nl" xlink:type="arc"/>
+    <label:label id="test_dlra_LinkroleAxisA_label_nl" xlink:label="test_dlra_LinkroleAxisA_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As A</label:label>
+    <label:label id="test_dlra_LinkroleAxisB_label_nl" xlink:label="test_dlra_LinkroleAxisB_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As B</label:label>
+    <label:label id="test_dlra_LinkroleAxisC_label_nl" xlink:label="test_dlra_LinkroleAxisC_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As C</label:label>
+    <label:label id="test_dlra_LinkroleAxisD_label_nl" xlink:label="test_dlra_LinkroleAxisD_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As D</label:label>
+    <label:label id="test_dlra_LinkroleAxisE_label_nl" xlink:label="test_dlra_LinkroleAxisE_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As E</label:label>
+    <label:label id="test_dlra_LinkroleAxisF_label_nl" xlink:label="test_dlra_LinkroleAxisF_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As F</label:label>
+    <label:label id="test_dlra_LinkroleAxisG_label_nl" xlink:label="test_dlra_LinkroleAxisG_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As G</label:label>
+    <label:label id="test_dlra_LinkroleAxisH_label_nl" xlink:label="test_dlra_LinkroleAxisH_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As H</label:label>
+    <label:label id="test_dlra_LinkroleAxisI_label_nl" xlink:label="test_dlra_LinkroleAxisI_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As I</label:label>
+    <label:label id="test_dlra_LinkroleAxisJ_label_nl" xlink:label="test_dlra_LinkroleAxisJ_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">As J</label:label>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisA" xlink:label="test_dlra_LinkroleAxisA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisB" xlink:label="test_dlra_LinkroleAxisB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisC" xlink:label="test_dlra_LinkroleAxisC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisD" xlink:label="test_dlra_LinkroleAxisD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisE" xlink:label="test_dlra_LinkroleAxisE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisF" xlink:label="test_dlra_LinkroleAxisF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisG" xlink:label="test_dlra_LinkroleAxisG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisH" xlink:label="test_dlra_LinkroleAxisH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisI" xlink:label="test_dlra_LinkroleAxisI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisJ" xlink:label="test_dlra_LinkroleAxisJ_loc" xlink:type="locator"/>
+  </gen:link>
+</link:linkbase>

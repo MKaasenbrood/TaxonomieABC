@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:test-t="http://www.nltaxonomie.nl/domein/test/tuples/test-tuples" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/domein/test/tuples/test-tuples">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-tuples-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" schemaLocation="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:element abstract="false" id="test-t_TupleA" name="TupleA" nillable="false" substitutionGroup="sbr:presentationTuple"/>
+  <xs:element abstract="false" id="test-t_TupleB" name="TupleB" nillable="false" substitutionGroup="sbr:specificationTuple"/>
+</xs:schema>

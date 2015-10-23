@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:test:linkrole:domain-a" xlink:href="test-linkroles-domains.xsd#test_dlrd_LinkroleDomainA" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
+  <link:definitionLink xlink:role="urn:test:linkrole:domain-a" xlink:type="extended">
+    <link:definitionArc order="1" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="test-dm_DomainA_loc" xlink:to="test-dm_MemberA_loc" xlink:type="arc"/>
+    <link:definitionArc order="1" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="test-dm_DomainA_loc" xlink:to="test-dm_MemberB_loc" xlink:type="arc"/>
+    <link:definitionArc order="2" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="test-dm_DomainA_loc" xlink:to="test-dm_MemberC_loc" xlink:type="arc"/>
+    <link:loc xlink:href="../domains/test-domains.xsd#test-dm_DomainA" xlink:label="test-dm_DomainA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../domains/test-domains.xsd#test-dm_MemberA" xlink:label="test-dm_MemberA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../domains/test-domains.xsd#test-dm_MemberB" xlink:label="test-dm_MemberB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../domains/test-domains.xsd#test-dm_MemberC" xlink:label="test-dm_MemberC_loc" xlink:type="locator"/>
+  </link:definitionLink>
+</link:linkbase>

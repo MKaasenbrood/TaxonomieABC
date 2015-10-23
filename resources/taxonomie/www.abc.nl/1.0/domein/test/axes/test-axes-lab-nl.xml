@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="test-dim_DimensionA_label_nl" xlink:label="test-dim_DimensionA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie A</link:label>
+    <link:label id="test-dim_DimensionB_label_nl" xlink:label="test-dim_DimensionB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie B</link:label>
+    <link:label id="test-dim_DimensionC_label_nl" xlink:label="test-dim_DimensionC_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie C</link:label>
+    <link:label id="test-dim_DimensionD_label_nl" xlink:label="test-dim_DimensionD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie D</link:label>
+    <link:label id="test-dim_DimensionE_label_nl" xlink:label="test-dim_DimensionE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie E</link:label>
+    <link:label id="test-dim_DimensionF_label_nl" xlink:label="test-dim_DimensionF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie F</link:label>
+    <link:label id="test-dim_DimensionG_label_nl" xlink:label="test-dim_DimensionG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie G</link:label>
+    <link:label id="test-dim_DimensionH_label_nl" xlink:label="test-dim_DimensionH_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Dimensie H</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionA_loc" xlink:to="test-dim_DimensionA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionB_loc" xlink:to="test-dim_DimensionB_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionC_loc" xlink:to="test-dim_DimensionC_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionD_loc" xlink:to="test-dim_DimensionD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionE_loc" xlink:to="test-dim_DimensionE_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionF_loc" xlink:to="test-dim_DimensionF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionG_loc" xlink:to="test-dim_DimensionG_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-dim_DimensionH_loc" xlink:to="test-dim_DimensionH_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionA" xlink:label="test-dim_DimensionA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionB" xlink:label="test-dim_DimensionB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionC" xlink:label="test-dim_DimensionC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionD" xlink:label="test-dim_DimensionD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionE" xlink:label="test-dim_DimensionE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionF" xlink:label="test-dim_DimensionF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionG" xlink:label="test-dim_DimensionG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-axes.xsd#test-dim_DimensionH" xlink:label="test-dim_DimensionH_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

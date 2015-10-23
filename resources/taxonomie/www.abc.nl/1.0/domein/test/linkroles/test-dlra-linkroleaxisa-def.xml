@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:test:linkrole:axis-a" xlink:href="test-linkroles-axes.xsd#test_dlra_LinkroleAxisA" xlink:type="simple"/>
+  <link:roleRef roleURI="urn:test:linkrole:domain-a" xlink:href="../../../basis/test/linkroles/test-linkroles-domains.xsd#test_dlrd_LinkroleDomainA" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+  <link:definitionLink xlink:role="urn:test:linkrole:axis-a" xlink:type="extended">
+    <link:definitionArc order="1" xbrldt:targetRole="urn:test:linkrole:domain-a" xbrldt:usable="false" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="test-dim_DimensionA_loc" xlink:to="test-dm_DomainA_loc" xlink:type="arc"/>
+    <link:loc xlink:href="../axes/test-axes.xsd#test-dim_DimensionA" xlink:label="test-dim_DimensionA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/domains/test-domains.xsd#test-dm_DomainA" xlink:label="test-dm_DomainA_loc" xlink:type="locator"/>
+  </link:definitionLink>
+</link:linkbase>

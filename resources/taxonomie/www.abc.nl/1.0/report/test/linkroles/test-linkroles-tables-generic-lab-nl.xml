@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:label="http://xbrl.org/2008/label" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/label http://www.xbrl.org/2008/generic-label.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#standard-label" xlink:type="simple"/>
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableA_loc" xlink:to="test_dlr_LinkroleTableA_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableB_loc" xlink:to="test_dlr_LinkroleTableB_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableC_loc" xlink:to="test_dlr_LinkroleTableC_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableD_loc" xlink:to="test_dlr_LinkroleTableD_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableE_loc" xlink:to="test_dlr_LinkroleTableE_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableF_loc" xlink:to="test_dlr_LinkroleTableF_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableG_loc" xlink:to="test_dlr_LinkroleTableG_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableH_loc" xlink:to="test_dlr_LinkroleTableH_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableI_loc" xlink:to="test_dlr_LinkroleTableI_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="test_dlr_LinkroleTableJ_loc" xlink:to="test_dlr_LinkroleTableJ_label_nl" xlink:type="arc"/>
+    <label:label id="test_dlr_LinkroleTableA_label_nl" xlink:label="test_dlr_LinkroleTableA_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel A</label:label>
+    <label:label id="test_dlr_LinkroleTableB_label_nl" xlink:label="test_dlr_LinkroleTableB_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel B</label:label>
+    <label:label id="test_dlr_LinkroleTableC_label_nl" xlink:label="test_dlr_LinkroleTableC_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel C</label:label>
+    <label:label id="test_dlr_LinkroleTableD_label_nl" xlink:label="test_dlr_LinkroleTableD_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel D</label:label>
+    <label:label id="test_dlr_LinkroleTableE_label_nl" xlink:label="test_dlr_LinkroleTableE_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel E</label:label>
+    <label:label id="test_dlr_LinkroleTableF_label_nl" xlink:label="test_dlr_LinkroleTableF_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel F</label:label>
+    <label:label id="test_dlr_LinkroleTableG_label_nl" xlink:label="test_dlr_LinkroleTableG_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel G</label:label>
+    <label:label id="test_dlr_LinkroleTableH_label_nl" xlink:label="test_dlr_LinkroleTableH_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel H</label:label>
+    <label:label id="test_dlr_LinkroleTableI_label_nl" xlink:label="test_dlr_LinkroleTableI_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel I</label:label>
+    <label:label id="test_dlr_LinkroleTableJ_label_nl" xlink:label="test_dlr_LinkroleTableJ_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Tabel J</label:label>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableA" xlink:label="test_dlr_LinkroleTableA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableB" xlink:label="test_dlr_LinkroleTableB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableC" xlink:label="test_dlr_LinkroleTableC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableD" xlink:label="test_dlr_LinkroleTableD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableE" xlink:label="test_dlr_LinkroleTableE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableF" xlink:label="test_dlr_LinkroleTableF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableG" xlink:label="test_dlr_LinkroleTableG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableH" xlink:label="test_dlr_LinkroleTableH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableI" xlink:label="test_dlr_LinkroleTableI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-linkroles-tables.xsd#test_dlr_LinkroleTableJ" xlink:label="test_dlr_LinkroleTableJ_loc" xlink:type="locator"/>
+  </gen:link>
+</link:linkbase>

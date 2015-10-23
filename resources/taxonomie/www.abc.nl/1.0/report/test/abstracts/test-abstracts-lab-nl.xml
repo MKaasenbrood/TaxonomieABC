@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="test-abstr_TitleA_label_nl" xlink:label="test-abstr_TitleA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel A</link:label>
+    <link:label id="test-abstr_TitleB_label_nl" xlink:label="test-abstr_TitleB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel B</link:label>
+    <link:label id="test-abstr_TitleC_label_nl" xlink:label="test-abstr_TitleC_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel C</link:label>
+    <link:label id="test-abstr_TitleD_label_nl" xlink:label="test-abstr_TitleD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel D</link:label>
+    <link:label id="test-abstr_TitleE_label_nl" xlink:label="test-abstr_TitleE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel E</link:label>
+    <link:label id="test-abstr_TitleF_label_nl" xlink:label="test-abstr_TitleF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel F</link:label>
+    <link:label id="test-abstr_TitleG_label_nl" xlink:label="test-abstr_TitleG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel G</link:label>
+    <link:label id="test-abstr_TitleH_label_nl" xlink:label="test-abstr_TitleH_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel H</link:label>
+    <link:label id="test-abstr_TitleI_label_nl" xlink:label="test-abstr_TitleI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel I</link:label>
+    <link:label id="test-abstr_TitleJ_label_nl" xlink:label="test-abstr_TitleJ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel J</link:label>
+	<link:label id="test-abstr_TitleMoney_label_nl" xlink:label="test-abstr_TitleMoney_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Titel Geld</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleA_loc" xlink:to="test-abstr_TitleA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleB_loc" xlink:to="test-abstr_TitleB_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleC_loc" xlink:to="test-abstr_TitleC_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleD_loc" xlink:to="test-abstr_TitleD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleE_loc" xlink:to="test-abstr_TitleE_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleF_loc" xlink:to="test-abstr_TitleF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleG_loc" xlink:to="test-abstr_TitleG_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleH_loc" xlink:to="test-abstr_TitleH_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleI_loc" xlink:to="test-abstr_TitleI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleJ_loc" xlink:to="test-abstr_TitleJ_label_nl" xlink:type="arc"/>
+	<link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="test-abstr_TitleMoney_loc" xlink:to="test-abstr_TitleMoney_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleA" xlink:label="test-abstr_TitleA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleB" xlink:label="test-abstr_TitleB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleC" xlink:label="test-abstr_TitleC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleD" xlink:label="test-abstr_TitleD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleE" xlink:label="test-abstr_TitleE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleF" xlink:label="test-abstr_TitleF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleG" xlink:label="test-abstr_TitleG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleH" xlink:label="test-abstr_TitleH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleI" xlink:label="test-abstr_TitleI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleJ" xlink:label="test-abstr_TitleJ_loc" xlink:type="locator"/>
+	<link:loc xlink:href="test-abstracts.xsd#test-abstr_TitleMoney" xlink:label="test-abstr_TitleMoney_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

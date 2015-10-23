@@ -1,0 +1,6 @@
+{"type":"namespace-mapping","from":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-a1","to":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-tables-formulas",}
+{"type":"id-changed","from":"test-rpt-epa1","to":"test-rpt-eptf",}
+{"type":"id-changed","from":"test-rpt-eptf","to":"test-rpt-epa1",}
+{"type":"namespace-mapping","from":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-tables-formulas","to":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-a1",}
+{"type":"namespace-mapping","from":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-a1","to":"http://www.nltaxonomie.nl/report/test/entrypoints/algemeen/test-rpt-entrypoint-tables-formulas",}
+{"type":"id-changed","from":"test-rpt-epa1","to":"test-rpt-eptf",}

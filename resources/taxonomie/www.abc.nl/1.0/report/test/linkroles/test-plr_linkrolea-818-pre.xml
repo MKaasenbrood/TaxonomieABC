@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:test:linkrole:a" xlink:href="test-linkroles-pre.xsd#test-plr_LinkroleA" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:test:linkrole:a" xlink:type="extended">
+    <link:loc xlink:href="../abstracts/test-abstracts.xsd#test-abstr_TitleA" xlink:label="test-abstr_TitleA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptG" xlink:label="test-i_ConceptG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptH" xlink:label="test-i_ConceptH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptI" xlink:label="test-i_ConceptI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptJ" xlink:label="test-i_ConceptJ_loc" xlink:type="locator"/>
+    <link:presentationArc order="7" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleA_loc" xlink:to="test-i_ConceptG_loc" xlink:type="arc"/>
+    <link:presentationArc order="8" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleA_loc" xlink:to="test-i_ConceptH_loc" xlink:type="arc"/>
+    <link:presentationArc order="9" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleA_loc" xlink:to="test-i_ConceptI_loc" xlink:type="arc"/>
+    <link:presentationArc order="10" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleA_loc" xlink:to="test-i_ConceptJ_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>

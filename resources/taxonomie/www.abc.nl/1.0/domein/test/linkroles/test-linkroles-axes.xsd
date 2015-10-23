@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:test-dlra="http://www.nltaxonomie.nl/domein/test/linkroles/test-linkroles-axes" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/domein/test/linkroles/test-linkroles-axes">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-linkroles-axes-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
+      <link:roleType id="test_dlra_LinkroleAxisA" roleURI="urn:test:linkrole:axis-a">
+        <link:definition>As A</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisB" roleURI="urn:test:linkrole:axis-b">
+        <link:definition>As B</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisC" roleURI="urn:test:linkrole:axis-c">
+        <link:definition>As C</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisD" roleURI="urn:test:linkrole:axis-d">
+        <link:definition>As D</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisE" roleURI="urn:test:linkrole:axis-e">
+        <link:definition>As E</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisF" roleURI="urn:test:linkrole:axis-f">
+        <link:definition>As F</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisG" roleURI="urn:test:linkrole:axis-g">
+        <link:definition>As G</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisH" roleURI="urn:test:linkrole:axis-h">
+        <link:definition>As H</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisI" roleURI="urn:test:linkrole:axis-i">
+        <link:definition>As I</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="test_dlra_LinkroleAxisJ" roleURI="urn:test:linkrole:axis-j">
+        <link:definition>As J</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+</xs:schema>

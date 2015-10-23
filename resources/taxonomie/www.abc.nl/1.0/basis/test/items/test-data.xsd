@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:test-i="http://www.nltaxonomie.nl/basis/test/items/test-data" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/basis/test/items/test-data">
+	<xs:annotation>
+		<xs:appinfo>
+			<link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-data-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+			<link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-data-periodend-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+			<link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-data-periodstart-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+			<link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-data-terse-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+			<link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-data-ref.xml" xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef" xlink:type="simple"/>
+		</xs:appinfo>
+	</xs:annotation>
+	<xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+	<xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+	<xs:element abstract="false" id="test-i_ConceptA" name="ConceptA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptB" name="ConceptB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptC" name="ConceptC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptD" name="ConceptD" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptE" name="ConceptE" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptF" name="ConceptF" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptG" name="ConceptG" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptH" name="ConceptH" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptI" name="ConceptI" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptJ" name="ConceptJ" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptK" name="ConceptK" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptL" name="ConceptL" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptM" name="ConceptM" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptN" name="ConceptN" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptO" name="ConceptO" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptP" name="ConceptP" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptQ" name="ConceptQ" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptR" name="ConceptR" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptS" name="ConceptS" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptT" name="ConceptT" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptU" name="ConceptU" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptV" name="ConceptV" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptW" name="ConceptW" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptX" name="ConceptX" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptY" name="ConceptY" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptZ" name="ConceptZ" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptMoneyA" name="ConceptMoneyA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptMoneyB" name="ConceptMoneyB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="instant"/>
+	<xs:element abstract="false" id="test-i_ConceptMoneyC" name="ConceptMoneyC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="instant"/>
+</xs:schema>

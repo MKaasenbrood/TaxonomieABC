@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:test:linkrole:b" xlink:href="test-linkroles-pre.xsd#test-plr_LinkroleB" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:test:linkrole:b" xlink:type="extended">
+    <link:loc xlink:href="../abstracts/test-abstracts.xsd#test-abstr_TitleB" xlink:label="test-abstr_TitleB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptK" xlink:label="test-i_ConceptK_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptL" xlink:label="test-i_ConceptL_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptM" xlink:label="test-i_ConceptM_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptN" xlink:label="test-i_ConceptN_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptO" xlink:label="test-i_ConceptO_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../../../basis/test/items/test-data.xsd#test-i_ConceptP" xlink:label="test-i_ConceptP_loc" xlink:type="locator"/>
+    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptK_loc" xlink:type="arc"/>
+    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptL_loc" xlink:type="arc"/>
+    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptM_loc" xlink:type="arc"/>
+    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptN_loc" xlink:type="arc"/>
+    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptO_loc" xlink:type="arc"/>
+    <link:presentationArc order="6" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="test-abstr_TitleB_loc" xlink:to="test-i_ConceptP_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>
