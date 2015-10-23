@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="urn:form:viewedBy" xlink:href="formontology.xsd#fo_viewedBy" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:form:viewedBy" xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_viewedBy" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="urn:form:viewedBy" xlink:from="abc-table_AbcPeriod_loc" xlink:to="fa_SomeTable_loc" xlink:type="arc"/>
-    <link:loc xlink:href="report/test/tables/abc-period-table.xml#abc-table_AbcPeriod" xlink:label="abc-table_AbcPeriod_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.abc.nl/1.0/tables/abc-period-table.xml#abc-table_AbcPeriod" xlink:label="abc-table_AbcPeriod_loc" xlink:type="locator"/>
     <link:loc xlink:href="formabc.xsd#fa_SomeTable" xlink:label="fa_SomeTable_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

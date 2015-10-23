@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="urn:form:contains" xlink:href="formontology.xsd#fo_contains" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:form:contains" xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_contains" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="urn:form:contains" xlink:from="fa_MyForm_loc" xlink:to="fa_Page1_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:form:contains" xlink:from="fa_MyForm_loc" xlink:to="fa_Page2_loc" xlink:type="arc"/>

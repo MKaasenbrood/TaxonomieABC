@@ -10,8 +10,8 @@
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="formabc-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="formabc-generic-type.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="formabc-generic-uses.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
-      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="report/test/tables/abc-dims-table.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
-      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="report/test/tables/abc-period-table.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="http://www.abc.nl/1.0/tables/abc-dims-table.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="http://www.abc.nl/1.0/tables/abc-period-table.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="test-rpt-entrypoint-tables-formulas-generic-viewedby.xml" xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="simple"/>
     </xs:appinfo>
   </xs:annotation>

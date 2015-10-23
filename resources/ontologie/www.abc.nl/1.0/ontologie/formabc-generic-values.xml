@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <link:linkbase xmlns:ebpi="http://www.ebpi.nl/2015/meta-ontology" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ebpi.nl/2015/meta-ontology http://www.ebpi.nl/2015/meta-ontology.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="urn:form:description" xlink:href="formontology.xsd#fo_description" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:form:description" xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_description" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <ebpi:genericValue id="Lorem_ipsum_dolor_sit_amet__no_eirmod_cetero_se" xlink:label="Lorem_ipsum_dolor_sit_amet__no_eirmod_cetero_se" xlink:type="resource">Lorem ipsum dolor sit amet, no eirmod cetero se</ebpi:genericValue>
     <gen:arc xlink:arcrole="urn:form:description" xlink:from="fa_Page1_loc" xlink:to="Lorem_ipsum_dolor_sit_amet__no_eirmod_cetero_se" xlink:type="arc"/>

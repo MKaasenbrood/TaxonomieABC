@@ -5,6 +5,6 @@
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="urn:uses" xlink:from="http://www.ebpi.nl/formabc_loc" xlink:to="http://www.ebpi.nl/formontology_loc" xlink:type="arc"/>
     <link:loc xlink:href="formabc.xsd#/" xlink:label="http://www.ebpi.nl/formabc_loc" xlink:type="locator"/>
-    <link:loc xlink:href="formontology.xsd#/" xlink:label="http://www.ebpi.nl/formontology_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#/" xlink:label="http://www.ebpi.nl/formontology_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

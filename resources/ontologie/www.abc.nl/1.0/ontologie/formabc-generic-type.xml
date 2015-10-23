@@ -14,9 +14,9 @@
     <link:loc xlink:href="formabc.xsd#fa_Page1" xlink:label="fa_Page1_loc" xlink:type="locator"/>
     <link:loc xlink:href="formabc.xsd#fa_Page2" xlink:label="fa_Page2_loc" xlink:type="locator"/>
     <link:loc xlink:href="formabc.xsd#fa_SomeTable" xlink:label="fa_SomeTable_loc" xlink:type="locator"/>
-    <link:loc xlink:href="formontology.xsd#fo_FormSection" xlink:label="fo_FormSection_loc" xlink:type="locator"/>
-    <link:loc xlink:href="formontology.xsd#fo_Form" xlink:label="fo_Form_loc" xlink:type="locator"/>
-    <link:loc xlink:href="formontology.xsd#fo_Table" xlink:label="fo_Table_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_FormSection" xlink:label="fo_FormSection_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_Form" xlink:label="fo_Form_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.ebpi.nl/1.0/ontologie/formontology.xsd#fo_Table" xlink:label="fo_Table_loc" xlink:type="locator"/>
     <link:loc xlink:href="formabc.xsd#/" xlink:label="http://www.ebpi.nl/formabc_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.ebpi.nl/2015/meta-ontology.xsd#meta_Ontology" xlink:label="meta_Ontology_loc" xlink:type="locator"/>
   </gen:link>
