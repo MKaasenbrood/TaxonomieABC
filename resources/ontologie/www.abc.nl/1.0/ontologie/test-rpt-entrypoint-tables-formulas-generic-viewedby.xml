@@ -5,6 +5,6 @@
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="urn:form:viewedBy" xlink:from="test-rpt-eptf_loc" xlink:to="fa_MyForm_loc" xlink:type="arc"/>
     <link:loc xlink:href="formabc.xsd#fa_MyForm" xlink:label="fa_MyForm_loc" xlink:type="locator"/>
-    <link:loc xlink:href="http://www.abc.nl/1.0/entrypoints/algemeen/test-rpt-entrypoint-tables-formulas.xsd#test-rpt-eptf" xlink:label="test-rpt-eptf_loc" xlink:type="locator"/>
+    <link:loc xlink:href="http://www.abc.nl/1.0/report/test/entrypoints/algemeen/test-rpt-entrypoint-tables-formulas.xsd#test-rpt-eptf" xlink:label="test-rpt-eptf_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>
