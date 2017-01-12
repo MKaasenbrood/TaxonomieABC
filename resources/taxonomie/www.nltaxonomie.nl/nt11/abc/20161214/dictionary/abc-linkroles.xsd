@@ -3,6 +3,12 @@
   <xs:annotation>
     <xs:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkroles-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:roleType id="abc-lr_ARequiredFields" roleURI="urn:abc:linkrole:arequired-fields">
+        <link:definition>Benodigde velden</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_BoPCommercial" roleURI="urn:abc:linkrole:bo-pcommercial">
         <link:definition>BoPC</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
@@ -49,12 +55,6 @@
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleMovement" roleURI="urn:abc:linkrole:linkrole-movement">
         <link:definition>Linkrole 8</link:definition>
-        <link:usedOn>gen:link</link:usedOn>
-        <link:usedOn>link:definitionLink</link:usedOn>
-        <link:usedOn>link:presentationLink</link:usedOn>
-      </link:roleType>
-      <link:roleType id="abc-lr_LinkroleRequiredFields" roleURI="urn:abc:linkrole:linkrole-required-fields">
-        <link:definition>Benodigde velden</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>

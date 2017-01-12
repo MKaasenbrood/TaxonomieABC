@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <link:roleRef roleURI="urn:abc:linkrole:linkrole-required-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:type="simple"/>
-  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-required-fields" xlink:type="extended"/>
-</link:linkbase>
