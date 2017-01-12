@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <link:roleRef roleURI="urn:abc:linkrole:linkrole-breakdown2" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:type="simple"/>
-  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-breakdown2" xlink:type="extended">
-    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRoot" xlink:label="abc-abstr_AbstractRoot_loc" xlink:type="locator"/>
-    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRoot_loc" xlink:type="arc"/>
-  </link:presentationLink>
-</link:linkbase>

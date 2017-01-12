@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<xs:schema xmlns:abc-i="http://www.abc.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nl-types="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.abc.nl/nt11/abc/20161214/dictionary/abc-data">
+<xs:schema xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nl-types="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data">
   <xs:annotation>
     <xs:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
@@ -12,9 +12,9 @@
   <xs:import namespace="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" schemaLocation="../../../sbr/20160610/dictionary/nl-types.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
-  <xs:element abstract="false" id="abc-i_ConceptDateA" name="ConceptDateA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType"/>
-  <xs:element abstract="false" id="abc-i_ConceptDateB" name="ConceptDateB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType"/>
-  <xs:element abstract="false" id="abc-i_ConceptDateC" name="ConceptDateC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType"/>
+  <xs:element abstract="false" id="abc-i_ConceptDateA" name="ConceptDateA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptDateB" name="ConceptDateB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptDateC" name="ConceptDateC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyACD" name="ConceptMoneyACD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyACI" name="ConceptMoneyACI" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="instant"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyADD" name="ConceptMoneyADD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>

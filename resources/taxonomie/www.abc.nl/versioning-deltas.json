@@ -418,3 +418,13 @@
 {"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-data","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-data",}
 {"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-linkroles","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-linkroles",}
 {"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-axes","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-axes",}
+{"type":"text-mapping","from":"5.0","to":"3.0",}
+{"type":"text-mapping","from":"5.5","to":"4.0",}
+{"type":"text-mapping","from":"0.5","to":"1.0",}
+{"type":"text-mapping","from":"4.0","to":"2.0",}
+{"type":"text-mapping","from":"5.75","to":"5.0",}
+{"type":"text-mapping","from":"Linkrole ","to":"Linkrole",}
+{"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodPreviousEndDate",}
+{"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodCurrentStartDate",}
+{"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodCurrentEndDate",}
+{"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodPreviousStartDate",}

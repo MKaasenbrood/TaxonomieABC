@@ -29,7 +29,7 @@
     <label:label id="abc-lr_LinkroleAdimDates_label_nl" xlink:label="abc-lr_LinkroleAdimDates_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 6</label:label>
     <label:label id="abc-lr_LinkroleBreakdown2_label_nl" xlink:label="abc-lr_LinkroleBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 7</label:label>
     <label:label id="abc-lr_LinkroleMovement_label_nl" xlink:label="abc-lr_LinkroleMovement_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 8</label:label>
-    <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole </label:label>
+    <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole</label:label>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPCommercial" xlink:label="abc-lr_BoPCommercial_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPFiscal" xlink:label="abc-lr_BoPFiscal_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_ClassesOfStuff" xlink:label="abc-lr_ClassesOfStuff_loc" xlink:type="locator"/>
