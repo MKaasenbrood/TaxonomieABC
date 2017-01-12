@@ -15,7 +15,7 @@
 	<name>Taxonomie ABC - ${taxonomy.version} - ontology - husky</name>
 
 	<properties>
-		<portal.entrypoint>http://www.nltaxonomie.nl/${nta.version}/kvk/${taxonomy.version}/ontology/abc-rpt-test2017-portal.xsd</portal.entrypoint>
+		<portal.entrypoint>http://www.nltaxonomie.nl/${nta.version}/abc/${taxonomy.version}/ontology/abc-rpt-test2017-portal.xsd</portal.entrypoint>
 	</properties>
 
 	<dependencies>
