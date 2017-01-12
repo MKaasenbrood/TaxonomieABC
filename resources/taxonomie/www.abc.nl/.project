@@ -3,6 +3,7 @@
 	<name>ABC</name>
 	<comment></comment>
 	<projects>
+		<project>NT11SBR</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>

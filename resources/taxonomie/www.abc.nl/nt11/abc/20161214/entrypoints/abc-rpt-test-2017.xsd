@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<xs:schema xmlns:abc-rpt-t2017="http://www.abc.nl/2.0/abc/20170111/entrypoints/abc-rpt-test-2017" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" id="abc-rpt-t2017" targetNamespace="http://www.abc.nl/2.0/abc/20170111/entrypoints/abc-rpt-test-2017">
+<xs:schema xmlns:abc-rpt-t2017="http://www.abc.nl/nt11/abc/20161214/entrypoints/abc-rpt-test-2017" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" id="abc-rpt-t2017" targetNamespace="http://www.abc.nl/nt11/abc/20161214/entrypoints/abc-rpt-test-2017">
   <xs:annotation>
     <xs:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="../validation/abc-bo-pcommercial-def.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>

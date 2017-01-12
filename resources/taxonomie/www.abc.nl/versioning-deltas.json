@@ -412,3 +412,9 @@
 {"type":"text-mapping","from":"1.0","to":"6.25",}
 {"type":"text-mapping","from":"6.5","to":"5.75",}
 {"type":"text-mapping","from":"6.25","to":"5.5",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/entrypoints/abc-rpt-test-2017","to":"http://www.abc.nl/nt11/abc/20161214/entrypoints/abc-rpt-test-2017",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/presentation/abc-abstracts","to":"http://www.abc.nl/nt11/abc/20161214/presentation/abc-abstracts",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-domains","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-domains",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-data","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-data",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-linkroles","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-linkroles",}
+{"type":"namespace-mapping","from":"http://www.abc.nl/2.0/abc/20170111/dictionary/abc-axes","to":"http://www.abc.nl/nt11/abc/20161214/dictionary/abc-axes",}
