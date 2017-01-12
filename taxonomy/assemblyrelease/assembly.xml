@@ -19,6 +19,7 @@
 				<exclude>**/versioning-deltas.json</exclude>
 				<exclude>**/DocumentModel.xml</exclude>
 				<exclude>**/.settings/**</exclude>
+				<exclude>**/ontology/**</exclude>
 			</excludes>
 		</fileSet>
 	</fileSets>

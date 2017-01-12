@@ -15,7 +15,7 @@
 	<name>Taxonomie ABC - ${taxonomy.version} - ontology - husky</name>
 
 	<properties>
-		<portal.entrypoint></portal.entrypoint>
+		<portal.entrypoint>http://www.nltaxonomie.nl/${nta.version}/kvk/${taxonomy.version}/ontology/abc-rpt-test2017-portal.xsd</portal.entrypoint>
 	</properties>
 
 	<dependencies>
@@ -37,83 +37,10 @@
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>exec-maven-plugin</artifactId>
-				<version>1.4.0</version>
-				<dependencies>
-					<dependency>
-						<groupId>nl.ebpi.husky</groupId>
-						<artifactId>generator</artifactId>
-						<version>1.2</version>
-					</dependency>
-				</dependencies>
 				<executions>
 					<execution>
-						<id>husky-generator-1</id>
-						<goals>
-							<goal>java</goal>
-						</goals>
+						<id>husky-generator</id>
 						<phase>compile</phase>
-						<configuration>
-							<includeProjectDependencies>false</includeProjectDependencies>
-							<includePluginDependencies>true</includePluginDependencies>
-							<workingDirectory>${project.basedir}</workingDirectory>
-							<mainClass>nl.ebpi.husky.generator.HuskyGenerator</mainClass>
-							<arguments>
-								<argument>-taxoDir</argument>
-								<argument>${project.build.directory}/test-classes/taxonomie</argument>
-								<argument>-entrypoint</argument>
-								<argument>http://www.nltaxonomie.nl/${nta.version}/abc/${taxonomy.version}/ontology/abc-rpt-jaarstatistiek-voor-de-investeringen-2016-portal.xsd</argument>
-								<argument>-outputDir</argument>
-								<argument>${project.build.directory}/test-classes</argument>
-								<argument>--flatten-tables</argument>
-							</arguments>
-							<cleanupDaemonThreads>false</cleanupDaemonThreads>
-						</configuration>
-					</execution>
-					<execution>
-						<id>husky-generator-2</id>
-						<goals>
-							<goal>java</goal>
-						</goals>
-						<phase>compile</phase>
-						<configuration>
-							<includeProjectDependencies>false</includeProjectDependencies>
-							<includePluginDependencies>true</includePluginDependencies>
-							<workingDirectory>${project.basedir}</workingDirectory>
-							<mainClass>nl.ebpi.husky.generator.HuskyGenerator</mainClass>
-							<arguments>
-								<argument>-taxoDir</argument>
-								<argument>${project.build.directory}/test-classes/taxonomie</argument>
-								<argument>-entrypoint</argument>
-								<argument>http://www.nltaxonomie.nl/${nta.version}/abc/${taxonomy.version}/ontology/abc-rpt-jaarstatistiek-voor-de-productie-2016-portal.xsd</argument>
-								<argument>-outputDir</argument>
-								<argument>${project.build.directory}/test-classes</argument>
-								<argument>--flatten-tables</argument>
-							</arguments>
-							<cleanupDaemonThreads>false</cleanupDaemonThreads>
-						</configuration>
-					</execution>
-					<execution>
-						<id>husky-generator-3</id>
-						<goals>
-							<goal>java</goal>
-						</goals>
-						<phase>compile</phase>
-						<configuration>
-							<includeProjectDependencies>false</includeProjectDependencies>
-							<includePluginDependencies>true</includePluginDependencies>
-							<workingDirectory>${project.basedir}</workingDirectory>
-							<mainClass>nl.ebpi.husky.generator.HuskyGenerator</mainClass>
-							<arguments>
-								<argument>-taxoDir</argument>
-								<argument>${project.build.directory}/test-classes/taxonomie</argument>
-								<argument>-entrypoint</argument>
-								<argument>http://www.nltaxonomie.nl/${nta.version}/abc/${taxonomy.version}/ontology/abc-rpt-korte-termijnstatistiek-2017-portal.xsd</argument>
-								<argument>-outputDir</argument>
-								<argument>${project.build.directory}/test-classes</argument>
-								<argument>--flatten-tables</argument>
-							</arguments>
-							<cleanupDaemonThreads>false</cleanupDaemonThreads>
-						</configuration>
 					</execution>
 				</executions>
 			</plugin>

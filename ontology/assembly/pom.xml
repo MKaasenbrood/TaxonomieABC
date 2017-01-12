@@ -32,6 +32,13 @@
 			<type>zip</type>
 		</dependency>
 		<dependency>
+			<groupId>nl.taxonomie.sbr.abc.11.20161214.ontology</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<version>${project.version}</version>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+		<dependency>
 			<groupId>nl.taxonomie.sbr.bd.11.20161207.taxonomy</groupId>
 			<artifactId>assemblyrelease</artifactId>
 			<classifier>assembly</classifier>
@@ -40,13 +47,6 @@
 		<dependency>
 			<groupId>nl.taxonomie.sbr.bzk.11.20161214.taxonomy</groupId>
 			<artifactId>assemblyrelease</artifactId>
-			<classifier>assembly</classifier>
-			<type>zip</type>
-		</dependency>
-		<dependency>
-			<groupId>nl.taxonomie.sbr.abc.11.20161214.ontology</groupId>
-			<artifactId>assemblyrelease</artifactId>
-			<version>${project.version}</version>
 			<classifier>assembly</classifier>
 			<type>zip</type>
 		</dependency>
