@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:abc-lr="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-linkroles" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-linkroles">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkroles-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:roleType id="abc-lr_BoPCommercial" roleURI="urn:abc:linkrole:bo-pcommercial">
+        <link:definition>BoPC</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_BoPFiscal" roleURI="urn:abc:linkrole:bo-pfiscal">
+        <link:definition>BoPF</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_ClassesOfStuff" roleURI="urn:abc:linkrole:classes-of-stuff">
+        <link:definition>Klassen van stuffs</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_FSTConsolidated" roleURI="urn:abc:linkrole:fstconsolidated">
+        <link:definition>FSTC</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_FSTSeparate" roleURI="urn:abc:linkrole:fstseparate">
+        <link:definition>FSTS</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimDate2" roleURI="urn:abc:linkrole:linkrole-adim-date2">
+        <link:definition>Linkrole 3</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimDates" roleURI="urn:abc:linkrole:linkrole-adim-dates">
+        <link:definition>Linkrole 6</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimString" roleURI="urn:abc:linkrole:linkrole-adim-string">
+        <link:definition>Linkrole 1</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleBreakdown2" roleURI="urn:abc:linkrole:linkrole-breakdown2">
+        <link:definition>Linkrole 7</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleMovement" roleURI="urn:abc:linkrole:linkrole-movement">
+        <link:definition>Linkrole 8</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleString2" roleURI="urn:abc:linkrole:linkrole-string2">
+        <link:definition>Linkrole 4</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleString" roleURI="urn:abc:linkrole:linkrole-string">
+        <link:definition>Linkrole 2</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleTyped" roleURI="urn:abc:linkrole:linkrole-typed">
+        <link:definition>Linkrole 5</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:import namespace="http://xbrl.org/2008/generic" schemaLocation="http://www.xbrl.org/2008/generic-link.xsd"/>
+</xs:schema>

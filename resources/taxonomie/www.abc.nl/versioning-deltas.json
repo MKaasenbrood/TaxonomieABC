@@ -1,0 +1,414 @@
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ItemConcept",}
+{"type":"name-mapping","from":"ItemConcept_1","to":"StringConcept",}
+{"type":"id-changed","from":"abc-i_ItemConcept_1_label_en","to":"abc-i_StringConcept_label_en",}
+{"type":"id-changed","from":"abc-i_ItemConcept_1_label_nl","to":"abc-i_StringConcept_label_nl",}
+{"type":"id-changed","from":"abc-i_ItemConcept_1","to":"abc-i_StringConcept",}
+{"type":"text-mapping","from":"ItemConcept","to":"String",}
+{"type":"text-mapping","from":"ItemConcept","to":"String",}
+{"type":"id-changed","from":"venj-bw2-dim_null","to":"venj-bw2-dim_BasisOfPreparationAxis",}
+{"type":"id-changed","from":"venj-bw2-dm_null","to":"venj-bw2-dm_FinancialStatementsTypeAxis",}
+{"type":"id-changed","from":"venj-bw2-dm_null","to":"venj-bw2-dm_CommercialMember",}
+{"type":"id-changed","from":"venj-bw2-dm_null","to":"venj-bw2-dm_SeparateMember",}
+{"type":"name-mapping","from":"ConceptA_1","to":"ConceptAA",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_periodEndLabel_nl","to":"abc-i_ConceptAA_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_label_nl","to":"abc-i_ConceptAA_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_terseLabel_nl","to":"abc-i_ConceptAA_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_periodStartLabel_nl","to":"abc-i_ConceptAA_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1","to":"abc-i_ConceptAA",}
+{"type":"name-mapping","from":"ConceptAA","to":"ConceptA_1",}
+{"type":"id-changed","from":"abc-i_ConceptAA_periodEndLabel_nl","to":"abc-i_ConceptA_1_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptAA_label_nl","to":"abc-i_ConceptA_1_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptAA_terseLabel_nl","to":"abc-i_ConceptA_1_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptAA_periodStartLabel_nl","to":"abc-i_ConceptA_1_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptAA","to":"abc-i_ConceptA_1",}
+{"type":"name-mapping","from":"ConceptMoneyA","to":"ConceptMoneyAD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyA_label_nl","to":"abc-i_ConceptMoneyAD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyA","to":"abc-i_ConceptMoneyAD",}
+{"type":"name-mapping","from":"ConceptMoneyA_1","to":"ConceptMoneyAC",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyA_1_label_nl","to":"abc-i_ConceptMoneyAC_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyA_1","to":"abc-i_ConceptMoneyAC",}
+{"type":"name-mapping","from":"ConceptMoneyB_1","to":"ConceptMoneyBC",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyB_1_label_nl","to":"abc-i_ConceptMoneyBC_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyB_1","to":"abc-i_ConceptMoneyBC",}
+{"type":"name-mapping","from":"ConceptMoneyB","to":"ConceptMoneyBD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyB_label_nl","to":"abc-i_ConceptMoneyBD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyB","to":"abc-i_ConceptMoneyBD",}
+{"type":"name-mapping","from":"ConceptMoneyC_1","to":"ConceptMoneyCC",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyC_1_label_nl","to":"abc-i_ConceptMoneyCC_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyC_1","to":"abc-i_ConceptMoneyCC",}
+{"type":"name-mapping","from":"ConceptMoneyC","to":"ConceptMoneyCD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyC_label_nl","to":"abc-i_ConceptMoneyCD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyC","to":"abc-i_ConceptMoneyCD",}
+{"type":"name-mapping","from":"ConceptMoneyAC","to":"ConceptMoneyACI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyAC_label_nl","to":"abc-i_ConceptMoneyACI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyAC","to":"abc-i_ConceptMoneyACI",}
+{"type":"name-mapping","from":"ConceptMoneyAD","to":"ConceptMoneyADI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyAD_label_nl","to":"abc-i_ConceptMoneyADI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyAD","to":"abc-i_ConceptMoneyADI",}
+{"type":"name-mapping","from":"ConceptMoneyBC","to":"ConceptMoneyBCI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBC_label_nl","to":"abc-i_ConceptMoneyBCI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBC","to":"abc-i_ConceptMoneyBCI",}
+{"type":"name-mapping","from":"ConceptMoneyBD","to":"ConceptMoneyBDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBD_label_nl","to":"abc-i_ConceptMoneyBDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBD","to":"abc-i_ConceptMoneyBDI",}
+{"type":"name-mapping","from":"ConceptMoneyCC","to":"ConceptMoneyCCI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCC_label_nl","to":"abc-i_ConceptMoneyCCI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCC","to":"abc-i_ConceptMoneyCCI",}
+{"type":"name-mapping","from":"ConceptMoneyCD","to":"ConceptMoneyCDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCD_label_nl","to":"abc-i_ConceptMoneyCDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCD","to":"abc-i_ConceptMoneyCDI",}
+{"type":"name-mapping","from":"ConceptMoneyACI_1","to":"ConceptMoneyACD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyACI_1_label_nl","to":"abc-i_ConceptMoneyACD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyACI_1","to":"abc-i_ConceptMoneyACD",}
+{"type":"name-mapping","from":"ConceptMoneyADI_1","to":"ConceptMoneyADD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_1_label_nl","to":"abc-i_ConceptMoneyADD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_1","to":"abc-i_ConceptMoneyADD",}
+{"type":"name-mapping","from":"ConceptMoneyBDI_1","to":"ConceptMoneyBDD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBDI_1_label_nl","to":"abc-i_ConceptMoneyBDD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBDI_1","to":"abc-i_ConceptMoneyBDD",}
+{"type":"name-mapping","from":"ConceptMoneyBCI_1","to":"ConceptMoneyBCD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBCI_1_label_nl","to":"abc-i_ConceptMoneyBCD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyBCI_1","to":"abc-i_ConceptMoneyBCD",}
+{"type":"name-mapping","from":"ConceptMoneyCCI_1","to":"ConceptMoneyCCD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1_label_nl","to":"abc-i_ConceptMoneyCCD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1","to":"abc-i_ConceptMoneyCCD",}
+{"type":"name-mapping","from":"ConceptMoneyCDI_1","to":"ConceptMoneyCDD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1_label_nl","to":"abc-i_ConceptMoneyCDD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1","to":"abc-i_ConceptMoneyCDD",}
+{"type":"name-mapping","from":"ConceptA_1","to":"ConceptA",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_label_nl","to":"abc-i_ConceptA_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_periodEndLabel_nl","to":"abc-i_ConceptA_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_terseLabel_nl","to":"abc-i_ConceptA_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1_periodStartLabel_nl","to":"abc-i_ConceptA_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_1","to":"abc-i_ConceptA",}
+{"type":"name-mapping","from":"ConceptB_1","to":"ConceptB",}
+{"type":"id-changed","from":"abc-i_ConceptB_1_terseLabel_nl","to":"abc-i_ConceptB_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_1_periodEndLabel_nl","to":"abc-i_ConceptB_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_1_periodStartLabel_nl","to":"abc-i_ConceptB_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_1_label_nl","to":"abc-i_ConceptB_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_1","to":"abc-i_ConceptB",}
+{"type":"name-mapping","from":"ConceptC_1","to":"ConceptC",}
+{"type":"id-changed","from":"abc-i_ConceptC_1_terseLabel_nl","to":"abc-i_ConceptC_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_1_periodStartLabel_nl","to":"abc-i_ConceptC_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_1_label_nl","to":"abc-i_ConceptC_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_1_periodEndLabel_nl","to":"abc-i_ConceptC_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_1","to":"abc-i_ConceptC",}
+{"type":"name-mapping","from":"ConceptH_1","to":"ConceptH",}
+{"type":"id-changed","from":"abc-i_ConceptH_1_periodEndLabel_nl","to":"abc-i_ConceptH_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_1_label_nl","to":"abc-i_ConceptH_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_1_terseLabel_nl","to":"abc-i_ConceptH_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_1_periodStartLabel_nl","to":"abc-i_ConceptH_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_1","to":"abc-i_ConceptH",}
+{"type":"name-mapping","from":"ConceptM_1","to":"ConceptM",}
+{"type":"id-changed","from":"abc-i_ConceptM_1_terseLabel_nl","to":"abc-i_ConceptM_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_1_periodEndLabel_nl","to":"abc-i_ConceptM_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_1_periodStartLabel_nl","to":"abc-i_ConceptM_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_1_label_nl","to":"abc-i_ConceptM_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_1","to":"abc-i_ConceptM",}
+{"type":"name-mapping","from":"ConceptD_1","to":"ConceptD",}
+{"type":"id-changed","from":"abc-i_ConceptD_1_terseLabel_nl","to":"abc-i_ConceptD_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_1_periodEndLabel_nl","to":"abc-i_ConceptD_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_1_label_nl","to":"abc-i_ConceptD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_1_periodStartLabel_nl","to":"abc-i_ConceptD_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_1","to":"abc-i_ConceptD",}
+{"type":"name-mapping","from":"ConceptE_1","to":"ConceptE",}
+{"type":"id-changed","from":"abc-i_ConceptE_1_periodEndLabel_nl","to":"abc-i_ConceptE_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_1_terseLabel_nl","to":"abc-i_ConceptE_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_1_label_nl","to":"abc-i_ConceptE_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_1_periodStartLabel_nl","to":"abc-i_ConceptE_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_1","to":"abc-i_ConceptE",}
+{"type":"name-mapping","from":"ConceptL_1","to":"ConceptL",}
+{"type":"id-changed","from":"abc-i_ConceptL_1_periodEndLabel_nl","to":"abc-i_ConceptL_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_1_terseLabel_nl","to":"abc-i_ConceptL_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_1_label_nl","to":"abc-i_ConceptL_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_1_periodStartLabel_nl","to":"abc-i_ConceptL_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_1","to":"abc-i_ConceptL",}
+{"type":"name-mapping","from":"ConceptK_1","to":"ConceptK",}
+{"type":"id-changed","from":"abc-i_ConceptK_1_periodEndLabel_nl","to":"abc-i_ConceptK_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_1_label_nl","to":"abc-i_ConceptK_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_1_periodStartLabel_nl","to":"abc-i_ConceptK_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_1_terseLabel_nl","to":"abc-i_ConceptK_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_1","to":"abc-i_ConceptK",}
+{"type":"name-mapping","from":"ConceptJ_1","to":"ConceptJ",}
+{"type":"id-changed","from":"abc-i_ConceptJ_1_periodEndLabel_nl","to":"abc-i_ConceptJ_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_1_label_nl","to":"abc-i_ConceptJ_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_1_terseLabel_nl","to":"abc-i_ConceptJ_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_1_periodStartLabel_nl","to":"abc-i_ConceptJ_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_1","to":"abc-i_ConceptJ",}
+{"type":"name-mapping","from":"ConceptI_1","to":"ConceptI",}
+{"type":"id-changed","from":"abc-i_ConceptI_1_periodEndLabel_nl","to":"abc-i_ConceptI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_1_terseLabel_nl","to":"abc-i_ConceptI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_1_periodStartLabel_nl","to":"abc-i_ConceptI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_1_label_nl","to":"abc-i_ConceptI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_1","to":"abc-i_ConceptI",}
+{"type":"name-mapping","from":"ConceptG_1","to":"ConceptG",}
+{"type":"id-changed","from":"abc-i_ConceptG_1_label_nl","to":"abc-i_ConceptG_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_1_periodStartLabel_nl","to":"abc-i_ConceptG_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_1_terseLabel_nl","to":"abc-i_ConceptG_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_1_periodEndLabel_nl","to":"abc-i_ConceptG_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_1","to":"abc-i_ConceptG",}
+{"type":"name-mapping","from":"ConceptF_1","to":"ConceptF",}
+{"type":"id-changed","from":"abc-i_ConceptF_1_periodEndLabel_nl","to":"abc-i_ConceptF_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_1_terseLabel_nl","to":"abc-i_ConceptF_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_1_periodStartLabel_nl","to":"abc-i_ConceptF_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_1_label_nl","to":"abc-i_ConceptF_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_1","to":"abc-i_ConceptF",}
+{"type":"text-mapping","from":"Concept Geld A","to":"Concept Geld ADD",}
+{"type":"text-mapping","from":"Concept Geld A","to":"Concept Geld ADI",}
+{"type":"text-mapping","from":"Concept Geld A","to":"Concept Geld ACI",}
+{"type":"text-mapping","from":"Concept Geld A","to":"Concept Geld ACD",}
+{"type":"text-mapping","from":"Concept Geld B","to":"Concept Geld BCD",}
+{"type":"text-mapping","from":"Concept Geld C","to":"Concept Geld CCD",}
+{"type":"text-mapping","from":"Concept Geld C","to":"Concept Geld CDI",}
+{"type":"text-mapping","from":"Concept Geld C","to":"Concept Geld CDD",}
+{"type":"text-mapping","from":"Concept Geld B","to":"Concept Geld BCI",}
+{"type":"text-mapping","from":"Concept Geld C","to":"Concept Geld CCI",}
+{"type":"text-mapping","from":"Concept Geld B","to":"Concept Geld BDD",}
+{"type":"text-mapping","from":"Concept Geld B","to":"Concept Geld BDI",}
+{"type":"name-mapping","from":"ConceptA","to":"ConceptStringA",}
+{"type":"id-changed","from":"abc-i_ConceptA_periodEndLabel_nl","to":"abc-i_ConceptStringA_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_label_nl","to":"abc-i_ConceptStringA_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_terseLabel_nl","to":"abc-i_ConceptStringA_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA_periodStartLabel_nl","to":"abc-i_ConceptStringA_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptA","to":"abc-i_ConceptStringA",}
+{"type":"name-mapping","from":"ConceptB","to":"ConceptStringB",}
+{"type":"id-changed","from":"abc-i_ConceptB_terseLabel_nl","to":"abc-i_ConceptStringB_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_periodEndLabel_nl","to":"abc-i_ConceptStringB_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_label_nl","to":"abc-i_ConceptStringB_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB_periodStartLabel_nl","to":"abc-i_ConceptStringB_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptB","to":"abc-i_ConceptStringB",}
+{"type":"name-mapping","from":"ConceptC","to":"ConceptStringC",}
+{"type":"id-changed","from":"abc-i_ConceptC_terseLabel_nl","to":"abc-i_ConceptStringC_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_label_nl","to":"abc-i_ConceptStringC_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_periodStartLabel_nl","to":"abc-i_ConceptStringC_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC_periodEndLabel_nl","to":"abc-i_ConceptStringC_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptC","to":"abc-i_ConceptStringC",}
+{"type":"name-mapping","from":"ConceptM","to":"ConceptStringM",}
+{"type":"id-changed","from":"abc-i_ConceptM_terseLabel_nl","to":"abc-i_ConceptStringM_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_periodEndLabel_nl","to":"abc-i_ConceptStringM_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_periodStartLabel_nl","to":"abc-i_ConceptStringM_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM_label_nl","to":"abc-i_ConceptStringM_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptM","to":"abc-i_ConceptStringM",}
+{"type":"name-mapping","from":"ConceptL","to":"ConceptStringL",}
+{"type":"id-changed","from":"abc-i_ConceptL_periodEndLabel_nl","to":"abc-i_ConceptStringL_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_terseLabel_nl","to":"abc-i_ConceptStringL_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_label_nl","to":"abc-i_ConceptStringL_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL_periodStartLabel_nl","to":"abc-i_ConceptStringL_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptL","to":"abc-i_ConceptStringL",}
+{"type":"name-mapping","from":"ConceptK","to":"ConceptStringK",}
+{"type":"id-changed","from":"abc-i_ConceptK_periodEndLabel_nl","to":"abc-i_ConceptStringK_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_label_nl","to":"abc-i_ConceptStringK_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_periodStartLabel_nl","to":"abc-i_ConceptStringK_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK_terseLabel_nl","to":"abc-i_ConceptStringK_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptK","to":"abc-i_ConceptStringK",}
+{"type":"name-mapping","from":"ConceptJ","to":"ConceptStringJ",}
+{"type":"id-changed","from":"abc-i_ConceptJ_label_nl","to":"abc-i_ConceptStringJ_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_periodEndLabel_nl","to":"abc-i_ConceptStringJ_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_terseLabel_nl","to":"abc-i_ConceptStringJ_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ_periodStartLabel_nl","to":"abc-i_ConceptStringJ_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptJ","to":"abc-i_ConceptStringJ",}
+{"type":"name-mapping","from":"ConceptI","to":"ConceptStringI",}
+{"type":"id-changed","from":"abc-i_ConceptI_periodEndLabel_nl","to":"abc-i_ConceptStringI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_terseLabel_nl","to":"abc-i_ConceptStringI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_periodStartLabel_nl","to":"abc-i_ConceptStringI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI_label_nl","to":"abc-i_ConceptStringI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptI","to":"abc-i_ConceptStringI",}
+{"type":"name-mapping","from":"ConceptH","to":"ConceptStringH",}
+{"type":"id-changed","from":"abc-i_ConceptH_periodEndLabel_nl","to":"abc-i_ConceptStringH_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_label_nl","to":"abc-i_ConceptStringH_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_periodStartLabel_nl","to":"abc-i_ConceptStringH_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH_terseLabel_nl","to":"abc-i_ConceptStringH_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptH","to":"abc-i_ConceptStringH",}
+{"type":"name-mapping","from":"ConceptG","to":"ConceptStringG",}
+{"type":"id-changed","from":"abc-i_ConceptG_label_nl","to":"abc-i_ConceptStringG_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_periodStartLabel_nl","to":"abc-i_ConceptStringG_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_terseLabel_nl","to":"abc-i_ConceptStringG_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG_periodEndLabel_nl","to":"abc-i_ConceptStringG_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptG","to":"abc-i_ConceptStringG",}
+{"type":"name-mapping","from":"ConceptF","to":"ConceptStringF",}
+{"type":"id-changed","from":"abc-i_ConceptF_periodEndLabel_nl","to":"abc-i_ConceptStringF_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_terseLabel_nl","to":"abc-i_ConceptStringF_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_label_nl","to":"abc-i_ConceptStringF_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF_periodStartLabel_nl","to":"abc-i_ConceptStringF_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptF","to":"abc-i_ConceptStringF",}
+{"type":"name-mapping","from":"ConceptE","to":"ConceptStringE",}
+{"type":"id-changed","from":"abc-i_ConceptE_periodEndLabel_nl","to":"abc-i_ConceptStringE_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_terseLabel_nl","to":"abc-i_ConceptStringE_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_label_nl","to":"abc-i_ConceptStringE_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE_periodStartLabel_nl","to":"abc-i_ConceptStringE_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptE","to":"abc-i_ConceptStringE",}
+{"type":"name-mapping","from":"ConceptD","to":"ConceptStringD",}
+{"type":"id-changed","from":"abc-i_ConceptD_terseLabel_nl","to":"abc-i_ConceptStringD_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_periodEndLabel_nl","to":"abc-i_ConceptStringD_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_label_nl","to":"abc-i_ConceptStringD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD_periodStartLabel_nl","to":"abc-i_ConceptStringD_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptD","to":"abc-i_ConceptStringD",}
+{"type":"id-changed","from":"abc-abstr_null","to":"abc-abstr_AbstractA",}
+{"type":"name-mapping","from":"AbstractA_1","to":"MovementTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractA_1","to":"abc-abstr_MovementTitle",}
+{"type":"name-mapping","from":"AbstractA_2","to":"BeginTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractA_2","to":"abc-abstr_BeginTitle",}
+{"type":"name-mapping","from":"AbstractA_3","to":"EndTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractA_3","to":"abc-abstr_EndTitle",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 1",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 1",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 2",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 2",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 3",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 3",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 4",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 4",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 5",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 5",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 6",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 6",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 7",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 7",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 8",}
+{"type":"text-mapping","from":"Linkrole","to":"Linkrole 8",}
+{"type":"name-mapping","from":"AbstractA_4","to":"AbstractRoot",}
+{"type":"id-changed","from":"abc-abstr_AbstractA_4","to":"abc-abstr_AbstractRoot",}
+{"type":"id-changed","from":"abc-lr_Linkrole1_label_nl","to":"abc-lr_LinkroleAdim_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole1_rsc","to":"abc-lr_LinkroleAdim_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole1_label_en","to":"abc-lr_LinkroleAdim_label_en",}
+{"type":"text-mapping","from":"Linkrole 1","to":"Linkrole Adim",}
+{"type":"text-mapping","from":"Linkrole 1","to":"Linkrole Adim",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdim_rsc","to":"abc-lr_Linkrole1_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdim_label_en","to":"abc-lr_Linkrole1_label_en",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdim_label_nl","to":"abc-lr_Linkrole1_label_nl",}
+{"type":"text-mapping","from":"Linkrole Adim","to":"Linkrole 1",}
+{"type":"text-mapping","from":"Linkrole Adim","to":"Linkrole 1",}
+{"type":"text-mapping","from":".","to":"Concept Geld ACD",}
+{"type":"text-mapping","from":".","to":"Concept Geld ACD",}
+{"type":"text-mapping","from":".","to":"Concept Geld ACD",}
+{"type":"text-mapping","from":"Concept Geld ACD","to":"Concept Geld ACD, einde",}
+{"type":"text-mapping","from":"Concept Geld ACI","to":"Concept Geld ACI, einde",}
+{"type":"text-mapping","from":"Concept Geld ADD","to":"Concept Geld ADD, einde",}
+{"type":"text-mapping","from":"Concept Geld ADI","to":"Concept Geld ADI, einde",}
+{"type":"text-mapping","from":"Concept Geld BCD","to":"Concept Geld BCD, einde",}
+{"type":"text-mapping","from":"Concept Geld BCI","to":"Concept Geld BCI, einde",}
+{"type":"text-mapping","from":"Concept Geld BDD","to":"Concept Geld BDD, einde",}
+{"type":"text-mapping","from":"Concept Geld BDI","to":"Concept Geld BDI, einde",}
+{"type":"text-mapping","from":"Concept Geld CCD","to":"Concept Geld CCD, einde",}
+{"type":"text-mapping","from":"Concept Geld CCI","to":"Concept Geld CCI, einde",}
+{"type":"text-mapping","from":"Concept Geld CDD","to":"Concept Geld CDD, einde",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld CDI, einde",}
+{"type":"text-mapping","from":"Concept Geld ACD","to":"Concept Geld ACD, start",}
+{"type":"text-mapping","from":"Concept Geld ACI","to":"Concept Geld ACI, start",}
+{"type":"text-mapping","from":"Concept Geld ADD","to":"Concept Geld ADD, start",}
+{"type":"text-mapping","from":"Concept Geld ADI","to":"Concept Geld ADI, start",}
+{"type":"text-mapping","from":"Concept Geld BCD","to":"Concept Geld BCD, start",}
+{"type":"text-mapping","from":"Concept Geld BCI","to":"Concept Geld BCI, start",}
+{"type":"text-mapping","from":"Concept Geld BDD","to":"Concept Geld BDD, start",}
+{"type":"text-mapping","from":"Concept Geld BDI","to":"Concept Geld BDI, start",}
+{"type":"text-mapping","from":"Concept Geld CCD","to":"Concept Geld CCD, start",}
+{"type":"text-mapping","from":"Concept Geld CCI","to":"Concept Geld CCI, start",}
+{"type":"text-mapping","from":"Concept Geld CDD","to":", start",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld CDI, start",}
+{"type":"text-mapping","from":"Concept Geld ACD","to":"Concept Geld ACD, kort",}
+{"type":"text-mapping","from":"Concept Geld ACI","to":"Concept Geld ACI, kort",}
+{"type":"text-mapping","from":"Concept Geld ADD","to":"Concept Geld ADD, kort",}
+{"type":"text-mapping","from":"Concept Geld ADI","to":"Concept Geld ADI, kort",}
+{"type":"text-mapping","from":"Concept Geld BCD","to":"Concept Geld BCD, kort",}
+{"type":"text-mapping","from":"Concept Geld BCI","to":"Concept Geld BCI, kort",}
+{"type":"text-mapping","from":"Concept Geld BDD","to":"Concept Geld BDD, kort",}
+{"type":"text-mapping","from":"Concept Geld BDI","to":"Concept Geld BDI, kort",}
+{"type":"text-mapping","from":"Concept Geld CCD","to":"Concept Geld CCD, kort",}
+{"type":"text-mapping","from":"Concept Geld CCI","to":"Concept Geld CCI, kort",}
+{"type":"text-mapping","from":"Concept Geld CDD","to":"Concept Geld CDD, kort",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld CDI, kort",}
+{"type":"text-mapping","from":"3.063","to":"4.0",}
+{"type":"text-mapping","from":"3.5","to":"7.0",}
+{"type":"text-mapping","from":"3.25","to":"6.0",}
+{"type":"text-mapping","from":"4.0","to":"8.0",}
+{"type":"text-mapping","from":"3.125","to":"5.0",}
+{"type":"name-mapping","from":"CommercialMember_1","to":"FiscalMember",}
+{"type":"id-changed","from":"venj-bw2-dm_CommercialMember_1","to":"venj-bw2-dm_FiscalMember",}
+{"type":"name-mapping","from":"SeparateMember_1","to":"ConsolidatedMember_",}
+{"type":"id-changed","from":"venj-bw2-dm_SeparateMember_1","to":"venj-bw2-dm_ConsolidatedMember_",}
+{"type":"name-mapping","from":"ConsolidatedMember_","to":"ConsolidatedMember",}
+{"type":"id-changed","from":"venj-bw2-dm_ConsolidatedMember_","to":"venj-bw2-dm_ConsolidatedMember",}
+{"type":"id-changed","from":"venj-bw2-dm_null","to":"venj-bw2-dm_TypedMember",}
+{"type":"id-changed","from":"abc-lr_Linkrole5_label_nl","to":"abc-lr_LinkroleTyped_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole5_rsc","to":"abc-lr_LinkroleTyped_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole8_rsc","to":"abc-lr_LinkroleMovement_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole8_label_nl","to":"abc-lr_LinkroleMovement_label_nl",}
+{"type":"name-mapping","from":"ConceptMoneyCCI_1","to":"ConceptMoneyDCI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyDCI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyDCI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1_terseLabel_nl","to":"abc-i_ConceptMoneyDCI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1_label_nl","to":"abc-i_ConceptMoneyDCI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCCI_1","to":"abc-i_ConceptMoneyDCI",}
+{"type":"name-mapping","from":"ConceptMoneyCDI_1","to":"ConceptMoneyDDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyDDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyDDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyDDI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1_label_nl","to":"abc-i_ConceptMoneyDDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyCDI_1","to":"abc-i_ConceptMoneyDDI",}
+{"type":"name-mapping","from":"ConceptMoneyDCI_1","to":"ConceptMoneyFCI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDCI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyFCI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDCI_1_terseLabel_nl","to":"abc-i_ConceptMoneyFCI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDCI_1_label_nl","to":"abc-i_ConceptMoneyFCI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDCI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyFCI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDCI_1","to":"abc-i_ConceptMoneyFCI",}
+{"type":"name-mapping","from":"ConceptMoneyDDI_1","to":"ConceptMoneyFDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_label_nl","to":"abc-i_ConceptMoneyFDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyFDI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyFDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyFDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1","to":"abc-i_ConceptMoneyFDI",}
+{"type":"id-changed","from":"abc-lr_Linkrole7_rsc","to":"abc-lr_LinkroleBreakdown_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole7_label_nl","to":"abc-lr_LinkroleBreakdown_label_nl",}
+{"type":"text-mapping","from":"Typed as","to":"Typed member",}
+{"type":"id-changed","from":"abc-dim_null","to":"abc-dim_StuffAxes",}
+{"type":"id-changed","from":"abc-dm_null","to":"abc-dm_StuffMember",}
+{"type":"id-changed","from":"abc-lr_LinkroleBreakdown_rsc","to":"abc-lr_LinkroleBreakdown2kolom_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleBreakdown_label_nl","to":"abc-lr_LinkroleBreakdown2kolom_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole6_label_nl","to":"abc-lr_Linkrole_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole6_rsc","to":"abc-lr_Linkrole_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole1_rsc","to":"abc-lr_LinkroleAdim_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole1_label_nl","to":"abc-lr_LinkroleAdim_label_nl",}
+{"type":"name-mapping","from":"ConceptMoneyDDI_1","to":"ConceptMoneyGDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyGDI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyGDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_label_nl","to":"abc-i_ConceptMoneyGDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyGDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyDDI_1","to":"abc-i_ConceptMoneyGDI",}
+{"type":"name-mapping","from":"ConceptMoneyFDI","to":"ConceptMoneyHDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_label_nl","to":"abc-i_ConceptMoneyHDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_periodStartLabel_nl","to":"abc-i_ConceptMoneyHDI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_terseLabel_nl","to":"abc-i_ConceptMoneyHDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_periodEndLabel_nl","to":"abc-i_ConceptMoneyHDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI","to":"abc-i_ConceptMoneyHDI",}
+{"type":"name-mapping","from":"ConceptMoneyFDI_1","to":"ConceptMoneyGCI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_1_label_nl","to":"abc-i_ConceptMoneyGCI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyGCI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyGCI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyGCI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyFDI_1","to":"abc-i_ConceptMoneyGCI",}
+{"type":"id-changed","from":"abc-i_null","to":"_abc-i_null",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ConceptDateA",}
+{"type":"id-changed","from":"_abc-i_null","to":"abc-i_null",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ConceptDateB",}
+{"type":"id-changed","from":"abc-lr_Linkrole_label_nl","to":"abc-lr_LinkroleDates_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole_rsc","to":"abc-lr_LinkroleDates_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleDates_label_nl","to":"abc-lr_LinkroleAdimDates_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleDates_rsc","to":"abc-lr_LinkroleAdimDates_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdim_rsc","to":"abc-lr_LinkroleAdimString_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdim_label_nl","to":"abc-lr_LinkroleAdimString_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleBreakdown2kolom_rsc","to":"abc-lr_LinkroleBreakdown2_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleBreakdown2kolom_label_nl","to":"abc-lr_LinkroleBreakdown2_label_nl",}
+{"type":"name-mapping","from":"ConceptDateB_1","to":"ConceptDateC",}
+{"type":"id-changed","from":"abc-i_ConceptDateB_1","to":"abc-i_ConceptDateC",}
+{"type":"id-changed","from":"abc-lr_Linkrole2_rsc","to":"abc-lr_LinkroleString_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole2_label_nl","to":"abc-lr_LinkroleString_label_nl",}
+{"type":"id-changed","from":"abc-lr_Linkrole4_rsc","to":"abc-lr_LinkroleString2_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole4_label_nl","to":"abc-lr_LinkroleString2_label_nl",}
+{"type":"text-mapping","from":"Linkrole 3","to":"Linkrole ",}
+{"type":"id-changed","from":"abc-lr_Linkrole3_rsc","to":"abc-lr_LinkroleAdimDate2_rsc",}
+{"type":"id-changed","from":"abc-lr_Linkrole3_label_nl","to":"abc-lr_LinkroleAdimDate2_label_nl",}
+{"type":"text-mapping","from":"2.0","to":"0.5",}
+{"type":"text-mapping","from":"3.0","to":"6.5",}
+{"type":"text-mapping","from":"1.0","to":"6.25",}
+{"type":"text-mapping","from":"6.5","to":"5.75",}
+{"type":"text-mapping","from":"6.25","to":"5.5",}

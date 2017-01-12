@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-i_ConceptStringA_label_nl" xlink:label="abc-i_ConceptStringA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept A</link:label>
+    <link:label id="abc-i_ConceptStringB_label_nl" xlink:label="abc-i_ConceptStringB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept B</link:label>
+    <link:label id="abc-i_ConceptStringC_label_nl" xlink:label="abc-i_ConceptStringC_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept C</link:label>
+    <link:label id="abc-i_ConceptStringD_label_nl" xlink:label="abc-i_ConceptStringD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept D</link:label>
+    <link:label id="abc-i_ConceptStringE_label_nl" xlink:label="abc-i_ConceptStringE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept E</link:label>
+    <link:label id="abc-i_ConceptStringF_label_nl" xlink:label="abc-i_ConceptStringF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept F</link:label>
+    <link:label id="abc-i_ConceptStringG_label_nl" xlink:label="abc-i_ConceptStringG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept G</link:label>
+    <link:label id="abc-i_ConceptMoneyACD_label_nl" xlink:label="abc-i_ConceptMoneyACD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACD</link:label>
+    <link:label id="abc-i_ConceptMoneyACI_label_nl" xlink:label="abc-i_ConceptMoneyACI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACI</link:label>
+    <link:label id="abc-i_ConceptMoneyADD_label_nl" xlink:label="abc-i_ConceptMoneyADD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ADD</link:label>
+    <link:label id="abc-i_ConceptMoneyADI_label_nl" xlink:label="abc-i_ConceptMoneyADI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ADI</link:label>
+    <link:label id="abc-i_ConceptMoneyBCD_label_nl" xlink:label="abc-i_ConceptMoneyBCD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld BCD</link:label>
+    <link:label id="abc-i_ConceptMoneyBCI_label_nl" xlink:label="abc-i_ConceptMoneyBCI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld BCI</link:label>
+    <link:label id="abc-i_ConceptMoneyBDD_label_nl" xlink:label="abc-i_ConceptMoneyBDD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld BDD</link:label>
+    <link:label id="abc-i_ConceptMoneyBDI_label_nl" xlink:label="abc-i_ConceptMoneyBDI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld BDI</link:label>
+    <link:label id="abc-i_ConceptMoneyCCD_label_nl" xlink:label="abc-i_ConceptMoneyCCD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCD</link:label>
+    <link:label id="abc-i_ConceptMoneyCCI_label_nl" xlink:label="abc-i_ConceptMoneyCCI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCI</link:label>
+    <link:label id="abc-i_ConceptMoneyDCI_label_nl" xlink:label="abc-i_ConceptMoneyDCI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCI</link:label>
+    <link:label id="abc-i_ConceptMoneyFCI_label_nl" xlink:label="abc-i_ConceptMoneyFCI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCI</link:label>
+    <link:label id="abc-i_ConceptMoneyCDD_label_nl" xlink:label="abc-i_ConceptMoneyCDD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDD</link:label>
+    <link:label id="abc-i_ConceptMoneyCDI_label_nl" xlink:label="abc-i_ConceptMoneyCDI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDI</link:label>
+    <link:label id="abc-i_ConceptMoneyDDI_label_nl" xlink:label="abc-i_ConceptMoneyDDI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDI</link:label>
+    <link:label id="abc-i_ConceptMoneyGCI_label_nl" xlink:label="abc-i_ConceptMoneyGCI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDI</link:label>
+    <link:label id="abc-i_ConceptMoneyGDI_label_nl" xlink:label="abc-i_ConceptMoneyGDI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDI</link:label>
+    <link:label id="abc-i_ConceptMoneyHDI_label_nl" xlink:label="abc-i_ConceptMoneyHDI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CDI</link:label>
+    <link:label id="abc-i_ConceptStringH_label_nl" xlink:label="abc-i_ConceptStringH_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept H</link:label>
+    <link:label id="abc-i_ConceptStringI_label_nl" xlink:label="abc-i_ConceptStringI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept I</link:label>
+    <link:label id="abc-i_ConceptStringJ_label_nl" xlink:label="abc-i_ConceptStringJ_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept J</link:label>
+    <link:label id="abc-i_ConceptStringK_label_nl" xlink:label="abc-i_ConceptStringK_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept K</link:label>
+    <link:label id="abc-i_ConceptStringL_label_nl" xlink:label="abc-i_ConceptStringL_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept L</link:label>
+    <link:label id="abc-i_ConceptStringM_label_nl" xlink:label="abc-i_ConceptStringM_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept M</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyACD_loc" xlink:to="abc-i_ConceptMoneyACD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyACI_loc" xlink:to="abc-i_ConceptMoneyACI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyADD_loc" xlink:to="abc-i_ConceptMoneyADD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyADI_loc" xlink:to="abc-i_ConceptMoneyADI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBCD_loc" xlink:to="abc-i_ConceptMoneyBCD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBCI_loc" xlink:to="abc-i_ConceptMoneyBCI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBDD_loc" xlink:to="abc-i_ConceptMoneyBDD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBDI_loc" xlink:to="abc-i_ConceptMoneyBDI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCCD_loc" xlink:to="abc-i_ConceptMoneyCCD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCCI_loc" xlink:to="abc-i_ConceptMoneyCCI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCDD_loc" xlink:to="abc-i_ConceptMoneyCDD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCDI_loc" xlink:to="abc-i_ConceptMoneyCDI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyDCI_loc" xlink:to="abc-i_ConceptMoneyDCI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyDDI_loc" xlink:to="abc-i_ConceptMoneyDDI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyFCI_loc" xlink:to="abc-i_ConceptMoneyFCI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyGCI_loc" xlink:to="abc-i_ConceptMoneyGCI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyGDI_loc" xlink:to="abc-i_ConceptMoneyGDI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyHDI_loc" xlink:to="abc-i_ConceptMoneyHDI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringA_loc" xlink:to="abc-i_ConceptStringA_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringB_loc" xlink:to="abc-i_ConceptStringB_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringC_loc" xlink:to="abc-i_ConceptStringC_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringD_loc" xlink:to="abc-i_ConceptStringD_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringE_loc" xlink:to="abc-i_ConceptStringE_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringF_loc" xlink:to="abc-i_ConceptStringF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringG_loc" xlink:to="abc-i_ConceptStringG_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringH_loc" xlink:to="abc-i_ConceptStringH_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringI_loc" xlink:to="abc-i_ConceptStringI_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringJ_loc" xlink:to="abc-i_ConceptStringJ_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringK_loc" xlink:to="abc-i_ConceptStringK_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringL_loc" xlink:to="abc-i_ConceptStringL_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringM_loc" xlink:to="abc-i_ConceptStringM_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyACD" xlink:label="abc-i_ConceptMoneyACD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyACI" xlink:label="abc-i_ConceptMoneyACI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyADD" xlink:label="abc-i_ConceptMoneyADD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyADI" xlink:label="abc-i_ConceptMoneyADI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBCD" xlink:label="abc-i_ConceptMoneyBCD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBCI" xlink:label="abc-i_ConceptMoneyBCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBDD" xlink:label="abc-i_ConceptMoneyBDD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBDI" xlink:label="abc-i_ConceptMoneyBDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCCD" xlink:label="abc-i_ConceptMoneyCCD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCCI" xlink:label="abc-i_ConceptMoneyCCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCDD" xlink:label="abc-i_ConceptMoneyCDD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCDI" xlink:label="abc-i_ConceptMoneyCDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyDCI" xlink:label="abc-i_ConceptMoneyDCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyDDI" xlink:label="abc-i_ConceptMoneyDDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyFCI" xlink:label="abc-i_ConceptMoneyFCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyGCI" xlink:label="abc-i_ConceptMoneyGCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyGDI" xlink:label="abc-i_ConceptMoneyGDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyHDI" xlink:label="abc-i_ConceptMoneyHDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringA" xlink:label="abc-i_ConceptStringA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringB" xlink:label="abc-i_ConceptStringB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringC" xlink:label="abc-i_ConceptStringC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringD" xlink:label="abc-i_ConceptStringD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringE" xlink:label="abc-i_ConceptStringE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringF" xlink:label="abc-i_ConceptStringF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringG" xlink:label="abc-i_ConceptStringG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringH" xlink:label="abc-i_ConceptStringH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringI" xlink:label="abc-i_ConceptStringI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringJ" xlink:label="abc-i_ConceptStringJ_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringK" xlink:label="abc-i_ConceptStringK_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringL" xlink:label="abc-i_ConceptStringL_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringM" xlink:label="abc-i_ConceptStringM_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:abc:linkrole:classes-of-stuff" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_ClassesOfStuff" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+  <link:definitionLink xlink:role="urn:abc:linkrole:classes-of-stuff" xlink:type="extended">
+    <link:definitionArc xbrldt:usable="true" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="abc-dim_StuffAxes_loc" xlink:to="abc-dm_StuffMember_loc" xlink:type="arc"/>
+    <link:loc xlink:href="../dictionary/abc-axes.xsd#abc-dim_StuffAxes" xlink:label="abc-dim_StuffAxes_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-domains.xsd#abc-dm_StuffMember" xlink:label="abc-dm_StuffMember_loc" xlink:type="locator"/>
+  </link:definitionLink>
+</link:linkbase>

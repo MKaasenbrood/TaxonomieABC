@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:abc-dm="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-domains" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-domains">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-domains-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" schemaLocation="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:element abstract="true" id="abc-dm_StuffMember" name="StuffMember" nillable="false" substitutionGroup="sbr:domainMemberItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-dm_TypedMember" name="TypedMember" nillable="false" type="xs:string"/>
+</xs:schema>

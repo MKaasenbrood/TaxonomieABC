@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:abc-dim="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-axes" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-axes">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-axes-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.abc.nl/2.0/abc/20170111/dictionary/abc-domains" schemaLocation="abc-domains.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd"/>
+  <xs:element abstract="true" id="abc-dim_StuffAxes" name="StuffAxes" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-dim_TypedAxis" name="TypedAxis" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrldt:typedDomainRef="abc-domains.xsd#abc-dm_TypedMember" xbrli:periodType="duration"/>
+</xs:schema>

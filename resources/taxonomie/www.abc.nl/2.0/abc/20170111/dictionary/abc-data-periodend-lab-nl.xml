@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-i_ConceptStringA_periodEndLabel_nl" xlink:label="abc-i_ConceptStringA_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept A einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringB_periodEndLabel_nl" xlink:label="abc-i_ConceptStringB_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept B einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringC_periodEndLabel_nl" xlink:label="abc-i_ConceptStringC_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept C einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringD_periodEndLabel_nl" xlink:label="abc-i_ConceptStringD_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept D einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringE_periodEndLabel_nl" xlink:label="abc-i_ConceptStringE_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept E einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringF_periodEndLabel_nl" xlink:label="abc-i_ConceptStringF_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept F einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringG_periodEndLabel_nl" xlink:label="abc-i_ConceptStringG_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept G einde van de periode</link:label>
+    <link:label id="abc-i_ConceptMoneyACI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyACI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld ACI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyADI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyADI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld ADI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyBCI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyBCI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld BCI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyBDI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyBDI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld BDI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyCCI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyCCI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CCI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyDCI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyDCI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CCI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyFCI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyFCI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CCI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyCDI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyCDI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CDI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyDDI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyDDI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CDI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyGCI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyGCI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CDI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyGDI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyGDI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CDI, einde</link:label>
+    <link:label id="abc-i_ConceptMoneyHDI_periodEndLabel_nl" xlink:label="abc-i_ConceptMoneyHDI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept Geld CDI, einde</link:label>
+    <link:label id="abc-i_ConceptStringH_periodEndLabel_nl" xlink:label="abc-i_ConceptStringH_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept H einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringI_periodEndLabel_nl" xlink:label="abc-i_ConceptStringI_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept I einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringJ_periodEndLabel_nl" xlink:label="abc-i_ConceptStringJ_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept J einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringK_periodEndLabel_nl" xlink:label="abc-i_ConceptStringK_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept K einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringL_periodEndLabel_nl" xlink:label="abc-i_ConceptStringL_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept L einde van de periode</link:label>
+    <link:label id="abc-i_ConceptStringM_periodEndLabel_nl" xlink:label="abc-i_ConceptStringM_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept M einde van de periode</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyACI_loc" xlink:to="abc-i_ConceptMoneyACI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyADI_loc" xlink:to="abc-i_ConceptMoneyADI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBCI_loc" xlink:to="abc-i_ConceptMoneyBCI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyBDI_loc" xlink:to="abc-i_ConceptMoneyBDI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCCI_loc" xlink:to="abc-i_ConceptMoneyCCI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyCDI_loc" xlink:to="abc-i_ConceptMoneyCDI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyDCI_loc" xlink:to="abc-i_ConceptMoneyDCI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyDDI_loc" xlink:to="abc-i_ConceptMoneyDDI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyFCI_loc" xlink:to="abc-i_ConceptMoneyFCI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyGCI_loc" xlink:to="abc-i_ConceptMoneyGCI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyGDI_loc" xlink:to="abc-i_ConceptMoneyGDI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyHDI_loc" xlink:to="abc-i_ConceptMoneyHDI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringA_loc" xlink:to="abc-i_ConceptStringA_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringB_loc" xlink:to="abc-i_ConceptStringB_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringC_loc" xlink:to="abc-i_ConceptStringC_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringD_loc" xlink:to="abc-i_ConceptStringD_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringE_loc" xlink:to="abc-i_ConceptStringE_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringF_loc" xlink:to="abc-i_ConceptStringF_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringG_loc" xlink:to="abc-i_ConceptStringG_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringH_loc" xlink:to="abc-i_ConceptStringH_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringI_loc" xlink:to="abc-i_ConceptStringI_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringJ_loc" xlink:to="abc-i_ConceptStringJ_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringK_loc" xlink:to="abc-i_ConceptStringK_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringL_loc" xlink:to="abc-i_ConceptStringL_periodEndLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringM_loc" xlink:to="abc-i_ConceptStringM_periodEndLabel_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyACI" xlink:label="abc-i_ConceptMoneyACI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyADI" xlink:label="abc-i_ConceptMoneyADI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBCI" xlink:label="abc-i_ConceptMoneyBCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyBDI" xlink:label="abc-i_ConceptMoneyBDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCCI" xlink:label="abc-i_ConceptMoneyCCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyCDI" xlink:label="abc-i_ConceptMoneyCDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyDCI" xlink:label="abc-i_ConceptMoneyDCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyDDI" xlink:label="abc-i_ConceptMoneyDDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyFCI" xlink:label="abc-i_ConceptMoneyFCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyGCI" xlink:label="abc-i_ConceptMoneyGCI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyGDI" xlink:label="abc-i_ConceptMoneyGDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyHDI" xlink:label="abc-i_ConceptMoneyHDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringA" xlink:label="abc-i_ConceptStringA_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringB" xlink:label="abc-i_ConceptStringB_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringC" xlink:label="abc-i_ConceptStringC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringD" xlink:label="abc-i_ConceptStringD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringE" xlink:label="abc-i_ConceptStringE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringF" xlink:label="abc-i_ConceptStringF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringG" xlink:label="abc-i_ConceptStringG_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringH" xlink:label="abc-i_ConceptStringH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringI" xlink:label="abc-i_ConceptStringI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringJ" xlink:label="abc-i_ConceptStringJ_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringK" xlink:label="abc-i_ConceptStringK_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringL" xlink:label="abc-i_ConceptStringL_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringM" xlink:label="abc-i_ConceptStringM_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

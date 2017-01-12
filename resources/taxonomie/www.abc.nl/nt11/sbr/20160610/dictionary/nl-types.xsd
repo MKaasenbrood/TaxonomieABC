@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:nl-types="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types">
+  <xs:complexType id="nl-types_decimal20ItemType" name="decimal20ItemType"/>
+  <xs:complexType id="nl-types_emailItemType" name="emailItemType"/>
+  <xs:complexType id="nl-types_monetary20ItemType" name="monetary20ItemType"/>
+  <xs:complexType id="nl-types_monetaryNoDecimals20ItemType" name="monetaryNoDecimals20ItemType"/>
+  <xs:complexType id="nl-types_monetaryNoDecimalsItemType" name="monetaryNoDecimalsItemType"/>
+  <xs:complexType id="nl-types_nlzipItemType" name="nlzipItemType"/>
+  <xs:complexType id="nl-types_nonNegative20ItemType" name="nonNegative20ItemType"/>
+  <xs:complexType id="nl-types_nonNegativeDecimalItemType" name="nonNegativeDecimalItemType"/>
+  <xs:complexType id="nl-types_nonNegativeMonetary20ItemType" name="nonNegativeMonetary20ItemType"/>
+  <xs:complexType id="nl-types_nonNegativeMonetaryItemType" name="nonNegativeMonetaryItemType"/>
+  <xs:complexType id="nl-types_nonNegativeMonetaryNoDecimals20ItemType" name="nonNegativeMonetaryNoDecimals20ItemType"/>
+  <xs:complexType id="nl-types_nonNegativeMonetaryNoDecimalsItemType" name="nonNegativeMonetaryNoDecimalsItemType"/>
+  <xs:complexType id="nl-types_string250ItemType" name="string250ItemType"/>
+  <xs:complexType id="nl-types_string500ItemType" name="string500ItemType"/>
+  <xs:complexType id="nl-types_string1000ItemType" name="string1000ItemType"/>
+  <xs:complexType id="nl-types_string100000ItemType" name="string100000ItemType"/>
+  <xs:simpleType name="string255">
+    <xs:restriction base="xs:anySimpleType"/>
+  </xs:simpleType>
+</xs:schema>
