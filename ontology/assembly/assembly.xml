@@ -1,0 +1,20 @@
+  <assembly>
+	<id>assembly</id>
+
+	<formats>
+		<format>zip</format>
+	</formats>
+
+	<includeBaseDirectory>false</includeBaseDirectory>
+	
+	<fileSets>
+		<fileSet>
+			<directory>target/test-classes/taxonomie</directory>
+			<outputDirectory>taxonomie</outputDirectory>
+			<includes>
+				<include>**/*.*</include>
+			</includes>
+		</fileSet>
+	</fileSets>
+
+</assembly>

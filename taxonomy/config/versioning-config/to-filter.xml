@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<resource>
+		<directory>www.nltaxonomie.nl</directory>
+		<includes>
+			<include>nt11</include>
+		</includes>
+	</resource>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>nl.taxonomie.sbr.abc.11</groupId>
+		<artifactId>20161214</artifactId>
+		<version>1.1-snapshot</version>
+	</parent>
+
+	<groupId>nl.taxonomie.sbr.abc.11.20161214</groupId>
+	<artifactId>taxonomy</artifactId>
+	<packaging>pom</packaging>
+	<name>Taxonomie ABC ${nta.version} - ${taxonomy.version} - taxonomy</name>
+
+	<properties>
+		<resourcesPath>${project.basedir}/../../resources</resourcesPath>
+	</properties>
+
+	<profiles>
+		<profile>
+			<id>Taxonomy</id>
+			<modules>
+				<module>assemblyrelease</module>
+				<module>assembly</module>
+				<module>postassembly</module>
+			</modules>
+		</profile>
+		<profile>
+			<id>Yeti</id>
+			<modules>
+				<module>yeti</module>
+			</modules>
+		</profile>
+		<profile>
+			<id>XLDeploy</id>
+			<modules>
+				<module>assemblyxldeploy</module>
+				<module>xldeploy</module>
+			</modules>
+		</profile>
+	</profiles>
+
+</project>

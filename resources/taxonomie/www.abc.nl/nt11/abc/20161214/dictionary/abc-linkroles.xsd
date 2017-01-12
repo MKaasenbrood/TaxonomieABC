@@ -35,7 +35,7 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
-      <link:roleType id="abc-lr_LinkroleAdimString" roleURI="urn:abc:linkrole:linkrole-adim-string">
+      <link:roleType id="abc-lr_LinkroleAdimStringTyped" roleURI="urn:abc:linkrole:linkrole-adim-string-typed">
         <link:definition>Linkrole 1</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>

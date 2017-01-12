@@ -2,10 +2,10 @@
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
   <link:roleRef roleURI="urn:abc:linkrole:linkrole-string2" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:type="simple"/>
   <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-string2" xlink:type="extended">
-    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRoot" xlink:label="abc-abstr_AbstractRoot_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString2" xlink:label="abc-abstr_AbstractRootString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringE" xlink:label="abc-i_ConceptStringE_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringF" xlink:label="abc-i_ConceptStringF_loc" xlink:type="locator"/>
-    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRoot_loc" xlink:to="abc-i_ConceptStringE_loc" xlink:type="arc"/>
-    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRoot_loc" xlink:to="abc-i_ConceptStringF_loc" xlink:type="arc"/>
+    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootString2_loc" xlink:to="abc-i_ConceptStringE_loc" xlink:type="arc"/>
+    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootString2_loc" xlink:to="abc-i_ConceptStringF_loc" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

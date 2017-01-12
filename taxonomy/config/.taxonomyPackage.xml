@@ -1,0 +1,13 @@
+<taxonomyPackage xmlns='http://www.corefiling.com/xbrl/taxonomypackage/v1'
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.corefiling.com/xbrl/taxonomypackage/v1 http://schemas.corefiling.com/taxonomypackage/1.0.0/taxonomypackage.xsd">
+	<name xml:lang='nl-NL'>NT2016 - ABC</name>
+	<description xml:lang='nl-NL'>Nederlandse Taxonomie 2016 ${nta.version} - ${taxonomy.version} - ABC</description>
+	<version>${nta.version} - ${taxonomy.version}</version>
+	<entryPoints>
+		<entryPoint>
+			<name xml:lang='nl-NL'>ABC:XXX</name>
+			<entryPointDocument href='taxonomie/www.nltaxonomie.nl/${nta.version}/abc/${taxonomy.version}/entrypoints/ABC-rpt-XXX.xsd'/>
+		</entryPoint>
+	</entryPoints>
+</taxonomyPackage>

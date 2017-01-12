@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>nl.taxonomie.sbr.abc.11.20161214</groupId>
+		<artifactId>ontology</artifactId>
+		<version>1.1-snapshot</version>
+	</parent>
+
+	<groupId>nl.taxonomie.sbr.abc.11.20161214.ontology</groupId>
+	<artifactId>xldeploy</artifactId>
+	<packaging>pom</packaging>
+	<name>Taxonomie ABC - ${taxonomy.version} - ontology - xldeploy</name>
+
+	<properties>
+		<xldeploy.location>../husky/target/husky-${project.version}-assembly.zip</xldeploy.location>
+		<xldeploy.name>Taxonomie ABC - ${nta.version} - ${taxonomy.version} - portal</xldeploy.name>
+		<xldeploy.targetPath>/data/formspec</xldeploy.targetPath>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>com.xebialabs.deployit</groupId>
+				<artifactId>maven-deployit-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>xldeployhusky</id>
+						<phase>verify</phase>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>build-helper-maven-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>attach-dar-husky</id>
+						<phase>package</phase>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

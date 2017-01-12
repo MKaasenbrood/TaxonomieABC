@@ -428,3 +428,417 @@
 {"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodCurrentStartDate",}
 {"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodCurrentEndDate",}
 {"type":"id-changed","from":"venj-bw2-i_null","to":"venj-bw2-i_FinancialReportingPeriodPreviousStartDate",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel",}
+{"type":"name-mapping","from":"StuffAxes","to":"StuffAxis",}
+{"type":"id-changed","from":"abc-dim_StuffAxes","to":"abc-dim_StuffAxis",}
+{"type":"id-changed","from":"abc-dm_null","to":"abc-dm_TypedMember2",}
+{"type":"name-mapping","from":"AbstractRoot","to":"AbstractRootTyped",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_label_en","to":"abc-abstr_AbstractRootTyped_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_label_nl","to":"abc-abstr_AbstractRootTyped_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot","to":"abc-abstr_AbstractRootTyped",}
+{"type":"name-mapping","from":"AbstractRoot_7","to":"AbstractRootString2",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_7_label_nl","to":"abc-abstr_AbstractRootString2_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_7_label_en","to":"abc-abstr_AbstractRootString2_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_7","to":"abc-abstr_AbstractRootString2",}
+{"type":"name-mapping","from":"AbstractRoot_6","to":"AbstractRootString",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_6_label_en","to":"abc-abstr_AbstractRootString_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_6_label_nl","to":"abc-abstr_AbstractRootString_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_6","to":"abc-abstr_AbstractRootString",}
+{"type":"name-mapping","from":"AbstractRoot_5","to":"AbstractRootMovement",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_5_label_en","to":"abc-abstr_AbstractRootMovement_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_5_label_nl","to":"abc-abstr_AbstractRootMovement_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_5","to":"abc-abstr_AbstractRootMovement",}
+{"type":"name-mapping","from":"AbstractRoot_4","to":"AbstractRootBreakdown2",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_4_label_en","to":"abc-abstr_AbstractRootBreakdown2_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_4_label_nl","to":"abc-abstr_AbstractRootBreakdown2_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_4","to":"abc-abstr_AbstractRootBreakdown2",}
+{"type":"name-mapping","from":"AbstractRoot_3","to":"AbstractRootAdimString",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_3_label_nl","to":"abc-abstr_AbstractRootAdimString_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_3_label_en","to":"abc-abstr_AbstractRootAdimString_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_3","to":"abc-abstr_AbstractRootAdimString",}
+{"type":"name-mapping","from":"AbstractRoot_2","to":"AbstractRootAdimDates",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_2_label_nl","to":"abc-abstr_AbstractRootAdimDates_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_2_label_en","to":"abc-abstr_AbstractRootAdimDates_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_2","to":"abc-abstr_AbstractRootAdimDates",}
+{"type":"name-mapping","from":"AbstractRoot_1","to":"AbstractRootAdimDates2",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_1_label_nl","to":"abc-abstr_AbstractRootAdimDates2_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_1_label_en","to":"abc-abstr_AbstractRootAdimDates2_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRoot_1","to":"abc-abstr_AbstractRootAdimDates2",}
+{"type":"text-mapping","from":"Root","to":"Begin",}
+{"type":"text-mapping","from":"Root","to":"Eind",}
+{"type":"text-mapping","from":"Root","to":"Mutatie",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudig","to":"kvk-table_TabelDynamischeAsEnkelvoudigInstant",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-x.1","to":"kvk-table_Typed-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant_label_en","to":"kvk-table_Typed_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant","to":"kvk-table_Typed",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-y.1.1","to":"kvk-table_Typed-y.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-y.1","to":"kvk-table_Typed-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-x.1.1.1","to":"kvk-table_Typed-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-y","to":"kvk-table_Typed-y",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-x","to":"kvk-table_Typed-x",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant-x.1.1","to":"kvk-table_Typed-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelDynamischeAsEnkelvoudigInstant_label_nl","to":"kvk-table_Typed_label_nl",}
+{"type":"text-mapping","from":"TabelLabelENDynamischeAsEnkelvoudig","to":"Typed",}
+{"type":"text-mapping","from":"TabelLabelNLDynamischeAsEnkelvoudig","to":"Typed",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomGeconsolideerd","to":"String",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomGeconsolideerd","to":"String",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-y.1","to":"kvk-table_String-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-x.1.1","to":"kvk-table_String-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd","to":"kvk-table_String",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd_label_en","to":"kvk-table_String_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-x.1.1.1","to":"kvk-table_String-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd_label_nl","to":"kvk-table_String_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-y","to":"kvk-table_String-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-x.1","to":"kvk-table_String-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomGeconsolideerd-x","to":"kvk-table_String-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-x.1.1.1","to":"kvk-table_String2-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-x","to":"kvk-table_String2-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-x.1","to":"kvk-table_String2-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig_label_en","to":"kvk-table_String2_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-x.1.1","to":"kvk-table_String2-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig","to":"kvk-table_String2",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-y","to":"kvk-table_String2-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig-y.1","to":"kvk-table_String2-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomEnkelvoudig_label_nl","to":"kvk-table_String2_label_nl",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomEnkelvoudig","to":"String2",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomEnkelvoudig","to":"String2",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.1.1","to":"kvk-table_Movement-y.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-x","to":"kvk-table_Movement-x",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-x.1","to":"kvk-table_Movement-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-x.1.1.1","to":"kvk-table_Movement-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-x.1.1","to":"kvk-table_Movement-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd_label_en","to":"kvk-table_Movement_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd_label_nl","to":"kvk-table_Movement_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.3.1","to":"kvk-table_Movement-y.3.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd","to":"kvk-table_Movement",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.1","to":"kvk-table_Movement-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y","to":"kvk-table_Movement-y",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.2","to":"kvk-table_Movement-y.2",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.3","to":"kvk-table_Movement-y.3",}
+{"type":"id-changed","from":"kvk-table_TabelVerloopoverzichtGeconsolideerd-y.2.1","to":"kvk-table_Movement-y.2.1",}
+{"type":"text-mapping","from":"TabelLabelENVerloopoverzichtGeconsolideerd","to":"Movement",}
+{"type":"text-mapping","from":"TabelLabelNLVerloopoverzichtGeconsolideerd","to":"Movement",}
+{"type":"name-mapping","from":"BeginTitle","to":"StartTitle",}
+{"type":"id-changed","from":"abc-abstr_BeginTitle_label_nl","to":"abc-abstr_StartTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_BeginTitle","to":"abc-abstr_StartTitle",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1.2","to":"kvk-table_Breakdown2-x.1.1.2",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1.1","to":"kvk-table_Breakdown2-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x","to":"kvk-table_Breakdown2-x",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig","to":"kvk-table_Breakdown2",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1","to":"kvk-table_Breakdown2-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-y.1","to":"kvk-table_Breakdown2-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1","to":"kvk-table_Breakdown2-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-y","to":"kvk-table_Breakdown2-y",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdimString_rsc","to":"abc-lr_LinkroleAdimStringTyped_rsc",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdimString_label_nl","to":"abc-lr_LinkroleAdimStringTyped_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel-x","to":"kvk-table_AdimStringTyped-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel-x.1","to":"kvk-table_AdimStringTyped-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel-y","to":"kvk-table_AdimStringTyped-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel-y.1","to":"kvk-table_AdimStringTyped-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel","to":"kvk-table_AdimStringTyped",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel_label_nl","to":"kvk-table_AdimStringTyped_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel-y.1.1","to":"kvk-table_AdimStringTyped-y.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomDynamischeAsAdimensioneel_label_en","to":"kvk-table_AdimStringTyped_label_en",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomDynamischeAsAdimensioneel","to":"AdimStringTyped",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomDynamischeAsAdimensioneel","to":"AdimStringTyped",}
+{"type":"name-mapping","from":"AbstractRootAdimString","to":"AbstractRootAdimStringTyped",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootAdimString_label_nl","to":"abc-abstr_AbstractRootAdimStringTyped_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootAdimString_label_en","to":"abc-abstr_AbstractRootAdimStringTyped_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootAdimString","to":"abc-abstr_AbstractRootAdimStringTyped",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_nl","to":"kvk-table_AdimDates_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y","to":"kvk-table_AdimDates-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x","to":"kvk-table_AdimDates-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_en","to":"kvk-table_AdimDates_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x.1","to":"kvk-table_AdimDates-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y.1","to":"kvk-table_AdimDates-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_AdimDates",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"AdimDates",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"AdimDates",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_nl","to":"kvk-table_AdimDates2_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x.1","to":"kvk-table_AdimDates2-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y.1","to":"kvk-table_AdimDates2-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y","to":"kvk-table_AdimDates2-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x","to":"kvk-table_AdimDates2-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_AdimDates2",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_en","to":"kvk-table_AdimDates2_label_en",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"AdimDates2",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"AdimDates2",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent","to":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent1",}
+{"type":"text-mapping","from":"The date reported for OperandDate ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate}) must be earlier than the current date.","to":"The date reported for ConecptDateC ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) must be earlier than the current date.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDate ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate}) moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor ConecptDateC ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) moet liggen voor de huidige datum.",}
+{"type":"text-mapping","from":"The date reported for OperandDate must be earlier than the current date.","to":"The date reported for ConecptDateC must be earlier than the current date.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDate moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor ConecptDateC moet liggen voor de huidige datum.",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"factVariable_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC",}
+{"type":"text-mapping","from":"The date reported for ConecptDateC ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) must be earlier than the current date.","to":"The date reported for ConecptDateC ({$varArc_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) must be earlier than the current date.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor ConecptDateC ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor ConecptDateC ({$varArc_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) moet liggen voor de huidige datum.",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_EN1","to":"LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC","to":"factVariable_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_ConecptDateC",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_ConecptDateC","to":"LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_ConecptDateC",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1","to":"LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_label_EN","to":"LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_label_NL","to":"LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_label_NL",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent1","to":"valueAssertion_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierDateLater","to":"valueAssertion_ELRName_MsgAdimDateEarlierDateLater1",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDateEarlier ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateEarlier}) moet liggen voor de datum gerapporteerd voor OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).","to":"De datum gerapporteerd voor ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) moet liggen voor de datum gerapporteerd voor OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDateEarlier moet liggen voor de datum gerapporteerd voor OperandDateLater.","to":"De datum gerapporteerd voor ConceptDateA moet liggen voor de datum gerapporteerd voor OperandDateLater.",}
+{"type":"text-mapping","from":"The date reported for OperandDateEarlier must be earlier than the date reported for OperandDateLater.","to":"The date reported for ConceptDateA must be earlier than the date reported for OperandDateLater.",}
+{"type":"text-mapping","from":"The date reported for OperandDateEarlier ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateEarlier}) must be earlier than the date reported for OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).","to":"The date reported for ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) must be earlier than the date reported for OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_OperandDateEarlier","to":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_OperandDateEarlier","to":"ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) moet liggen voor de datum gerapporteerd voor OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).","to":"De datum gerapporteerd voor ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) moet liggen voor de datum gerapporteerd voor ConceptDateB ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB}).",}
+{"type":"text-mapping","from":"The date reported for ConceptDateA must be earlier than the date reported for OperandDateLater.","to":"The date reported for ConceptDateA must be earlier than the date reported for ConceptDateB.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor ConceptDateA moet liggen voor de datum gerapporteerd voor OperandDateLater.","to":"De datum gerapporteerd voor ConceptDateA moet liggen voor de datum gerapporteerd voor ConceptDateB.",}
+{"type":"text-mapping","from":"The date reported for ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) must be earlier than the date reported for OperandDateLater ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater}).","to":"The date reported for ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) must be earlier than the date reported for ConceptDateB ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB}).",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater","to":"ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_OperandDateLater","to":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) moet liggen voor de datum gerapporteerd voor ConceptDateB ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB}).","to":"De datum gerapporteerd voor ConceptDateA ({$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA}) moet liggen voor de datum gerapporteerd voor ConceptDateB ({$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB}).",}
+{"type":"text-mapping","from":"The date reported for ConceptDateA ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA}) must be earlier than the date reported for ConceptDateB ({$varArc_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB}).","to":"The date reported for ConceptDateA ({$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA}) must be earlier than the date reported for ConceptDateB ({$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB}).",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_assertion-unsatisfied-message_NL1","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierDateLater1","to":"valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_label_EN","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_label_NL","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_label_NL",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA","to":"factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_ConceptDateA","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierDateLater1_assertion-unsatisfied-message_EN1","to":"LinkroleAdimDates_MsgAdimDateEarlierDateLater1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierDateLater1_ConceptDateB","to":"factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept","to":"valueAssertion_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand","to":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand","to":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1","to":"valueAssertion_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_precondition1","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_precondition1",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_label_EN","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand",}
+{"type":"id-changed","from":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_label_NL","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_label_NL",}
+{"type":"text-mapping","from":"When PreconditionOperand is reported then ExistenceOperand must exist at least once within the same context.","to":"When PreconditionOperand is reported then ConceptStringB must exist at least once within the same context.",}
+{"type":"text-mapping","from":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ExistenceOperand minimaal één keer voorkomen binnen dezelfde context.","to":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.",}
+{"type":"text-mapping","from":"When PreconditionOperand is reported then ExistenceOperand must exist at least once within the same context.","to":"When PreconditionOperand is reported then ConceptStringB must exist at least once within the same context.",}
+{"type":"text-mapping","from":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ExistenceOperand minimaal één keer voorkomen binnen dezelfde context.","to":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.",}
+{"type":"id-changed","from":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ConceptStringB",}
+{"type":"id-changed","from":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ExistenceOperand","to":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ConceptStringB",}
+{"type":"text-mapping","from":"When PreconditionOperand is reported then ConceptStringB must exist at least once within the same context.","to":"When ConceptStringA is reported then ConceptStringB must exist at least once within the same context.",}
+{"type":"text-mapping","from":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.","to":"Wanneer ConceptStringA wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.",}
+{"type":"text-mapping","from":"When PreconditionOperand is reported then ConceptStringB must exist at least once within the same context.","to":"When ConceptStringA is reported then ConceptStringB must exist at least once within the same context.",}
+{"type":"text-mapping","from":"Wanneer PreconditionOperand wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.","to":"Wanneer ConceptStringA wordt gerapporteerde dan moet ConceptStringB minimaal één keer voorkomen binnen dezelfde context.",}
+{"type":"id-changed","from":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand","to":"factVariable_LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ConceptStringA",}
+{"type":"id-changed","from":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_PreconditionOperand","to":"LinkroleAdimStringTyped_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_ConceptStringA",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgSeparateSumOfChildrenParentCredit","to":"valueAssertion_ELRName_MsgSeparateSumOfChildrenParentCredit1",}
+{"type":"text-mapping","from":"ParentName must be equal to the summation of the underlying values.","to":"ConceptMoneyDCI must be equal to the summation of the underlying values.",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ConceptMoneyDCI ({$ConceptMoneyDCI}) must be equal to the summation of the underlying values ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ConceptMoneyDCI ({$ConceptMoneyDCI}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).",}
+{"type":"text-mapping","from":"ParentName moet gelijk zijn aan de sommatie van de onderliggende waarden.","to":"ConceptMoneyDCI moet gelijk zijn aan de sommatie van de onderliggende waarden.",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationParentNameDebit","to":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCIDebit",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ParentName","to":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationParentNameCredit","to":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCICredit",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameCredit","to":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfParentNameDebit","to":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ParentName","to":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI",}
+{"type":"text-mapping","from":"ConceptMoneyDCI ({$ConceptMoneyDCI}) must be equal to the summation of the underlying values ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).","to":"ConceptMoneyDCI ({$ConceptMoneyDCI}) must be equal to the summation of the underlying values ({$varArc_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).",}
+{"type":"text-mapping","from":"ConceptMoneyDCI ({$ConceptMoneyDCI}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).","to":"ConceptMoneyDCI ({$ConceptMoneyDCI}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit}-{$varArc_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit}).",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCIDebit","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCIDebit",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_assertion-unsatisfied-message_EN1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCICredit","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_RelationConceptMoneyDCICredit",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceCredit1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceCredit1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_Filter1FinancialStatementTypeSeparate1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_Filter1FinancialStatementTypeSeparate1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceParentCredit1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceParentCredit1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_label_EN","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_label_EN",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI","to":"factVariable_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ConceptMoneyDCI",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceDebit1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ConceptBalanceDebit1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_FilterFinancialStatementTypeSeparate1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_FilterFinancialStatementTypeSeparate1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_label_NL","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_label_NL",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit","to":"factVariable_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCICredit",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit","to":"factVariable_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_ChildrenOfConceptMoneyDCIDebit",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_assertion-unsatisfied-message_NL1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ELRName_MsgSeparateSumOfChildrenParentCredit1_Filter2FinancialStatementTypeSeparate1","to":"LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1_Filter2FinancialStatementTypeSeparate1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgSeparateSumOfChildrenParentCredit1","to":"valueAssertion_LinkroleBreakdown2_MsgSeparateSumOfChildrenParentCredit1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd","to":"valueAssertion_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1",}
+{"type":"text-mapping","from":"Reported value of InstantName at end of period ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) must be equal to sum of reported value of InstantName at beginning of period ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) and changes in that value during period, DurationName ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).","to":"Reported value of InstantName at end of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) must be equal to sum of reported value of InstantName at beginning of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) and changes in that value during period, DurationName ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).",}
+{"type":"text-mapping","from":"Gerapporteerde waarde van InstantName aan het einde van de periode ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) en de mutaties gedurende de periode, DurationName ({$varArc_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).","to":"Gerapporteerde waarde van InstantName aan het einde van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) en de mutaties gedurende de periode, DurationName ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_label_EN","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_label_EN",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_Filter2FinancialStatementTypeConsolidated1","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_Filter2FinancialStatementTypeConsolidated1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_Filter1FinancialStatementTypeConsolidated1","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_Filter1FinancialStatementTypeConsolidated1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_assertion-unsatisfied-message_EN1","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_assertion-unsatisfied-message_NL1","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_label_NL","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_label_NL",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_FilterFinancialStatementTypeConsolidated1","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_FilterFinancialStatementTypeConsolidated1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1","to":"valueAssertion_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_Start","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_Start",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_End","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_End",}
+{"type":"text-mapping","from":"Reported value of InstantName at end of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) must be equal to sum of reported value of InstantName at beginning of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) and changes in that value during period, DurationName ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).","to":"Reported value of InstantName at end of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) must be equal to sum of reported value of InstantName at beginning of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) and changes in that value during period, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).",}
+{"type":"text-mapping","from":"Gerapporteerde waarde van InstantName aan het einde van de periode moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode en de mutaties gedurende de periode, DurationName.","to":"Gerapporteerde waarde van InstantName aan het einde van de periode moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode en de mutaties gedurende de periode, ConceptMoneyACD.",}
+{"type":"text-mapping","from":"Gerapporteerde waarde van InstantName aan het einde van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) en de mutaties gedurende de periode, DurationName ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName}).","to":"Gerapporteerde waarde van InstantName aan het einde van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) en de mutaties gedurende de periode, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).",}
+{"type":"text-mapping","from":"Reported value of InstantName at end of period must be equal to sum of reported value of InstantName at beginning of period and changes in that value during period, DurationName.","to":"Reported value of InstantName at end of period must be equal to sum of reported value of InstantName at beginning of period and changes in that value during period, ConceptMoneyACD.",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_DurationName","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD",}
+{"type":"text-mapping","from":"Reported value of InstantName at end of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) must be equal to sum of reported value of InstantName at beginning of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) and changes in that value during period, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).","to":"Reported value of ConceptMoneyACI at end of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIEnd}) must be equal to sum of reported value of ConceptMoneyACI at beginning of period ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIStart}) and changes in that value during period, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).",}
+{"type":"text-mapping","from":"Gerapporteerde waarde van InstantName aan het einde van de periode moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode en de mutaties gedurende de periode, ConceptMoneyACD.","to":"Gerapporteerde waarde van ConceptMoneyACI aan het einde van de periode moet gelijk zijn aan de sommatie van de gerapporteerde waarde van ConceptMoneyACI aan het begin van de periode en de mutaties gedurende de periode, ConceptMoneyACD.",}
+{"type":"text-mapping","from":"Gerapporteerde waarde van InstantName aan het einde van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van InstantName aan het begin van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart}) en de mutaties gedurende de periode, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).","to":"Gerapporteerde waarde van ConceptMoneyACI aan het einde van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIEnd}) moet gelijk zijn aan de sommatie van de gerapporteerde waarde van ConceptMoneyACI aan het begin van de periode ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIStart}) en de mutaties gedurende de periode, ConceptMoneyACD ({$varArc_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACD}).",}
+{"type":"text-mapping","from":"Reported value of InstantName at end of period must be equal to sum of reported value of InstantName at beginning of period and changes in that value during period, ConceptMoneyACD.","to":"Reported value of ConceptMoneyACI at end of period must be equal to sum of reported value of ConceptMoneyACI at beginning of period and changes in that value during period, ConceptMoneyACD.",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIStart",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameStart","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIStart",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIEnd",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantNameEnd","to":"factVariable_LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACIEnd",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_Start","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACI_Start",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_InstantName_End","to":"LinkroleMovement_MsgConsolidatedPeriodStartMutationPeriodEnd1_ConceptMoneyACI_End",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedSumOfMembersOnAbstract","to":"valueAssertion_ELRName_MsgConsolidatedSumOfMembersOnAbstract1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_ChildrenMember","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_ChildrenMember",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_assertion-unsatisfied-message_NL2","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_assertion-unsatisfied-message_NL2",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_FilterChildrenMembers1","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_FilterChildrenMembers1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_SumOfMembers","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_SumOfMembers",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_ChildrenMember","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_ChildrenMember",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_SumOfMembers","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_Abstract_SumOfMembers",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_label_EN","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_Filter1FinancialStatementTypeConsolidated2","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_Filter1FinancialStatementTypeConsolidated2",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_label_NL","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_label_NL",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_FilterClassesOf1","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_FilterClassesOf1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_FilterFinancialStatementTypeConsolidated2","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_FilterFinancialStatementTypeConsolidated2",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedSumOfMembersOnAbstract1","to":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfMembersOnAbstract1_assertion-unsatisfied-message_EN2","to":"LinkroleMovement_MsgConsolidatedSumOfMembersOnAbstract1_assertion-unsatisfied-message_EN2",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedSumOfChildrenParentCredit","to":"valueAssertion_ELRName_MsgConsolidatedSumOfChildrenParentCredit1",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ParentName","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ParentName",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_assertion-unsatisfied-message_EN4","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_assertion-unsatisfied-message_EN4",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_Filter2FinancialStatementTypeConsolidated2","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_Filter2FinancialStatementTypeConsolidated2",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceDebit1","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceDebit1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_label_EN","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ParentName","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ParentName",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceParentCredit1","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceParentCredit1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_Filter1FinancialStatementTypeConsolidated4","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_Filter1FinancialStatementTypeConsolidated4",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceCredit1","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ConceptBalanceCredit1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_FilterFinancialStatementTypeConsolidated4","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_FilterFinancialStatementTypeConsolidated4",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_label_NL","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_label_NL",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgConsolidatedSumOfChildrenParentCredit1","to":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameDebit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameDebit",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_assertion-unsatisfied-message_NL4","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_assertion-unsatisfied-message_NL4",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit",}
+{"type":"id-changed","from":"ELRName_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameCredit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameCredit",}
+{"type":"id-changed","from":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit2","to":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit",}
+{"type":"id-changed","from":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit","to":"valueAssertion_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameDebit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameCredit}).","to":"ConceptMoneyACD ({$ConceptMoneyACD}) must be equal to the summation of the underlying values ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDDebit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDCredit}).",}
+{"type":"text-mapping","from":"ParentName moet gelijk zijn aan de sommatie van de onderliggende waarden.","to":"ConceptMoneyACD moet gelijk zijn aan de sommatie van de onderliggende waarden.",}
+{"type":"text-mapping","from":"ParentName must be equal to the summation of the underlying values.","to":"ConceptMoneyACD must be equal to the summation of the underlying values.",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameDebit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameCredit}).","to":"ConceptMoneyACD ({$ConceptMoneyACD}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDDebit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDCredit}).",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ParentName","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ConceptMoneyACD",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameCredit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDCredit",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfParentNameDebit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ChildrenOfConceptMoneyACDDebit",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_RelationParentNameCredit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_RelationConceptMoneyACDCredit",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_RelationParentNameDebit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_RelationConceptMoneyACDDebit",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ParentName","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentDebit1_ConceptMoneyACD",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ConceptMoneyACI ({$ConceptMoneyACI}) must be equal to the summation of the underlying values ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACICredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACIDebit}).",}
+{"type":"text-mapping","from":"ParentName moet gelijk zijn aan de sommatie van de onderliggende waarden.","to":"ConceptMoneyACI moet gelijk zijn aan de sommatie van de onderliggende waarden.",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit}).","to":"ConceptMoneyACI ({$ConceptMoneyACI}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACICredit}-{$varArc_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACIDebit}).",}
+{"type":"text-mapping","from":"ParentName must be equal to the summation of the underlying values.","to":"ConceptMoneyACI must be equal to the summation of the underlying values.",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ParentName","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ConceptMoneyACI",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameCredit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACICredit",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ParentName","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ConceptMoneyACI",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameDebit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationConceptMoneyACIDebit",}
+{"type":"id-changed","from":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfParentNameDebit","to":"factVariable_LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_ChildrenOfConceptMoneyACIDebit",}
+{"type":"id-changed","from":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationParentNameCredit","to":"LinkroleMovement_MsgConsolidatedSumOfChildrenParentCredit1_RelationConceptMoneyACICredit",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgPrecondValueConceptAndExistenceConcept","to":"valueAssertion_ELRName_MsgPrecondValueConceptAndExistenceConcept1",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ConceptEnumeration",}
+{"type":"id-changed","from":"abc-codes_yesNoItemType_1","to":"abc-codes_yesNoItemType",}
+{"type":"name-mapping","from":"yesNoItemType_1","to":"yesNoItemType",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgPrecondValueConceptAndExistenceConcept","to":"valueAssertion_ELRName_MsgPrecondValueConceptAndExistenceConcept1",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan ValueOfEnumeration dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan ValueOfEnumeration dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"When the reported value of ValueOperand is equal to ValueOfEnumeration then ExistenceOperand must exist at least once.","to":"When the reported value of ValueOperand is equal to Ja then ExistenceOperand must exist at least once.",}
+{"type":"text-mapping","from":"When the reported value of ValueOperand is equal to ValueOfEnumeration then ExistenceOperand must exist at least once.","to":"When the reported value of ValueOperand is equal to Ja then ExistenceOperand must exist at least once.",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgPrecondValueConceptAndExistenceConcept1","to":"valueAssertion_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_label_NL","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_label_NL",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand","to":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_label_EN","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_label_EN",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand","to":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_precondition1","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_precondition1",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1",}
+{"type":"id-changed","from":"ELRName_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ValueOperand gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"When the reported value of ValueOperand is equal to Ja then ExistenceOperand must exist at least once.","to":"When the reported value of ConceptEnumeration is equal to Ja then ExistenceOperand must exist at least once.",}
+{"type":"text-mapping","from":"When the reported value of ValueOperand is equal to Ja then ExistenceOperand must exist at least once.","to":"When the reported value of ConceptEnumeration is equal to Ja then ExistenceOperand must exist at least once.",}
+{"type":"id-changed","from":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand","to":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration",}
+{"type":"id-changed","from":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ValueOperand","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ConceptStringC minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ExistenceOperand minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ConceptStringC minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration is equal to Ja then ExistenceOperand must exist at least once.","to":"When the reported value of ConceptEnumeration is equal to Ja then ConceptStringC must exist at least once.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration is equal to Ja then ExistenceOperand must exist at least once.","to":"When the reported value of ConceptEnumeration is equal to Ja then ConceptStringC must exist at least once.",}
+{"type":"id-changed","from":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand","to":"LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringC",}
+{"type":"id-changed","from":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ExistenceOperand","to":"factVariable_LinkroleString_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringC",}
+{"type":"id-changed","from":"valueAssertion_LinkroleString_MsgPrecondValueConceptAndExistenceConcept2","to":"valueAssertion_LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept",}
+{"type":"id-changed","from":"valueAssertion_LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept","to":"valueAssertion_LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept1",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet NoExistenceOperand niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ConceptStringD niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration is equal to Ja then NoExistenceOperand must not be reported.","to":"When the reported value of ConceptEnumeration is equal to Ja then ConceptStringD must not be reported.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet NoExistenceOperand niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration gelijk is aan Ja dan moet ConceptStringD niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration is equal to Ja then NoExistenceOperand must not be reported.","to":"When the reported value of ConceptEnumeration is equal to Ja then ConceptStringD must not be reported.",}
+{"type":"id-changed","from":"factVariable_LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept1_NoExistenceOperand","to":"factVariable_LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringD",}
+{"type":"id-changed","from":"LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept1_NoExistenceOperand","to":"LinkroleString_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringD",}
+{"type":"id-changed","from":"ExistenceAssertion_ELRName_MsgAdimensionalExistOnce","to":"ExistenceAssertion_ELRName_MsgAdimensionalExistOnce1",}
+{"type":"id-changed","from":"ExistenceAssertion_ELRName_MsgAdimensionalExistOnce","to":"ExistenceAssertion_ELRName_MsgAdimensionalExistOnce1",}
+{"type":"id-changed","from":"ELRName_MsgAdimensionalExistOnce1_label_EN","to":"LinkroleString2_MsgAdimensionalExistOnce1_label_EN",}
+{"type":"id-changed","from":"ExistenceAssertion_ELRName_MsgAdimensionalExistOnce1","to":"ExistenceAssertion_LinkroleString2_MsgAdimensionalExistOnce1",}
+{"type":"id-changed","from":"ELRName_MsgAdimensionalExistOnce1_assertion-unsatisfied-message_EN2","to":"LinkroleString2_MsgAdimensionalExistOnce1_assertion-unsatisfied-message_EN2",}
+{"type":"id-changed","from":"ELRName_MsgAdimensionalExistOnce1_Operand","to":"LinkroleString2_MsgAdimensionalExistOnce1_Operand",}
+{"type":"id-changed","from":"ELRName_MsgAdimensionalExistOnce1_label_NL","to":"LinkroleString2_MsgAdimensionalExistOnce1_label_NL",}
+{"type":"id-changed","from":"ELRName_MsgAdimensionalExistOnce1_assertion-unsatisfied-message_NL2","to":"LinkroleString2_MsgAdimensionalExistOnce1_assertion-unsatisfied-message_NL2",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimensionalExistOnce1_Operand","to":"factVariable_LinkroleString2_MsgAdimensionalExistOnce1_Operand",}
+{"type":"text-mapping","from":"Operand must exist once.","to":"ConceptStringE must exist once.",}
+{"type":"text-mapping","from":"Operand must exist once.","to":"ConceptStringE must exist once.",}
+{"type":"text-mapping","from":"Operand moet exact één keer voorkomen.","to":"ConceptStringE moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"Operand moet exact één keer voorkomen.","to":"ConceptStringE moet exact één keer voorkomen.",}
+{"type":"id-changed","from":"factVariable_LinkroleString2_MsgAdimensionalExistOnce1_Operand","to":"factVariable_LinkroleString2_MsgAdimensionalExistOnce1_ConceptStringE",}
+{"type":"id-changed","from":"LinkroleString2_MsgAdimensionalExistOnce1_Operand","to":"LinkroleString2_MsgAdimensionalExistOnce1_ConceptStringE",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter","to":"valueAssertion_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).","to":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).","to":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_assertion-unsatisfied-message_NL2","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_assertion-unsatisfied-message_NL2",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_Filter1TypedDimension1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_Filter1TypedDimension1",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_EN","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_FilterTypedDimension1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_FilterTypedDimension1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1","to":"valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceParentDebit1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceParentDebit1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceDebit1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceDebit1",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_assertion-unsatisfied-message_EN2","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_assertion-unsatisfied-message_EN2",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_NL","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_NL",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameDebit","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameDebit",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameCredit","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameCredit",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_Filter2TypedDimension1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_Filter2TypedDimension1",}
+{"type":"id-changed","from":"ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceCredit1","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptBalanceCredit1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).","to":"ConceptMoneyHDI ({$ConceptMoneyHDI}) moet gelijk zijn aan de sommatie van de onderliggende waarden ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDIDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDICredit}).",}
+{"type":"text-mapping","from":"ParentName must be equal to the summation of the underlying values.","to":"ConceptMoneyHDI must be equal to the summation of the underlying values.",}
+{"type":"text-mapping","from":"ParentName moet gelijk zijn aan de sommatie van de onderliggende waarden.","to":"ConceptMoneyHDI moet gelijk zijn aan de sommatie van de onderliggende waarden.",}
+{"type":"text-mapping","from":"ParentName ({$ParentName}) must be equal to the summation of the underlying values ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit}).","to":"ConceptMoneyHDI ({$ConceptMoneyHDI}) must be equal to the summation of the underlying values ({$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDIDebit}-{$varArc_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDICredit}).",}
+{"type":"id-changed","from":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptMoneyHDI",}
+{"type":"id-changed","from":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameDebit","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationConceptMoneyHDIDebit",}
+{"type":"id-changed","from":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationParentNameCredit","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_RelationConceptMoneyHDICredit",}
+{"type":"id-changed","from":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ParentName","to":"LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ConceptMoneyHDI",}
+{"type":"id-changed","from":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameDebit","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDIDebit",}
+{"type":"id-changed","from":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfParentNameCredit","to":"factVariable_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_ChildrenOfConceptMoneyHDICredit",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 5",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 4",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 3",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 2",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 1",}
+{"type":"text-mapping","from":"Typed member","to":"Typed member 2",}
+{"type":"name-mapping","from":"StuffMember","to":"StuffMember_0",}
+{"type":"id-changed","from":"abc-dm_StuffMember_label_nl","to":"abc-dm_StuffMember_0_label_nl",}
+{"type":"id-changed","from":"abc-dm_StuffMember","to":"abc-dm_StuffMember_0",}
+{"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 0",}

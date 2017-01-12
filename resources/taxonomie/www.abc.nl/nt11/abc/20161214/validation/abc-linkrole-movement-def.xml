@@ -8,10 +8,10 @@
   <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
   <link:definitionLink xlink:role="urn:abc:linkrole:linkrole-movement" xlink:type="extended">
     <link:definitionArc order="1" xbrldt:targetRole="urn:abc:linkrole:bo-pcommercial" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="sbr-dim_ValidationTable_loc" xlink:to="venj-bw2-dim_BasisOfPreparationAxis_loc" xlink:type="arc"/>
-    <link:definitionArc order="3" xbrldt:targetRole="urn:abc:linkrole:classes-of-stuff" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="sbr-dim_ValidationTable_loc" xlink:to="abc-dim_StuffAxes_loc" xlink:type="arc"/>
+    <link:definitionArc order="3" xbrldt:targetRole="urn:abc:linkrole:classes-of-stuff" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="sbr-dim_ValidationTable_loc" xlink:to="abc-dim_StuffAxis_loc" xlink:type="arc"/>
     <link:definitionArc order="2" xbrldt:targetRole="urn:abc:linkrole:fstconsolidated" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="sbr-dim_ValidationTable_loc" xlink:to="venj-bw2-dim_FinancialStatementsTypeAxis_loc" xlink:type="arc"/>
     <link:definitionArc order="4" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="sbr-dim_ValidationTable_loc" xlink:type="arc"/>
-    <link:loc xlink:href="../dictionary/abc-axes.xsd#abc-dim_StuffAxes" xlink:label="abc-dim_StuffAxes_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-axes.xsd#abc-dim_StuffAxis" xlink:label="abc-dim_StuffAxis_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationLineItems" xlink:label="sbr-dim_ValidationLineItems_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationTable" xlink:label="sbr-dim_ValidationTable_loc" xlink:type="locator"/>
     <link:loc xlink:href="../../../venj/20161214/dictionary/venj-bw2-axes.xsd#venj-bw2-dim_BasisOfPreparationAxis" xlink:label="venj-bw2-dim_BasisOfPreparationAxis_loc" xlink:type="locator"/>

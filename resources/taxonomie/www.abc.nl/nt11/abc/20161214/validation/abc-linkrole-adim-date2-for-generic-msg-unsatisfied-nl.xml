@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:msg="http://xbrl.org/2010/message" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2010/message http://www.xbrl.org/2010/generic-message.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:roleRef roleURI="http://www.xbrl.org/2010/role/message" xlink:href="http://www.xbrl.org/2010/generic-message.xsd#standard-message" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2010/assertion-unsatisfied-message" xlink:href="http://www.xbrl.org/2010/validation-message.xsd#assertion-unsatisfied-message" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2010/assertion-unsatisfied-message" xlink:from="valueAssertion_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_loc" xlink:to="LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1" xlink:type="arc"/>
+    <link:loc xlink:href="abc-linkrole-adim-date2-for.xml#valueAssertion_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1" xlink:label="valueAssertion_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_loc" xlink:type="locator"/>
+    <msg:message id="LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1" xlink:label="LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1" xlink:role="http://www.xbrl.org/2010/role/message" xlink:type="resource" xml:lang="nl">De datum gerapporteerd voor ConecptDateC ({$varArc_LinkroleAdimDate2_MsgAdimDateEarlierThanCurrent1_ConecptDateC}) moet liggen voor de huidige datum.</msg:message>
+  </gen:link>
+</link:linkbase>

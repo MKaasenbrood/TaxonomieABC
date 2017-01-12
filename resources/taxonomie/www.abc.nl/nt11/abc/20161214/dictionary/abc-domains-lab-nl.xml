@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-dm_StuffMember_0_label_nl" xlink:label="abc-dm_StuffMember_0_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 0</link:label>
+    <link:label id="abc-dm_StuffMember_1_label_nl" xlink:label="abc-dm_StuffMember_1_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 1</link:label>
+    <link:label id="abc-dm_StuffMember_2_label_nl" xlink:label="abc-dm_StuffMember_2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 2</link:label>
+    <link:label id="abc-dm_StuffMember_3_label_nl" xlink:label="abc-dm_StuffMember_3_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 3</link:label>
+    <link:label id="abc-dm_StuffMember_4_label_nl" xlink:label="abc-dm_StuffMember_4_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 4</link:label>
+    <link:label id="abc-dm_StuffMember_5_label_nl" xlink:label="abc-dm_StuffMember_5_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Stuff Member 5</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_0_loc" xlink:to="abc-dm_StuffMember_0_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_1_loc" xlink:to="abc-dm_StuffMember_1_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_2_loc" xlink:to="abc-dm_StuffMember_2_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_3_loc" xlink:to="abc-dm_StuffMember_3_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_4_loc" xlink:to="abc-dm_StuffMember_4_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-dm_StuffMember_5_loc" xlink:to="abc-dm_StuffMember_5_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_0" xlink:label="abc-dm_StuffMember_0_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_1" xlink:label="abc-dm_StuffMember_1_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_2" xlink:label="abc-dm_StuffMember_2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_3" xlink:label="abc-dm_StuffMember_3_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_4" xlink:label="abc-dm_StuffMember_4_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-domains.xsd#abc-dm_StuffMember_5" xlink:label="abc-dm_StuffMember_5_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

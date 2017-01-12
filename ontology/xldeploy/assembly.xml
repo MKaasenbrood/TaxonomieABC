@@ -1,0 +1,19 @@
+ <assembly>
+	<id>assembly</id>
+
+	<formats>
+		<format>zip</format>
+	</formats>
+
+	<includeBaseDirectory>false</includeBaseDirectory>
+	
+	<fileSets>
+		<fileSet>
+			<directory>target/test-classes</directory>
+			<outputDirectory>.</outputDirectory>
+			<includes>
+				<include>**/*.json</include>
+			</includes>
+		</fileSet>
+	</fileSets>
+</assembly>

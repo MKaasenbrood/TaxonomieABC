@@ -9,6 +9,7 @@
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
   <xs:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd"/>
-  <xs:element abstract="true" id="abc-dim_StuffAxes" name="StuffAxes" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-dim_StuffAxis" name="StuffAxis" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-dim_TypedAxis2" name="TypedAxis2" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrldt:typedDomainRef="abc-domains.xsd#abc-dm_TypedMember2" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-dim_TypedAxis" name="TypedAxis" nillable="false" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrldt:typedDomainRef="abc-domains.xsd#abc-dm_TypedMember" xbrli:periodType="duration"/>
 </xs:schema>

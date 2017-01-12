@@ -1,0 +1,36 @@
+ <assembly>
+	<id>assembly</id>
+
+	<formats>
+		<format>zip</format>
+	</formats>
+
+	<includeBaseDirectory>false</includeBaseDirectory>
+
+	<fileSets>
+		<fileSet>
+			<directory>target</directory>
+			<outputDirectory>.</outputDirectory>
+			<includes>
+				<include>InstanceValidationBatavia.html</include>
+				<include>InstanceValidationInuit.html</include>
+				<include>InstanceValidationInuitFormula.html</include>
+				<include>InstanceValidationInuitFris.html</include>
+			</includes>
+		</fileSet>
+		<fileSet>
+			<directory>target/test-classes/config</directory>
+			<outputDirectory>.</outputDirectory>
+			<includes>
+				<include>css/**/*.*</include>
+				<include>fonts/*.*</include>
+				<include>img/*.*</include>
+				<include>js/*.*</include>
+			</includes>
+			<excludes>
+				<exclude>${assembly.exclude}</exclude>
+			</excludes>
+		</fileSet>
+	</fileSets>
+
+</assembly>

@@ -1,0 +1,11 @@
+<findReplaceConfiguration>
+	<findReplace>
+		<files>
+			<fileRegex>.*.ods</fileRegex>
+		</files>
+		<expressions>
+			<findRegex/>
+			<replaceString/>
+		</expressions>
+	</findReplace>
+</findReplaceConfiguration>

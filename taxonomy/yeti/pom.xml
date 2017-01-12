@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>nl.taxonomie.sbr.abc.11.20161214</groupId>
+		<artifactId>taxonomy</artifactId>
+		<version>1.1-snapshot</version>
+	</parent>
+
+	<groupId>nl.taxonomie.sbr.abc.11.20161214.taxonomy</groupId>
+	<artifactId>yeti</artifactId>
+	<packaging>pom</packaging>
+	<name>Taxonomie ABC ${nta.version} - ${taxonomy.version} - taxonomy - yeti</name>
+
+	<dependencies>
+		<dependency>
+			<groupId>nl.taxonomie.sbr.sbr.11.20160610</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+		<dependency>
+			<groupId>nl.taxonomie.sbr.rj.11.20161214.taxonomy</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+		<dependency>
+			<groupId>nl.taxonomie.sbr.venj.11.20161214.taxonomy</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+		<dependency>
+			<groupId>nl.taxonomie.sbr.abc.11.20161214.taxonomy</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<version>${project.version}</version>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>nl.ebpi.maven-plugins</groupId>
+				<artifactId>taxonomy-package-validator</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>
