@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-t_Tuple_label_nl" xlink:label="abc-t_Tuple_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Tuple</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-t_Tuple_loc" xlink:to="abc-t_Tuple_label_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-tuple.xsd#abc-t_Tuple" xlink:label="abc-t_Tuple_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

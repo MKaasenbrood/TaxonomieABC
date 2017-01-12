@@ -17,21 +17,23 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleMovement_loc" xlink:to="abc-lr_LinkroleMovement_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2_loc" xlink:to="abc-lr_LinkroleString2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString_loc" xlink:to="abc-lr_LinkroleString_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleTuple_loc" xlink:to="abc-lr_LinkroleTuple_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleTyped_loc" xlink:to="abc-lr_LinkroleTyped_label_nl" xlink:type="arc"/>
-    <label:label id="abc-lr_ARequiredFields_label_nl" xlink:label="abc-lr_ARequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Benodigde velden</label:label>
     <label:label id="abc-lr_BoPCommercial_label_nl" xlink:label="abc-lr_BoPCommercial_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">BoPC</label:label>
     <label:label id="abc-lr_BoPFiscal_label_nl" xlink:label="abc-lr_BoPFiscal_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">BoPF</label:label>
     <label:label id="abc-lr_FSTConsolidated_label_nl" xlink:label="abc-lr_FSTConsolidated_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTC</label:label>
     <label:label id="abc-lr_FSTSeparate_label_nl" xlink:label="abc-lr_FSTSeparate_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTS</label:label>
     <label:label id="abc-lr_ClassesOfStuff_label_nl" xlink:label="abc-lr_ClassesOfStuff_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Klassen van stuffs</label:label>
-    <label:label id="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:label="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 1</label:label>
-    <label:label id="abc-lr_LinkroleString_label_nl" xlink:label="abc-lr_LinkroleString_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 2</label:label>
-    <label:label id="abc-lr_LinkroleString2_label_nl" xlink:label="abc-lr_LinkroleString2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 4</label:label>
-    <label:label id="abc-lr_LinkroleTyped_label_nl" xlink:label="abc-lr_LinkroleTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 5</label:label>
-    <label:label id="abc-lr_LinkroleAdimDates_label_nl" xlink:label="abc-lr_LinkroleAdimDates_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 6</label:label>
-    <label:label id="abc-lr_LinkroleBreakdown2_label_nl" xlink:label="abc-lr_LinkroleBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 7</label:label>
-    <label:label id="abc-lr_LinkroleMovement_label_nl" xlink:label="abc-lr_LinkroleMovement_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole 8</label:label>
-    <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole</label:label>
+    <label:label id="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:label="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole ADimStringTyped</label:label>
+    <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole AdimDate2</label:label>
+    <label:label id="abc-lr_LinkroleAdimDates_label_nl" xlink:label="abc-lr_LinkroleAdimDates_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole AdimDates</label:label>
+    <label:label id="abc-lr_ARequiredFields_label_nl" xlink:label="abc-lr_ARequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Benodigde velden</label:label>
+    <label:label id="abc-lr_LinkroleTuple_label_nl" xlink:label="abc-lr_LinkroleTuple_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Tuple</label:label>
+    <label:label id="abc-lr_LinkroleTyped_label_nl" xlink:label="abc-lr_LinkroleTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Typed</label:label>
+    <label:label id="abc-lr_LinkroleBreakdown2_label_nl" xlink:label="abc-lr_LinkroleBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole breakdown2</label:label>
+    <label:label id="abc-lr_LinkroleMovement_label_nl" xlink:label="abc-lr_LinkroleMovement_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole movement</label:label>
+    <label:label id="abc-lr_LinkroleString2_label_nl" xlink:label="abc-lr_LinkroleString2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole string2</label:label>
+    <label:label id="abc-lr_LinkroleString_label_nl" xlink:label="abc-lr_LinkroleString_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole string</label:label>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:label="abc-lr_ARequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPCommercial" xlink:label="abc-lr_BoPCommercial_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPFiscal" xlink:label="abc-lr_BoPFiscal_loc" xlink:type="locator"/>
@@ -45,6 +47,7 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleMovement" xlink:label="abc-lr_LinkroleMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:label="abc-lr_LinkroleString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleTyped" xlink:label="abc-lr_LinkroleTyped_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

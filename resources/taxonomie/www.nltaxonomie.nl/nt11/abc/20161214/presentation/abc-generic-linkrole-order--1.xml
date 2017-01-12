@@ -24,15 +24,15 @@
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTyped" xlink:label="abc-lr_LinkroleTyped_loc" xlink:type="locator"/>
-    <sbr:linkroleOrder id="abc-lr_LinkroleTuple_rsc" xlink:label="abc-lr_LinkroleTuple_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">0.5</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleAdimStringTyped_rsc" xlink:label="abc-lr_LinkroleAdimStringTyped_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">2.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleAdimDate2_rsc" xlink:label="abc-lr_LinkroleAdimDate2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">3.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleBreakdown2_rsc" xlink:label="abc-lr_LinkroleBreakdown2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">4.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleMovement_rsc" xlink:label="abc-lr_LinkroleMovement_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">5.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleString_rsc" xlink:label="abc-lr_LinkroleString_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">6.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleString2_rsc" xlink:label="abc-lr_LinkroleString2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">7.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleAdimDates_rsc" xlink:label="abc-lr_LinkroleAdimDates_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">7.5</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_LinkroleTyped_rsc" xlink:label="abc-lr_LinkroleTyped_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">8.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_ARequiredFields_rsc" xlink:label="abc-lr_ARequiredFields_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">9.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_ARequiredFields_rsc" xlink:label="abc-lr_ARequiredFields_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">1.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleAdimDate2_rsc" xlink:label="abc-lr_LinkroleAdimDate2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">2.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleAdimDates_rsc" xlink:label="abc-lr_LinkroleAdimDates_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">3.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleAdimStringTyped_rsc" xlink:label="abc-lr_LinkroleAdimStringTyped_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">4.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleBreakdown2_rsc" xlink:label="abc-lr_LinkroleBreakdown2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">5.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleMovement_rsc" xlink:label="abc-lr_LinkroleMovement_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">6.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleString_rsc" xlink:label="abc-lr_LinkroleString_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">7.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleString2_rsc" xlink:label="abc-lr_LinkroleString2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">8.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleTuple_rsc" xlink:label="abc-lr_LinkroleTuple_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">9.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleTyped_rsc" xlink:label="abc-lr_LinkroleTyped_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">10.0</sbr:linkroleOrder>
   </gen:link>
 </link:linkbase>

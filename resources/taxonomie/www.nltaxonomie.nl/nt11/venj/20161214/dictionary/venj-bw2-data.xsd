@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<xs:schema xmlns:venj-bw2-i="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-data" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-data">
+<xs:schema xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:venj-bw2-i="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-data" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-data">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="venj-bw2-data-documentation-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
   <xs:element abstract="false" id="venj-bw2-i_FinancialReportingPeriodCurrentEndDate" name="FinancialReportingPeriodCurrentEndDate" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="venj-bw2-i_FinancialReportingPeriodCurrentStartDate" name="FinancialReportingPeriodCurrentStartDate" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="venj-bw2-i_FinancialReportingPeriodPreviousEndDate" name="FinancialReportingPeriodPreviousEndDate" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="venj-bw2-i_FinancialReportingPeriodCurrentEndDate_documentation_nl" xlink:label="venj-bw2-i_FinancialReportingPeriodCurrentEndDate_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="venj-bw2-i_FinancialReportingPeriodCurrentStartDate_documentation_nl" xlink:label="venj-bw2-i_FinancialReportingPeriodCurrentStartDate_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="venj-bw2-i_FinancialReportingPeriodPreviousEndDate_documentation_nl" xlink:label="venj-bw2-i_FinancialReportingPeriodPreviousEndDate_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="venj-bw2-i_FinancialReportingPeriodPreviousStartDate_documentation_nl" xlink:label="venj-bw2-i_FinancialReportingPeriodPreviousStartDate_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="venj-bw2-i_FinancialReportingPeriodCurrentEndDate_loc" xlink:to="venj-bw2-i_FinancialReportingPeriodCurrentEndDate_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="venj-bw2-i_FinancialReportingPeriodCurrentStartDate_loc" xlink:to="venj-bw2-i_FinancialReportingPeriodCurrentStartDate_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="venj-bw2-i_FinancialReportingPeriodPreviousEndDate_loc" xlink:to="venj-bw2-i_FinancialReportingPeriodPreviousEndDate_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="venj-bw2-i_FinancialReportingPeriodPreviousStartDate_loc" xlink:to="venj-bw2-i_FinancialReportingPeriodPreviousStartDate_documentation_nl" xlink:type="arc"/>
+    <link:loc xlink:href="venj-bw2-data.xsd#venj-bw2-i_FinancialReportingPeriodCurrentEndDate" xlink:label="venj-bw2-i_FinancialReportingPeriodCurrentEndDate_loc" xlink:type="locator"/>
+    <link:loc xlink:href="venj-bw2-data.xsd#venj-bw2-i_FinancialReportingPeriodCurrentStartDate" xlink:label="venj-bw2-i_FinancialReportingPeriodCurrentStartDate_loc" xlink:type="locator"/>
+    <link:loc xlink:href="venj-bw2-data.xsd#venj-bw2-i_FinancialReportingPeriodPreviousEndDate" xlink:label="venj-bw2-i_FinancialReportingPeriodPreviousEndDate_loc" xlink:type="locator"/>
+    <link:loc xlink:href="venj-bw2-data.xsd#venj-bw2-i_FinancialReportingPeriodPreviousStartDate" xlink:label="venj-bw2-i_FinancialReportingPeriodPreviousStartDate_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

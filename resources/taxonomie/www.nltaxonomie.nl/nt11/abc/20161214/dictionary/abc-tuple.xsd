@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:abc-t="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-tuple" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-tuple">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-tuple-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" schemaLocation="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension.xsd"/>
+  <xs:import namespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" schemaLocation="abc-data.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:element abstract="false" id="abc-t_Tuple" name="Tuple" nillable="false" substitutionGroup="sbr:specificationTuple">
+    <xs:complexType>
+      <xs:complexContent>
+        <xs:extension base="sbr:placeholder">
+          <xs:sequence maxOccurs="1" minOccurs="1">
+            <xs:choice maxOccurs="1" minOccurs="1">
+              <xs:element maxOccurs="1" minOccurs="0" ref="abc-i:ConceptTuple4"/>
+              <xs:element maxOccurs="1" minOccurs="0" ref="abc-i:ConceptTuple5"/>
+            </xs:choice>
+            <xs:element maxOccurs="1" minOccurs="0" ref="abc-i:ConceptTuple1"/>
+            <xs:element maxOccurs="1" minOccurs="0" ref="abc-i:ConceptTuple2"/>
+            <xs:element maxOccurs="1" minOccurs="0" ref="abc-i:ConceptTuple3"/>
+          </xs:sequence>
+        </xs:extension>
+      </xs:complexContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

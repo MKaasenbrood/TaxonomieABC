@@ -4,8 +4,8 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_loc" xlink:to="LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_EN" xlink:type="arc"/>
-    <label:label id="LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_EN" xlink:label="LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_label_EN" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">ConceptMoneyHDI must be equal to the summation of the underlying values.</label:label>
-    <link:loc xlink:href="abc-linkrole-typed-for.xml#valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1" xlink:label="valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebitTypedDimensionFilter1_loc" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebit1_loc" xlink:to="LinkroleTyped_MsgAdimSumOfChildrenParentDebit1_label_EN" xlink:type="arc"/>
+    <label:label id="LinkroleTyped_MsgAdimSumOfChildrenParentDebit1_label_EN" xlink:label="LinkroleTyped_MsgAdimSumOfChildrenParentDebit1_label_EN" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">ConceptMoneyHDI must be equal to the summation of the underlying values.</label:label>
+    <link:loc xlink:href="abc-linkrole-typed-for.xml#valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebit1" xlink:label="valueAssertion_LinkroleTyped_MsgAdimSumOfChildrenParentDebit1_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

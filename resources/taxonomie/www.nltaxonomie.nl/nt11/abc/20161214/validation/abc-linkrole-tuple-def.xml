@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <link:roleRef roleURI="urn:abc:linkrole:arequired-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:type="simple"/>
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-tuple" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
-  <link:definitionLink xlink:role="urn:abc:linkrole:arequired-fields" xlink:type="extended">
+  <link:definitionLink xlink:role="urn:abc:linkrole:linkrole-tuple" xlink:type="extended">
     <link:definitionArc order="1" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="sbr-dim_ValidationTable_loc" xlink:type="arc"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationLineItems" xlink:label="sbr-dim_ValidationLineItems_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationTable" xlink:label="sbr-dim_ValidationTable_loc" xlink:type="locator"/>
