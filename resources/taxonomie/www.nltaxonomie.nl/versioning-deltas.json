@@ -1026,3 +1026,27 @@
 {"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"Tuple",}
 {"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"Tuple",}
 {"type":"text-mapping","from":"De Tuple is verplicht","to":"De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.",}
+{"type":"text-mapping","from":"Concept Date","to":"Concept Date A",}
+{"type":"text-mapping","from":"ConceptMoneyHDI is som van ConceptMoneyGDI minus ConceptMoneyGCI +ConceptMoneyACD = ConceptMoneyGCI einde van de periode. ConceptMoneyACI=ConceptMoneyBCI+ConceptMoneyCCI. Optelling van ConceptMoneyACD=ConceptMoneyBCD-ConceptMoneyCDCD-ConceptMoneyBDD+ConceptMoneyCCD","to":"Optelling van ConceptMoneyACD=ConceptMoneyBCD-ConceptMoneyCDCD-ConceptMoneyBDD+ConceptMoneyCCD",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld DDI",}
+{"type":"text-mapping","from":"Concept Geld CDI, einde","to":"Concept Geld DDI, einde",}
+{"type":"text-mapping","from":"Concept Geld CDI, start","to":"Concept Geld DDI, start",}
+{"type":"text-mapping","from":"Concept Geld CDI, kort","to":"Concept Geld DDI, kort",}
+{"type":"text-mapping","from":"Concept Geld CCI","to":"Concept Geld FCI",}
+{"type":"text-mapping","from":"Concept Geld CCI, einde","to":"Concept Geld FCI, einde",}
+{"type":"text-mapping","from":"Concept Geld CCI, start","to":"Concept Geld FCI, start",}
+{"type":"text-mapping","from":"Concept Geld CCI, kort","to":"Concept Geld FCI, kort",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld GCI",}
+{"type":"text-mapping","from":"Concept Geld CDI, einde","to":"Concept Geld GCI, einde",}
+{"type":"text-mapping","from":"Concept Geld CDI, start","to":"Concept Geld GCI, start",}
+{"type":"text-mapping","from":"Concept Geld CDI, kort","to":"Concept Geld GCI, kort",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld GDI",}
+{"type":"text-mapping","from":"Concept Geld CDI, einde","to":"Concept Geld GDI, einde",}
+{"type":"text-mapping","from":"Concept Geld CDI, start","to":"Concept Geld GDI, start",}
+{"type":"text-mapping","from":"Concept Geld CDI, kort","to":"Concept Geld GDI, kort",}
+{"type":"text-mapping","from":"Concept Geld CDI","to":"Concept Geld HDI",}
+{"type":"text-mapping","from":"Concept Geld CDI, einde","to":"Concept Geld HDI, einde",}
+{"type":"text-mapping","from":"Concept Geld CDI, start","to":"Concept Geld HDI, start",}
+{"type":"text-mapping","from":"Concept Geld CDI, kort","to":"Concept Geld HDI, kort",}
+{"type":"text-mapping","from":"ConceptMoneyDCI = -ConceptMoneyDDI + ConceptMoneyFCI","to":"DCI = -DDI + FCI",}
+{"type":"text-mapping","from":"ConceptMoneyHDI = -ConceptMoneyGCI +ConceptMoneyGDI (kan tzt worden aangepast naar een versie met TypedDimension filter)","to":"HDI = -GCI +GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)",}

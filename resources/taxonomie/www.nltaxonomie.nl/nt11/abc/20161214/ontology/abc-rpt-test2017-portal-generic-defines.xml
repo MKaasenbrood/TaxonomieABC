@@ -12,8 +12,28 @@
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="abc-rpt-t2017_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="http_www_nltaxonomie_nl_nt11_abc_20161214_dictionary_abc_data_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_arequired_fields_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_date2_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_dates_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_string_typed_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_breakdown2_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_movement_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_string2_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_string_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_tuple_for_xml_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_typed_for_xml_loc" xlink:type="arc"/>
     <link:loc xlink:href="abc-rpt-test2017-portal.xsd#abc-rpt-t17-p" xlink:label="abc-rpt-t17-p_loc" xlink:type="locator"/>
     <link:loc xlink:href="../entrypoints/abc-rpt-test-2017.xsd#abc-rpt-t2017" xlink:label="abc-rpt-t2017_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd" xlink:label="http_www_nltaxonomie_nl_nt11_abc_20161214_dictionary_abc_data_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-arequired-fields-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_arequired_fields_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-adim-date2-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_date2_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-adim-dates-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_dates_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-adim-string-typed-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_adim_string_typed_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-breakdown2-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_breakdown2_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-movement-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_movement_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-string2-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_string2_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-string-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_string_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-tuple-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_tuple_for_xml_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../validation/abc-linkrole-typed-for.xml" xlink:label="platform_resource_ABC_nt11_abc_20161214_validation_abc_linkrole_typed_for_xml_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

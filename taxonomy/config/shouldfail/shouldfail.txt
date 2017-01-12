@@ -47,7 +47,6 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-tuple-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_3_2_16_01 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
-nl.taxonomievalidatie.rule.Validator_3_2_7_06 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts-lab-nl.xml FAIL
 nl.taxonomievalidatie.rule.Validator_3_2_6_01 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_8_05 www.nltaxonomie.nl/nt11/abc/20161214/ ERROR nl.taxonomievalidatie.common.error.PreconditionViolationException
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
