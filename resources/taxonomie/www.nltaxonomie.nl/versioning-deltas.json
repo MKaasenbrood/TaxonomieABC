@@ -842,3 +842,12 @@
 {"type":"id-changed","from":"abc-dm_StuffMember_label_nl","to":"abc-dm_StuffMember_0_label_nl",}
 {"type":"id-changed","from":"abc-dm_StuffMember","to":"abc-dm_StuffMember_0",}
 {"type":"text-mapping","from":"Stuff Member","to":"Stuff Member 0",}
+{"type":"namespace-mapping","from":"http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-rpt-test2017-portal","to":"http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/sd",}
+{"type":"namespace-mapping","from":"http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-rpt-test2017-portal","to":"http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/sd",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ConceptValuta",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootTyped_1","to":"abc-abstr_AbstractRootRequiredFields",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootTyped_1_label_nl","to":"abc-abstr_AbstractRootRequiredFields_label_nl",}
+{"type":"name-mapping","from":"AbstractRootTyped_1","to":"AbstractRootRequiredFields",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_ConceptIntityIdentifier",}
+{"type":"id-changed","from":"abc-lr_RequiredFields_label_nl","to":"abc-lr_LinkroleRequiredFields_label_nl",}
+{"type":"id-changed","from":"abc-lr_RequiredFields_rsc","to":"abc-lr_LinkroleRequiredFields_rsc",}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema xmlns:abc-rpt-t17-p="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-rpt-test2017-portal" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" id="abc-rpt-t17-p" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-rpt-test2017-portal">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-generic-use-as-entity-identifier.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-generic-valuta-concept.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test2017-portal-generic-defines.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test2017-portal-generic-entrypoint-identifier.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test2017-portal-generic-type.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test2017-portal-generic-uses.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test-2017-generic-identifier-scheme.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test-2017-generic-language-form.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test-2017-generic-portal-ontology-definition-version.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test-2017-generic-sequential.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+</xs:schema>

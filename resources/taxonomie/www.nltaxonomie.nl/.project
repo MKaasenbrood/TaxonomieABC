@@ -3,6 +3,7 @@
 	<name>ABC</name>
 	<comment></comment>
 	<projects>
+		<project>PortalOntologyDefinition</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>

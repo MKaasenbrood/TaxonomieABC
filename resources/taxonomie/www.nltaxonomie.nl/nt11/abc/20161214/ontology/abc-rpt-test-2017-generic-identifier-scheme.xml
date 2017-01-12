@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:ebpi="http://www.ebpi.nl/2015/meta-ontology" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.ebpi.nl/2015/meta-ontology http://www.ebpi.nl/2015/meta-ontology.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:ebpi:husky:scheme" xlink:href="http://www.nltaxonomie.nl/ebpi/xbrl/arcrole/custom-arcroles.xsd#ebpi-ca_identifier-scheme" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <ebpi:genericValue id="identifier-schema" xlink:label="identifier-schema" xlink:type="resource">identifier-schema</ebpi:genericValue>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:scheme" xlink:from="abc-rpt-t2017_loc" xlink:to="identifier-schema" xlink:type="arc"/>
+    <link:loc xlink:href="../entrypoints/abc-rpt-test-2017.xsd#abc-rpt-t2017" xlink:label="abc-rpt-t2017_loc" xlink:type="locator"/>
+  </gen:link>
+</link:linkbase>

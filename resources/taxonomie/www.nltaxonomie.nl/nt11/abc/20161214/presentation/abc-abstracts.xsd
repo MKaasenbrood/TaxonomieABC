@@ -14,6 +14,7 @@
   <xs:element abstract="true" id="abc-abstr_AbstractRootAdimStringTyped" name="AbstractRootAdimStringTyped" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-abstr_AbstractRootBreakdown2" name="AbstractRootBreakdown2" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-abstr_AbstractRootMovement" name="AbstractRootMovement" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-abstr_AbstractRootRequiredFields" name="AbstractRootRequiredFields" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-abstr_AbstractRootString2" name="AbstractRootString2" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-abstr_AbstractRootString" name="AbstractRootString" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-abstr_AbstractRootTyped" name="AbstractRootTyped" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>

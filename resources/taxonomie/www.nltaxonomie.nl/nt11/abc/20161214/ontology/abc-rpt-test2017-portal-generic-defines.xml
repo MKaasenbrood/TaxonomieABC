@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:defines" xlink:href="http://www.ebpi.nl/2015/meta-ontology.xsd#meta_Defines" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="abc-rpt-t2017_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:defines" xlink:from="abc-rpt-t17-p_loc" xlink:to="http_www_nltaxonomie_nl_nt11_abc_20161214_dictionary_abc_data_loc" xlink:type="arc"/>
+    <link:loc xlink:href="abc-rpt-test2017-portal.xsd#abc-rpt-t17-p" xlink:label="abc-rpt-t17-p_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../entrypoints/abc-rpt-test-2017.xsd#abc-rpt-t2017" xlink:label="abc-rpt-t2017_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd" xlink:label="http_www_nltaxonomie_nl_nt11_abc_20161214_dictionary_abc_data_loc" xlink:type="locator"/>
+  </gen:link>
+</link:linkbase>

@@ -53,6 +53,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleRequiredFields" roleURI="urn:abc:linkrole:linkrole-required-fields">
+        <link:definition>Benodigde velden</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleString2" roleURI="urn:abc:linkrole:linkrole-string2">
         <link:definition>Linkrole 4</link:definition>
         <link:usedOn>gen:link</link:usedOn>
