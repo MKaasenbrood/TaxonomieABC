@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
   <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
     <link:label id="abc-i_ConceptStringA_periodEndLabel_nl" xlink:label="abc-i_ConceptStringA_periodEndLabel_nl" xlink:role="http://www.xbrl.org/2003/role/periodEndLabel" xlink:type="resource" xml:lang="nl">Concept A einde van de periode</link:label>

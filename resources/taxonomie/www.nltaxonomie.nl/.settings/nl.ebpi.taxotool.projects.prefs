@@ -1,6 +1,6 @@
 absoluteURL=http\://www.nltaxonomie.nl
-comment=
-commentEnabled=false
+comment=\r\n  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)\r\n  Intellectual Property of the State of the Netherlands\r\n  Architecture\: NT11\r\n  Version\: 20161214\r\n  Release date\: Wed Dec 14 09\:00\:00 2016\r\n
+commentEnabled=true
 eclipse.preferences.version=1
 isNta=true
 isNtaExtension=false

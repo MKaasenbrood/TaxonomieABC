@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
 <link:linkbase xmlns:abc-abstr="http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts" xmlns:formula="http://xbrl.org/2008/formula" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:table="http://xbrl.org/2014/table" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts abc-abstracts.xsd http://xbrl.org/2008/formula http://www.xbrl.org/2008/formula.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2014/table http://www.xbrl.org/2014/table.xsd">
   <gen:link xlink:role="urn:abc:linkrole:linkrole-adim-date2" xlink:type="extended">
     <table:table id="kvk-table_AdimDates2" parentChildOrder="parent-first" xlink:label="kvk-table_AdimDates2" xlink:type="resource"/>
