@@ -1157,3 +1157,5 @@
 {"type":"id-changed","from":"abc-o-abstr_NavigationTitle_label_nl","to":"abc-o-abstr_Navigation_label_nl",}
 {"type":"id-changed","from":"abc-o-abstr_NavigationTitle","to":"abc-o-abstr_Navigation",}
 {"type":"name-mapping","from":"NavigationTitle","to":"Navigation",}
+{"type":"text-mapping","from":"ConceptMoneyDCI, totaal","to":"ConceptMoneyACD, totaal",}
+{"type":"text-mapping","from":"ConceptMoneyDCI, totaal","to":"ConceptMoneyHDI, totaal",}

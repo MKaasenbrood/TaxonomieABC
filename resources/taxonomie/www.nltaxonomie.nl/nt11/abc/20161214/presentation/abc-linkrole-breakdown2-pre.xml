@@ -13,7 +13,7 @@
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyDCI" xlink:label="abc-i_ConceptMoneyDCI_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyDDI" xlink:label="abc-i_ConceptMoneyDDI_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyFCI" xlink:label="abc-i_ConceptMoneyFCI_loc" xlink:type="locator"/>
-    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootBreakdown2_loc" xlink:to="abc-i_ConceptMoneyDCI_loc" xlink:type="arc"/>
+    <link:presentationArc order="1" preferredLabel="http://www.xbrl.org/2003/role/totalLabel" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootBreakdown2_loc" xlink:to="abc-i_ConceptMoneyDCI_loc" xlink:type="arc"/>
     <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-i_ConceptMoneyDCI_loc" xlink:to="abc-i_ConceptMoneyDDI_loc" xlink:type="arc"/>
     <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-i_ConceptMoneyDCI_loc" xlink:to="abc-i_ConceptMoneyFCI_loc" xlink:type="arc"/>
   </link:presentationLink>
