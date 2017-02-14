@@ -1201,3 +1201,93 @@
 {"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-y.1","to":"kvk-table_LinkroleBreakdown1Table-y.1",}
 {"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig","to":"kvk-table_LinkroleBreakdown1Table",}
 {"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1.1","to":"kvk-table_LinkroleBreakdown1Table-x.1.1.1",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1","to":"abc-i_ConceptMoneyICI",}
+{"type":"name-mapping","from":"ConceptMoneyIDI_1","to":"ConceptMoneyICI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_totalLabel_nl","to":"abc-i_ConceptMoneyICI_totalLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyICI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyICI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_documentation_nl","to":"abc-i_ConceptMoneyICI_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_label_nl","to":"abc-i_ConceptMoneyICI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyICI_terseLabel_nl",}
+{"type":"text-mapping","from":"Concept Geld HDI","to":"Concept Geld IDI",}
+{"type":"text-mapping","from":"Concept Geld HDI, einde","to":"Concept Geld IDI, einde",}
+{"type":"text-mapping","from":"Concept Geld HDI, start","to":"Concept Geld IDI, start",}
+{"type":"text-mapping","from":"Concept Geld HDI, kort","to":"Concept Geld IDI, kort",}
+{"type":"text-mapping","from":"ConceptMoneyHDI, totaal","to":"ConceptMoney IDI, totaal",}
+{"type":"text-mapping","from":"Concept Geld HDI","to":"Concept Geld IDI",}
+{"type":"text-mapping","from":"Concept Geld HDI, einde","to":"Concept Geld IDI, einde",}
+{"type":"text-mapping","from":"Concept Geld HDI, start","to":"Concept Geld IDI, start",}
+{"type":"text-mapping","from":"Concept Geld HDI, kort","to":"Concept Geld IDI, kort",}
+{"type":"text-mapping","from":"ConceptMoneyHDI, totaal","to":"ConceptMoney IDI, totaal",}
+{"type":"id-changed","from":"abc-i_null","to":"abc-i_cONCEPTbOOLEAN",}
+{"type":"id-changed","from":"abc-i_cONCEPTbOOLEAN","to":"abc-i_ConceptBoolean",}
+{"type":"name-mapping","from":"cONCEPTbOOLEAN","to":"ConceptBoolean",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI","to":"abc-i_ConceptMoneyIDD",}
+{"type":"name-mapping","from":"ConceptMoneyIDI","to":"ConceptMoneyIDD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_terseLabel_nl","to":"abc-i_ConceptMoneyIDD_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_totalLabel_nl","to":"abc-i_ConceptMoneyIDD_totalLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_documentation_nl","to":"abc-i_ConceptMoneyIDD_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_label_nl","to":"abc-i_ConceptMoneyIDD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_periodEndLabel_nl","to":"abc-i_ConceptMoneyIDD_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDI_periodStartLabel_nl","to":"abc-i_ConceptMoneyIDD_periodStartLabel_nl",}
+{"type":"text-mapping","from":"Concept Geld IDI","to":"Concept Geld IDD",}
+{"type":"text-mapping","from":"Concept Geld IDI, einde","to":"Concept Geld IDD, einde",}
+{"type":"text-mapping","from":"Concept Geld IDI, start","to":"Concept Geld IDD, start",}
+{"type":"text-mapping","from":"Concept Geld IDI, kort","to":"Concept Geld IDD, kort",}
+{"type":"text-mapping","from":"ConceptMoney IDI, totaal","to":"ConceptMoney IDD, totaal",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD","to":"abc-i_ConceptMoneyIDI",}
+{"type":"name-mapping","from":"ConceptMoneyIDD","to":"ConceptMoneyIDI",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_totalLabel_nl","to":"abc-i_ConceptMoneyIDI_totalLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_terseLabel_nl","to":"abc-i_ConceptMoneyIDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_documentation_nl","to":"abc-i_ConceptMoneyIDI_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_label_nl","to":"abc-i_ConceptMoneyIDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_periodEndLabel_nl","to":"abc-i_ConceptMoneyIDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyIDD_periodStartLabel_nl","to":"abc-i_ConceptMoneyIDI_periodStartLabel_nl",}
+{"type":"text-mapping","from":"Concept Geld IDD","to":"Concept Geld IDI",}
+{"type":"text-mapping","from":"Concept Geld IDD, einde","to":"Concept Geld IDI, einde",}
+{"type":"text-mapping","from":"Concept Geld IDD, start","to":"Concept Geld IDI, start",}
+{"type":"text-mapping","from":"Concept Geld IDD, kort","to":"Concept Geld IDI, kort",}
+{"type":"text-mapping","from":"ConceptMoney IDD, totaal","to":"ConceptMoney IDI, totaal",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI","to":"abc-i_ConceptMoneyIDD",}
+{"type":"name-mapping","from":"ConceptMoneyICI","to":"ConceptMoneyIDD",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_totalLabel_nl","to":"abc-i_ConceptMoneyIDD_totalLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_periodEndLabel_nl","to":"abc-i_ConceptMoneyIDD_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_periodStartLabel_nl","to":"abc-i_ConceptMoneyIDD_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_documentation_nl","to":"abc-i_ConceptMoneyIDD_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_terseLabel_nl","to":"abc-i_ConceptMoneyIDD_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyICI_label_nl","to":"abc-i_ConceptMoneyIDD_label_nl",}
+{"type":"text-mapping","from":"Concept Geld IDI","to":"Concept Geld IDD",}
+{"type":"text-mapping","from":"Concept Geld IDI, einde","to":"Concept Geld IDD, einde",}
+{"type":"text-mapping","from":"Concept Geld IDI, start","to":"Concept Geld IDD, start",}
+{"type":"text-mapping","from":"Concept Geld IDI, kort","to":"Concept Geld IDD, kort",}
+{"type":"text-mapping","from":"ConceptMoney IDI, totaal","to":"ConceptMoney IDD, totaal",}
+{"type":"text-mapping","from":"Concept Date C","to":"Concept Date D",}
+{"type":"id-changed","from":"abc-i_ConceptDateC_1","to":"abc-i_ConceptDateD",}
+{"type":"name-mapping","from":"ConceptDateC_1","to":"ConceptDateD",}
+{"type":"id-changed","from":"abc-i_ConceptDateC_1_label_nl","to":"abc-i_ConceptDateD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateC_1_documentation_nl","to":"abc-i_ConceptDateD_documentation_nl",}
+{"type":"text-mapping","from":"Concept G","to":"Concept String G",}
+{"type":"text-mapping","from":"ConceptIntityIdentifier moet exact één keer voorkomen.","to":"ConceptStringG moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptIntityIdentifier must exist once.","to":"ConceptStringG must exist once.",}
+{"type":"text-mapping","from":"ConceptIntityIdentifier moet exact één keer voorkomen.","to":"ConceptStringG moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptIntityIdentifier must exist once.","to":"ConceptStringG must exist once.",}
+{"type":"id-changed","from":"factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptIntityIdentifier","to":"factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG",}
+{"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce2_ConceptIntityIdentifier","to":"ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptMoneyIDD must exist once.",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptMoneyIDD must exist once.",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptMoneyIDD moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptMoneyIDD moet exact één keer voorkomen.",}
+{"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce3_ConceptValuta","to":"ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD",}
+{"type":"id-changed","from":"factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptValuta","to":"factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptBoolean moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptBoolean must exist once.",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptBoolean must exist once.",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptBoolean moet exact één keer voorkomen.",}
+{"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce4_ConceptValuta","to":"ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean",}
+{"type":"id-changed","from":"factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptValuta","to":"factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptDateD moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptDateD must exist once.",}
+{"type":"text-mapping","from":"ConceptValuta moet exact één keer voorkomen.","to":"ConceptDateD moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptDateD must exist once.",}
+{"type":"id-changed","from":"factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptValuta","to":"factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD",}
+{"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptValuta","to":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD",}
