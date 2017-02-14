@@ -50,6 +50,7 @@
     <link:label id="abc-i_ConceptTuple3_label_nl" xlink:label="abc-i_ConceptTuple3_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple3</link:label>
     <link:label id="abc-i_ConceptTuple4_label_nl" xlink:label="abc-i_ConceptTuple4_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple4</link:label>
     <link:label id="abc-i_ConceptTuple5_label_nl" xlink:label="abc-i_ConceptTuple5_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple5</link:label>
+    <link:label id="abc-i_TypedMemberPresentationOrder_label_nl" xlink:label="abc-i_TypedMemberPresentationOrder_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Typed member presentatievolgorde</link:label>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateA_loc" xlink:to="abc-i_ConceptDateA_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateB_loc" xlink:to="abc-i_ConceptDateB_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateC_loc" xlink:to="abc-i_ConceptDateC_label_nl" xlink:type="arc"/>
@@ -92,6 +93,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple4_loc" xlink:to="abc-i_ConceptTuple4_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple5_loc" xlink:to="abc-i_ConceptTuple5_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptValuta_loc" xlink:to="abc-i_ConceptValuta_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_TypedMemberPresentationOrder_loc" xlink:to="abc-i_TypedMemberPresentationOrder_label_nl" xlink:type="arc"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateA" xlink:label="abc-i_ConceptDateA_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateB" xlink:label="abc-i_ConceptDateB_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateC" xlink:label="abc-i_ConceptDateC_loc" xlink:type="locator"/>
@@ -134,5 +136,6 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptTuple4" xlink:label="abc-i_ConceptTuple4_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptTuple5" xlink:label="abc-i_ConceptTuple5_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptValuta" xlink:label="abc-i_ConceptValuta_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_TypedMemberPresentationOrder" xlink:label="abc-i_TypedMemberPresentationOrder_loc" xlink:type="locator"/>
   </link:labelLink>
 </link:linkbase>

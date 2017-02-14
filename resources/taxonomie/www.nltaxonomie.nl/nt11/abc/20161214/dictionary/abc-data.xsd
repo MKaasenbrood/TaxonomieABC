@@ -65,4 +65,5 @@
   <xs:element abstract="false" id="abc-i_ConceptTuple4" name="ConceptTuple4" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptTuple5" name="ConceptTuple5" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptValuta" name="ConceptValuta" nillable="false" substitutionGroup="xbrli:item" type="iso4217-enum-sbr:isoCurrencyCodes4217ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_TypedMemberPresentationOrder" name="TypedMemberPresentationOrder" nillable="false" substitutionGroup="xbrli:item" type="nl-types:nonNegativeDecimalItemType" xbrli:periodType="duration"/>
 </xs:schema>
