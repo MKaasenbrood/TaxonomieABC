@@ -51,6 +51,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_8_05 www.nltaxonomie.nl/nt11/abc/20161214/ ERROR nl.taxonomievalidatie.common.error.PreconditionViolationException
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-breakdown1-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL

@@ -12,7 +12,15 @@
   <link:definitionLink xlink:role="urn:abc:linkrole:arequired-fields" xlink:type="extended">
     <link:definitionArc order="1" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptEntityIdentifier_loc" xlink:type="arc"/>
     <link:definitionArc order="2" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptValuta_loc" xlink:type="arc"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptBoolean_loc" xlink:type="arc"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptDateD_loc" xlink:type="arc"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptMoneyIDD_loc" xlink:type="arc"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptStringG_loc" xlink:type="arc"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean" xlink:label="abc-i_ConceptBoolean_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateD" xlink:label="abc-i_ConceptDateD_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEntityIdentifier" xlink:label="abc-i_ConceptEntityIdentifier_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyIDD" xlink:label="abc-i_ConceptMoneyIDD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringG" xlink:label="abc-i_ConceptStringG_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptValuta" xlink:label="abc-i_ConceptValuta_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationLineItems" xlink:label="sbr-dim_ValidationLineItems_loc" xlink:type="locator"/>
   </link:definitionLink>
