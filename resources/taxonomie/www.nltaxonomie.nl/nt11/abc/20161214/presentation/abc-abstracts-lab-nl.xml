@@ -9,6 +9,7 @@
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
   <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
     <link:label id="abc-abstr_StartTitle_label_nl" xlink:label="abc-abstr_StartTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Begin</link:label>
+    <link:label id="abc-abstr_AbstractTupleTitle_label_nl" xlink:label="abc-abstr_AbstractTupleTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</link:label>
     <link:label id="abc-abstr_EndTitle_label_nl" xlink:label="abc-abstr_EndTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Eind</link:label>
     <link:label id="abc-abstr_MovementTitle_label_nl" xlink:label="abc-abstr_MovementTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Mutatie</link:label>
     <link:label id="abc-abstr_PHNavigation1Title_label_nl" xlink:label="abc-abstr_PHNavigation1Title_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Navigation 0</link:label>
@@ -18,6 +19,7 @@
     <link:label id="abc-abstr_AbstractRootAdimDates2_label_nl" xlink:label="abc-abstr_AbstractRootAdimDates2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootAdimDates_label_nl" xlink:label="abc-abstr_AbstractRootAdimDates_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:label="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
+    <link:label id="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:label="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:label="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootMovement_label_nl" xlink:label="abc-abstr_AbstractRootMovement_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:label="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
@@ -27,12 +29,14 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootAdimDates2_loc" xlink:to="abc-abstr_AbstractRootAdimDates2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootAdimDates_loc" xlink:to="abc-abstr_AbstractRootAdimDates_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:to="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown1_loc" xlink:to="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown2_loc" xlink:to="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootMovement_loc" xlink:to="abc-abstr_AbstractRootMovement_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootString2_loc" xlink:to="abc-abstr_AbstractRootString2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootString_loc" xlink:to="abc-abstr_AbstractRootString_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootTyped_loc" xlink:to="abc-abstr_AbstractRootTyped_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractTupleTitle_loc" xlink:to="abc-abstr_AbstractTupleTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_EndTitle_loc" xlink:to="abc-abstr_EndTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_MovementTitle_loc" xlink:to="abc-abstr_MovementTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHNavigation1Title_loc" xlink:to="abc-abstr_PHNavigation1Title_label_nl" xlink:type="arc"/>
@@ -43,12 +47,14 @@
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimDates2" xlink:label="abc-abstr_AbstractRootAdimDates2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimDates" xlink:label="abc-abstr_AbstractRootAdimDates_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimStringTyped" xlink:label="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown1" xlink:label="abc-abstr_AbstractRootBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown2" xlink:label="abc-abstr_AbstractRootBreakdown2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootMovement" xlink:label="abc-abstr_AbstractRootMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootRequiredFields" xlink:label="abc-abstr_AbstractRootRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString2" xlink:label="abc-abstr_AbstractRootString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString" xlink:label="abc-abstr_AbstractRootString_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootTyped" xlink:label="abc-abstr_AbstractRootTyped_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractTupleTitle" xlink:label="abc-abstr_AbstractTupleTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_EndTitle" xlink:label="abc-abstr_EndTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_MovementTitle" xlink:label="abc-abstr_MovementTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHNavigation1Title" xlink:label="abc-abstr_PHNavigation1Title_loc" xlink:type="locator"/>

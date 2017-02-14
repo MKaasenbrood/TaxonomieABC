@@ -54,6 +54,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleBreakdown1" roleURI="urn:abc:linkrole:linkrole-breakdown1">
+        <link:definition>Linkrole breakdown2</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleBreakdown2" roleURI="urn:abc:linkrole:linkrole-breakdown2">
         <link:definition>Linkrole breakdown2</link:definition>
         <link:usedOn>gen:link</link:usedOn>

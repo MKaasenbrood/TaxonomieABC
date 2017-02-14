@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-breakdown1" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-breakdown1" xlink:type="extended">
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown1" xlink:label="abc-abstr_AbstractRootBreakdown1_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyDDI" xlink:label="abc-i_ConceptMoneyDDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyIDI" xlink:label="abc-i_ConceptMoneyIDI_loc" xlink:type="locator"/>
+    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootBreakdown1_loc" xlink:to="abc-i_ConceptMoneyDDI_loc" xlink:type="arc"/>
+    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootBreakdown1_loc" xlink:to="abc-i_ConceptMoneyIDI_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>
