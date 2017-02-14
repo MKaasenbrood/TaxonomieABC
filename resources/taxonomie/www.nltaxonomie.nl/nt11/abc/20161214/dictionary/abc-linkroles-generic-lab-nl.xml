@@ -20,6 +20,7 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDate2_loc" xlink:to="abc-lr_LinkroleAdimDate2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDates_loc" xlink:to="abc-lr_LinkroleAdimDates_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimStringTyped_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown1_loc" xlink:to="abc-lr_LinkroleBreakdown1_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown2_loc" xlink:to="abc-lr_LinkroleBreakdown2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleMovement_loc" xlink:to="abc-lr_LinkroleMovement_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2_loc" xlink:to="abc-lr_LinkroleString2_label_nl" xlink:type="arc"/>
@@ -37,6 +38,7 @@
     <label:label id="abc-lr_ARequiredFields_label_nl" xlink:label="abc-lr_ARequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Benodigde velden</label:label>
     <label:label id="abc-lr_LinkroleTuple_label_nl" xlink:label="abc-lr_LinkroleTuple_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Tuple</label:label>
     <label:label id="abc-lr_LinkroleTyped_label_nl" xlink:label="abc-lr_LinkroleTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole Typed</label:label>
+    <label:label id="abc-lr_LinkroleBreakdown1_label_nl" xlink:label="abc-lr_LinkroleBreakdown1_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole breakdown2</label:label>
     <label:label id="abc-lr_LinkroleBreakdown2_label_nl" xlink:label="abc-lr_LinkroleBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole breakdown2</label:label>
     <label:label id="abc-lr_LinkroleMovement_label_nl" xlink:label="abc-lr_LinkroleMovement_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole movement</label:label>
     <label:label id="abc-lr_LinkroleString2_label_nl" xlink:label="abc-lr_LinkroleString2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Linkrole string2</label:label>
@@ -50,6 +52,7 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:label="abc-lr_LinkroleAdimDates_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:label="abc-lr_LinkroleBreakdown2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleMovement" xlink:label="abc-lr_LinkroleMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:label="abc-lr_LinkroleString2_loc" xlink:type="locator"/>

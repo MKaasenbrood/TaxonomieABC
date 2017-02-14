@@ -1159,3 +1159,45 @@
 {"type":"name-mapping","from":"NavigationTitle","to":"Navigation",}
 {"type":"text-mapping","from":"ConceptMoneyDCI, totaal","to":"ConceptMoneyACD, totaal",}
 {"type":"text-mapping","from":"ConceptMoneyDCI, totaal","to":"ConceptMoneyHDI, totaal",}
+{"type":"id-changed","from":"abc-lr_LinkroleBreakdown2_1_label_nl","to":"abc-lr_LinkroleBreakdown1_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootBreakdown2_1_label_nl","to":"abc-abstr_AbstractRootBreakdown1_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootBreakdown2_1_label_en","to":"abc-abstr_AbstractRootBreakdown1_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootBreakdown2_1","to":"abc-abstr_AbstractRootBreakdown1",}
+{"type":"name-mapping","from":"AbstractRootBreakdown2_1","to":"AbstractRootBreakdown1",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_periodEndLabel_nl","to":"abc-i_ConceptMoneyIDI_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_documentation_nl","to":"abc-i_ConceptMoneyIDI_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_totalLabel_nl","to":"abc-i_ConceptMoneyIDI_totalLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_periodStartLabel_nl","to":"abc-i_ConceptMoneyIDI_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_terseLabel_nl","to":"abc-i_ConceptMoneyIDI_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1_label_nl","to":"abc-i_ConceptMoneyIDI_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyHDI_1","to":"abc-i_ConceptMoneyIDI",}
+{"type":"name-mapping","from":"ConceptMoneyHDI_1","to":"ConceptMoneyIDI",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2_1_label_nl","to":"abc-o-abstr_PageBreakdown_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2_1","to":"abc-o-abstr_PageBreakdown",}
+{"type":"name-mapping","from":"PageBreakdown2_1","to":"PageBreakdown",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2_2_label_nl","to":"abc-o-abstr_PageBreakdown1_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2_2","to":"abc-o-abstr_PageBreakdown1",}
+{"type":"name-mapping","from":"PageBreakdown2_2","to":"PageBreakdown1",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown_label_nl","to":"abc-o-abstr_PageBreakdown22_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown","to":"abc-o-abstr_PageBreakdown22",}
+{"type":"name-mapping","from":"PageBreakdown","to":"PageBreakdown22",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2_label_nl","to":"abc-o-abstr_PageBreakdown_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown2","to":"abc-o-abstr_PageBreakdown",}
+{"type":"name-mapping","from":"PageBreakdown2","to":"PageBreakdown",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown22_label_nl","to":"abc-o-abstr_PageBreakdown2_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageBreakdown22","to":"abc-o-abstr_PageBreakdown2",}
+{"type":"name-mapping","from":"PageBreakdown22","to":"PageBreakdown2",}
+{"type":"text-mapping","from":"Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI","to":"Bevat het concept ",}
+{"type":"text-mapping","from":"Bevat het concept ","to":"Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat",}
+{"type":"text-mapping","from":"Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten & formula: Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI",}
+{"type":"id-changed","from":"abc-abstr_PageTuple_1_label_nl","to":"abc-abstr_AbstractTupleTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PageTuple_1","to":"abc-abstr_AbstractTupleTitle",}
+{"type":"name-mapping","from":"PageTuple_1","to":"AbstractTupleTitle",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x","to":"kvk-table_LinkroleBreakdown1Table-x",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1","to":"kvk-table_LinkroleBreakdown1Table-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-y","to":"kvk-table_LinkroleBreakdown1Table-y",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1","to":"kvk-table_LinkroleBreakdown1Table-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1.2","to":"kvk-table_LinkroleBreakdown1Table-x.1.1.2",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-y.1","to":"kvk-table_LinkroleBreakdown1Table-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig","to":"kvk-table_LinkroleBreakdown1Table",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudig-x.1.1.1","to":"kvk-table_LinkroleBreakdown1Table-x.1.1.1",}

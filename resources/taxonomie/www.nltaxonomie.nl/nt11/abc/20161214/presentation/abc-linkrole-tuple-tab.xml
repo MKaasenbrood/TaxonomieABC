@@ -6,7 +6,7 @@
   Version: 20161214
   Release date: Wed Dec 14 09:00:00 2016
 -->
-<link:linkbase xmlns:abc-abstr="http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts" xmlns:formula="http://xbrl.org/2008/formula" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:table="http://xbrl.org/2014/table" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2014/table http://www.xbrl.org/2014/table.xsd http://xbrl.org/2008/formula http://www.xbrl.org/2008/formula.xsd http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts abc-abstracts.xsd">
+<link:linkbase xmlns:abc-abstr="http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts" xmlns:formula="http://xbrl.org/2008/formula" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:table="http://xbrl.org/2014/table" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-abstracts abc-abstracts.xsd http://xbrl.org/2008/formula http://www.xbrl.org/2008/formula.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2014/table http://www.xbrl.org/2014/table.xsd">
   <link:roleRef roleURI="urn:abc:linkrole:linkrole-tuple" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:type="simple"/>
   <gen:link xlink:role="urn:abc:linkrole:linkrole-tuple" xlink:type="extended">
     <table:table id="kvk-table_Tuple" parentChildOrder="parent-first" xlink:label="kvk-table_Tuple" xlink:type="resource"/>
@@ -24,7 +24,7 @@
       </formula:period>
     </table:ruleNode>
     <table:conceptRelationshipNode id="kvk-table_Tuple-y.1" parentChildOrder="parent-first" xlink:label="kvk-table_Tuple-y.1" xlink:type="resource">
-      <table:relationshipSource>abc-abstr:PageTuple</table:relationshipSource>
+      <table:relationshipSource>abc-abstr:AbstractTupleTitle</table:relationshipSource>
       <table:linkrole>urn:abc:linkrole:linkrole-tuple</table:linkrole>
       <table:arcrole>http://www.xbrl.org/2003/arcrole/parent-child</table:arcrole>
       <table:formulaAxis>descendant</table:formulaAxis>
