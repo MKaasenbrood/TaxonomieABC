@@ -1124,3 +1124,36 @@
 {"type":"text-mapping","from":"DCI = -DDI + FCI","to":"CCI = -DDI + FCI",}
 {"type":"text-mapping","from":"CCI = -DDI + FCI","to":"Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI",}
 {"type":"text-mapping","from":"HDI = -GCI +GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)","to":"Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle_1_label_en","to":"abc-abstr_PHTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle_1_label_nl","to":"abc-abstr_PHTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle_1","to":"abc-abstr_PHTitle",}
+{"type":"name-mapping","from":"PHRootTitle_1","to":"PHTitle",}
+{"type":"text-mapping","from":"PHRootTitle","to":"PHTitle",}
+{"type":"text-mapping","from":"PHRootTitle","to":"PHTitle",}
+{"type":"id-changed","from":"abc-abstr_Navigation_1_label_nl","to":"abc-abstr_PHNavigation1Title_label_nl",}
+{"type":"id-changed","from":"abc-abstr_Navigation_1","to":"abc-abstr_PHNavigation1Title",}
+{"type":"name-mapping","from":"Navigation_1","to":"PHNavigation1Title",}
+{"type":"id-changed","from":"abc-abstr_Navigation_label_nl","to":"abc-abstr_PHNavigationTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_Navigation","to":"abc-abstr_PHNavigationTitle",}
+{"type":"name-mapping","from":"Navigation","to":"PHNavigationTitle",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation_1_label_nl","to":"abc-o-abstr_Navigation1_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation_1","to":"abc-o-abstr_Navigation1",}
+{"type":"name-mapping","from":"Navigation_1","to":"Navigation1",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation_label_nl","to":"abc-o-abstr_NavigationTitle_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation","to":"abc-o-abstr_NavigationTitle",}
+{"type":"name-mapping","from":"Navigation","to":"NavigationTitle",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation1_label_nl","to":"abc-o-abstr_Navigation1Title_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation1","to":"abc-o-abstr_Navigation1Title",}
+{"type":"name-mapping","from":"Navigation1","to":"Navigation1Title",}
+{"type":"id-changed","from":"abc-o-abstr_PageAdimDate2_label_nl","to":"abc-o-abstr_PageAdimDate2Title_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageAdimDate2","to":"abc-o-abstr_PageAdimDate2Title",}
+{"type":"name-mapping","from":"PageAdimDate2","to":"PageAdimDate2Title",}
+{"type":"id-changed","from":"abc-o-abstr_PageAdimDate2Title_label_nl","to":"abc-o-abstr_PageAdimDate2_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_PageAdimDate2Title","to":"abc-o-abstr_PageAdimDate2",}
+{"type":"name-mapping","from":"PageAdimDate2Title","to":"PageAdimDate2",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation1Title_label_nl","to":"abc-o-abstr_Navigation1_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_Navigation1Title","to":"abc-o-abstr_Navigation1",}
+{"type":"name-mapping","from":"Navigation1Title","to":"Navigation1",}
+{"type":"id-changed","from":"abc-o-abstr_NavigationTitle_label_nl","to":"abc-o-abstr_Navigation_label_nl",}
+{"type":"id-changed","from":"abc-o-abstr_NavigationTitle","to":"abc-o-abstr_Navigation",}
+{"type":"name-mapping","from":"NavigationTitle","to":"Navigation",}

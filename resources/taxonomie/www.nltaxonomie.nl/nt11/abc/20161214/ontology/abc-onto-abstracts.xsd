@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<xs:schema xmlns:abc-o-abstr="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-onto-abstracts" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-onto-abstracts">
+  <xs:annotation>
+    <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-onto-abstracts-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" schemaLocation="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:element abstract="true" id="abc-o-abstr_Navigation1" name="Navigation1" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_Navigation" name="Navigation" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageARequiredFields" name="PageARequiredFields" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageAdimDate2" name="PageAdimDate2" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageAdimDates" name="PageAdimDates" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageAdimStringTyped" name="PageAdimStringTyped" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageBreakdown2" name="PageBreakdown2" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageMovement" name="PageMovement" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageString2" name="PageString2" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageString" name="PageString" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageTuple" name="PageTuple" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_PageTyped" name="PageTyped" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-o-abstr_RootTitle" name="RootTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+</xs:schema>
