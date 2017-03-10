@@ -1291,3 +1291,5 @@
 {"type":"text-mapping","from":"ConceptValuta must exist once.","to":"ConceptDateD must exist once.",}
 {"type":"id-changed","from":"factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptValuta","to":"factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD",}
 {"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptValuta","to":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD",}
+{"type":"text-mapping","from":"Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten. Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat",}
+{"type":"text-mapping","from":"Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten. Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI",}

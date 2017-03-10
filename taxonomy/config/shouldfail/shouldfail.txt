@@ -26,7 +26,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-tuple-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-typed-for.xml FAIL
-nl.taxonomievalidatie.rule.Validator_2_2_8_02 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL														
+nl.taxonomievalidatie.rule.Validator_2_2_8_02 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-arequired-fields-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-adim-date2-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-adim-dates-tab.xml FAIL
@@ -56,8 +56,6 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
-nl.taxonomievalidatie.rule.Validator_3_2_4_03 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-breakdown2-for.xml FAIL
-nl.taxonomievalidatie.rule.Validator_3_2_4_03 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_11_09 www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-tuple.xsd FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_2_19 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_12 www.nltaxonomie.nl/nt11/abc/20161214/presentation/kvk-generic-parameter.xml FAIL

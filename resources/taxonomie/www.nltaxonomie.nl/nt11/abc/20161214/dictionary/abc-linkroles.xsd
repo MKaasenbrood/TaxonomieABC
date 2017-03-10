@@ -11,7 +11,7 @@
     <xs:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkroles-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:roleType id="abc-lr_ARequiredFields" roleURI="urn:abc:linkrole:arequired-fields">
-        <link:definition>Linkrole Benodigde velden</link:definition>
+        <link:definition>Alle concepten zijn verplicht gesteld</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -37,61 +37,61 @@
         <link:usedOn>link:definitionLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimDate2" roleURI="urn:abc:linkrole:linkrole-adim-date2">
-        <link:definition>Linkrole AdimDate2</link:definition>
+        <link:definition>ConceptDateC moet voor de huidige datum liggen</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimDates" roleURI="urn:abc:linkrole:linkrole-adim-dates">
-        <link:definition>Linkrole AdimDates</link:definition>
+        <link:definition>Datum in conceptA moet voor de datum in conceptB liggen</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimStringTyped" roleURI="urn:abc:linkrole:linkrole-adim-string-typed">
-        <link:definition>Linkrole ADimStringTyped</link:definition>
+        <link:definition>Alleen typed dimensie met string geen losse formulas van toepassing</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleBreakdown1" roleURI="urn:abc:linkrole:linkrole-breakdown1">
-        <link:definition>Linkrole breakdown2</link:definition>
+        <link:definition>Twee tabellen met hetzelfde concept met dezelfde aspecten. Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleBreakdown2" roleURI="urn:abc:linkrole:linkrole-breakdown2">
-        <link:definition>Linkrole breakdown2</link:definition>
+        <link:definition>Twee tabellen met hetzelfde concept met dezelfde aspecten. Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleMovement" roleURI="urn:abc:linkrole:linkrole-movement">
-        <link:definition>Linkrole movement</link:definition>
+        <link:definition>Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleString2" roleURI="urn:abc:linkrole:linkrole-string2">
-        <link:definition>Linkrole string2</link:definition>
+        <link:definition>Als ConceptStringE ingevuld is dan moet ConceptStringF ook bestaan.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleString" roleURI="urn:abc:linkrole:linkrole-string">
-        <link:definition>Linkrole string</link:definition>
+        <link:definition>Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleTuple" roleURI="urn:abc:linkrole:linkrole-tuple">
-        <link:definition>Linkrole Tuple</link:definition>
+        <link:definition>De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleTyped" roleURI="urn:abc:linkrole:linkrole-typed">
-        <link:definition>Linkrole Typed</link:definition>
+        <link:definition>Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
