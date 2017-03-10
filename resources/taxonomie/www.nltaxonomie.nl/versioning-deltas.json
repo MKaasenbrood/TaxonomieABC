@@ -1293,3 +1293,15 @@
 {"type":"id-changed","from":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptValuta","to":"ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD",}
 {"type":"text-mapping","from":"Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten. Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat",}
 {"type":"text-mapping","from":"Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten. Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationTitle","to":"abc-abstr_DateTitle",}
+{"type":"name-mapping","from":"PHNavigationTitle","to":"DateTitle",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationTitle_label_nl","to":"abc-abstr_DateTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHNavigation1Title","to":"abc-abstr_PHRestTitle",}
+{"type":"name-mapping","from":"PHNavigation1Title","to":"PHRestTitle",}
+{"type":"id-changed","from":"abc-abstr_PHNavigation1Title_label_nl","to":"abc-abstr_PHRestTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHRestTitle","to":"abc-abstr_PHOtherTitle",}
+{"type":"name-mapping","from":"PHRestTitle","to":"PHOtherTitle",}
+{"type":"id-changed","from":"abc-abstr_PHRestTitle_label_nl","to":"abc-abstr_PHOtherTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_DateTitle","to":"abc-abstr_PHDateTitle",}
+{"type":"name-mapping","from":"DateTitle","to":"PHDateTitle",}
+{"type":"id-changed","from":"abc-abstr_DateTitle_label_nl","to":"abc-abstr_PHDateTitle_label_nl",}
