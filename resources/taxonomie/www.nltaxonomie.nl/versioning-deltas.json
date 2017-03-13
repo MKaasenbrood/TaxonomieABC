@@ -1305,3 +1305,7 @@
 {"type":"id-changed","from":"abc-abstr_DateTitle","to":"abc-abstr_PHDateTitle",}
 {"type":"name-mapping","from":"DateTitle","to":"PHDateTitle",}
 {"type":"id-changed","from":"abc-abstr_DateTitle_label_nl","to":"abc-abstr_PHDateTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_TwoBreakdownsTitle_label_nl","to":"abc-abstr_PHTwoBreakdownsTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_TwoBreakdownsTitle_label_en","to":"abc-abstr_PHTwoBreakdownsTitle_label_en",}
+{"type":"name-mapping","from":"TwoBreakdownsTitle","to":"PHTwoBreakdownsTitle",}
+{"type":"id-changed","from":"abc-abstr_TwoBreakdownsTitle","to":"abc-abstr_PHTwoBreakdownsTitle",}
