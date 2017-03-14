@@ -1309,3 +1309,38 @@
 {"type":"id-changed","from":"abc-abstr_TwoBreakdownsTitle_label_en","to":"abc-abstr_PHTwoBreakdownsTitle_label_en",}
 {"type":"name-mapping","from":"TwoBreakdownsTitle","to":"PHTwoBreakdownsTitle",}
 {"type":"id-changed","from":"abc-abstr_TwoBreakdownsTitle","to":"abc-abstr_PHTwoBreakdownsTitle",}
+{"type":"text-mapping","from":"PH Movement Titel","to":"Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd",}
+{"type":"text-mapping","from":"PH Typed Titel","to":"Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)",}
+{"type":"text-mapping","from":"PH Tuple Titel","to":"De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.",}
+{"type":"id-changed","from":"abc-abstr_PHDateTitle_label_nl","to":"abc-abstr_PHNavigationTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHDateTitle","to":"abc-abstr_PHNavigationTitle",}
+{"type":"name-mapping","from":"PHDateTitle","to":"PHNavigationTitle",}
+{"type":"text-mapping","from":"Navigation 1","to":"Datum Paginas",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationTitle_label_nl","to":"abc-abstr_PHNavigationDatesTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationTitle","to":"abc-abstr_PHNavigationDatesTitle",}
+{"type":"name-mapping","from":"PHNavigationTitle","to":"PHNavigationDatesTitle",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationDatesTitle_1_label_nl","to":"abc-abstr_PHNavigationDates1Title_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationDatesTitle_1","to":"abc-abstr_PHNavigationDates1Title",}
+{"type":"name-mapping","from":"PHNavigationDatesTitle_1","to":"PHNavigationDates1Title",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationDatesTitle_2_label_nl","to":"abc-abstr_PHNavigationDates2Title_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHNavigationDatesTitle_2","to":"abc-abstr_PHNavigationDates2Title",}
+{"type":"name-mapping","from":"PHNavigationDatesTitle_2","to":"PHNavigationDates2Title",}
+{"type":"text-mapping","from":"Datum Paginas","to":"ConceptDateC moet voor de huidige datum liggen",}
+{"type":"id-changed","from":"abc-abstr_PHOtherTitle_label_nl","to":"abc-abstr_PHNavigationOtherTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHOtherTitle","to":"abc-abstr_PHNavigationOtherTitle",}
+{"type":"name-mapping","from":"PHOtherTitle","to":"PHNavigationOtherTitle",}
+{"type":"text-mapping","from":"Navigation 0","to":"Andere paginas",}
+{"type":"text-mapping","from":"Twee tabellen met hetzelfde concept met dezelfde aspecten.","to":"Twee tabellen met hetzelfde concept met dezelfde aspecten & formula: Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI",}
+{"type":"id-changed","from":"abc-abstr_PHStringTitle_1","to":"abc-abstr_PHString2Title",}
+{"type":"name-mapping","from":"PHStringTitle_1","to":"PHString2Title",}
+{"type":"text-mapping","from":"PH Required Fields Titel","to":"Alle concepten zijn verplicht gesteld",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle_label_en","to":"abc-abstr_Rapportage_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle_label_nl","to":"abc-abstr_Rapportage_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHRootTitle","to":"abc-abstr_Rapportage",}
+{"type":"name-mapping","from":"PHRootTitle","to":"Rapportage",}
+{"type":"id-changed","from":"abc-abstr_Rapportage_label_en","to":"abc-abstr_PHRootTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_Rapportage_label_nl","to":"abc-abstr_PHRootTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_Rapportage","to":"abc-abstr_PHRootTitle",}
+{"type":"name-mapping","from":"Rapportage","to":"PHRootTitle",}
+{"type":"text-mapping","from":"PHRootTitle","to":"Rapportage",}
+{"type":"text-mapping","from":"PHRootTitle","to":"Rapportage",}

@@ -9,7 +9,6 @@
 <xs:schema xmlns:abc-pabstr="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-portal-abstracts" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-portal-abstracts">
   <xs:annotation>
     <xs:appinfo>
-      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-portal-abstracts-lab-en.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-portal-abstracts-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
     </xs:appinfo>
   </xs:annotation>
@@ -28,11 +27,14 @@
   <xs:element abstract="true" id="abc-pabstr_LinkroleTupleSectionTitle" name="LinkroleTupleSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleTypedSectionTitle" name="LinkroleTypedSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHAdimStringTitle" name="PHAdimStringTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xs:element abstract="true" id="abc-pabstr_PHDateTitle" name="PHDateTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHMovementTitle" name="PHMovementTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xs:element abstract="true" id="abc-pabstr_PHOtherTitle" name="PHOtherTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHNavigationDates1Title" name="PHNavigationDates1Title" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHNavigationDates2Title" name="PHNavigationDates2Title" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHNavigationDatesTitle" name="PHNavigationDatesTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHNavigationOtherTitle" name="PHNavigationOtherTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHRequiredFieldsTitle" name="PHRequiredFieldsTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHRootTitle" name="PHRootTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHString2Title" name="PHString2Title" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHStringTitle" name="PHStringTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHTupleTitle" name="PHTupleTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHTwoBreakdownsTitle" name="PHTwoBreakdownsTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
