@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-pabstr_PHAdimStringTitle_label_en" xlink:label="abc-pabstr_PHAdimStringTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH Adim String Title</link:label>
+    <link:label id="abc-pabstr_PHMovementTitle_label_en" xlink:label="abc-pabstr_PHMovementTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH Movement Title</link:label>
+    <link:label id="abc-pabstr_PHRequiredFieldsTitle_label_en" xlink:label="abc-pabstr_PHRequiredFieldsTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH Required Fields Title</link:label>
+    <link:label id="abc-pabstr_PHStringTitle_label_en" xlink:label="abc-pabstr_PHStringTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH String Title</link:label>
+    <link:label id="abc-pabstr_PHTypedTitle_label_en" xlink:label="abc-pabstr_PHTypedTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH Typed Title</link:label>
+    <link:label id="abc-pabstr_PHTupleTitle_label_en" xlink:label="abc-pabstr_PHTupleTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PH tuple Title</link:label>
+    <link:label id="abc-pabstr_PHRootTitle_label_en" xlink:label="abc-pabstr_PHRootTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">PHRootTitle</link:label>
+    <link:label id="abc-pabstr_PHTwoBreakdownsTitle_label_en" xlink:label="abc-pabstr_PHTwoBreakdownsTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Two tables with the same concept with the same aspects.</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHAdimStringTitle_loc" xlink:to="abc-pabstr_PHAdimStringTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHMovementTitle_loc" xlink:to="abc-pabstr_PHMovementTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHRequiredFieldsTitle_loc" xlink:to="abc-pabstr_PHRequiredFieldsTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHRootTitle_loc" xlink:to="abc-pabstr_PHRootTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHStringTitle_loc" xlink:to="abc-pabstr_PHStringTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHTupleTitle_loc" xlink:to="abc-pabstr_PHTupleTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:to="abc-pabstr_PHTwoBreakdownsTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHTypedTitle_loc" xlink:to="abc-pabstr_PHTypedTitle_label_en" xlink:type="arc"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHAdimStringTitle" xlink:label="abc-pabstr_PHAdimStringTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHMovementTitle" xlink:label="abc-pabstr_PHMovementTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHRequiredFieldsTitle" xlink:label="abc-pabstr_PHRequiredFieldsTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHRootTitle" xlink:label="abc-pabstr_PHRootTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHStringTitle" xlink:label="abc-pabstr_PHStringTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHTupleTitle" xlink:label="abc-pabstr_PHTupleTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHTwoBreakdownsTitle" xlink:label="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHTypedTitle" xlink:label="abc-pabstr_PHTypedTitle_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>
