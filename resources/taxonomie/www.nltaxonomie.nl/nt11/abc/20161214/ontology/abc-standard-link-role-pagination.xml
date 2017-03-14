@@ -45,8 +45,8 @@
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHString2Title_loc" xlink:to="abc-pabstr_LinkroleString2SectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHStringTitle_loc" xlink:to="abc-pabstr_LinkroleStringSectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHTupleTitle_loc" xlink:to="abc-pabstr_LinkroleTupleSectionTitle_loc" xlink:type="arc"/>
-    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:labeled-section" xlink:from="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:type="arc"/>
-    <gen:arc order="2" xlink:arcrole="urn:ebpi:husky:labeled-section" xlink:from="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:type="arc"/>
+    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:labeled-section" xlink:from="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:type="arc"/>
+    <gen:arc order="2" xlink:arcrole="urn:ebpi:husky:labeled-section" xlink:from="abc-pabstr_PHTwoBreakdownsTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHTypedTitle_loc" xlink:to="abc-pabstr_LinkroleTypedSectionTitle_loc" xlink:type="arc"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:label="abc-lr_ARequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
