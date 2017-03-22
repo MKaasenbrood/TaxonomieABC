@@ -11,19 +11,34 @@
   <link:arcroleRef arcroleURI="urn:ebpi:husky:default-value" xlink:href="http://www.nltaxonomie.nl/ebpi/xbrl/arcrole/custom-arcroles.xsd#ebpi-ca_default-value" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <ebpi:genericValue id="a2017_03_22" xlink:label="a2017_03_22" xlink:type="resource">2017-03-22</ebpi:genericValue>
-    <ebpi:genericValue id="a88927" xlink:label="a88927" xlink:type="resource">88927</ebpi:genericValue>
+    <ebpi:genericValue id="a2018_08_03" xlink:label="a2018_08_03" xlink:type="resource">2018-08-03</ebpi:genericValue>
+    <ebpi:genericValue id="a27889" xlink:label="a27889" xlink:type="resource">27889</ebpi:genericValue>
+    <ebpi:genericValue id="a88279" xlink:label="a88279" xlink:type="resource">88279</ebpi:genericValue>
     <ebpi:genericValue id="A2" xlink:label="A2" xlink:type="resource">A2</ebpi:genericValue>
-    <ebpi:genericValue id="String" xlink:label="String" xlink:type="resource">String</ebpi:genericValue>
-    <ebpi:genericValue id="True" xlink:label="True" xlink:type="resource">True</ebpi:genericValue>
-    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptBoolean2_loc" xlink:to="True" xlink:type="arc"/>
+    <ebpi:genericValue id="Hallo" xlink:label="Hallo" xlink:type="resource">Hallo</ebpi:genericValue>
+    <ebpi:genericValue id="Hey" xlink:label="Hey" xlink:type="resource">Hey</ebpi:genericValue>
+    <ebpi:genericValue id="Twee" xlink:label="Twee" xlink:type="resource">Twee</ebpi:genericValue>
+    <ebpi:genericValue id="false" xlink:label="false" xlink:type="resource">false</ebpi:genericValue>
+    <ebpi:genericValue id="true" xlink:label="true" xlink:type="resource">true</ebpi:genericValue>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptBoolean2_loc" xlink:to="true" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptBoolean3_loc" xlink:to="false" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptDateE_loc" xlink:to="a2017_03_22" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptDateF_loc" xlink:to="a2018_08_03" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumeration1234_loc" xlink:to="Twee" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="A2" xlink:type="arc"/>
-    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptMoneyADD_loc" xlink:to="a88927" xlink:type="arc"/>
-    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptStringH_loc" xlink:to="String" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptMoneyADD_loc" xlink:to="a88279" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptMoneyJDD_loc" xlink:to="a27889" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptStringH_loc" xlink:to="Hey" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptStringI_loc" xlink:to="Hallo" xlink:type="arc"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean2" xlink:label="abc-i_ConceptBoolean2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean3" xlink:label="abc-i_ConceptBoolean3_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateE" xlink:label="abc-i_ConceptDateE_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateF" xlink:label="abc-i_ConceptDateF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumeration1234" xlink:label="abc-i_ConceptEnumeration1234_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyADD" xlink:label="abc-i_ConceptMoneyADD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyJDD" xlink:label="abc-i_ConceptMoneyJDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringH" xlink:label="abc-i_ConceptStringH_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringI" xlink:label="abc-i_ConceptStringI_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

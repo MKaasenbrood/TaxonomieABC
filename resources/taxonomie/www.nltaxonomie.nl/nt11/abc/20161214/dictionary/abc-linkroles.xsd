@@ -43,6 +43,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimDefaultValuesEditable" roleURI="urn:abc:linkrole:linkrole-adim-default-values-editable">
+        <link:definition>Default waarden en aanpasbaar</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimDefaultValuesReadonly" roleURI="urn:abc:linkrole:linkrole-adim-default-values-readonly">
         <link:definition>Default waarden en readonly</link:definition>
         <link:usedOn>gen:link</link:usedOn>

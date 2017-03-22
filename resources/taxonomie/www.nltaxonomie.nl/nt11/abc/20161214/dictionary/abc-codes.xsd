@@ -15,6 +15,16 @@
   </xs:annotation>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:complexType id="abc-codes_enumeration1234ItemType" name="enumeration1234ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:enumeration id="Three" value="Drie"/>
+        <xs:enumeration id="One" value="Een"/>
+        <xs:enumeration id="Two" value="Twee"/>
+        <xs:enumeration id="Four" value="Vier"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
   <xs:complexType id="abc-codes_enumerationABCDItemType" name="enumerationABCDItemType">
     <xs:simpleContent>
       <xs:restriction base="xbrli:stringItemType">

@@ -14,18 +14,22 @@
   <link:arcroleRef arcroleURI="urn:ebpi:husky:non-labeled-section" xlink:href="http://www.nltaxonomie.nl/ebpi/xbrl/arcrole/custom-arcroles.xsd#non-labeled-section" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="urn:ebpi:husky:page" xlink:href="http://www.nltaxonomie.nl/ebpi/xbrl/arcrole/custom-arcroles.xsd#page" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_ARequiredFieldsSectionTitle_loc" xlink:to="abc-lr_LinkroleRequiredFields_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleAdimDate2SectionTitle_loc" xlink:to="abc-lr_LinkroleAdimDate2_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleAdimDatesSectionTitle_loc" xlink:to="abc-lr_LinkroleAdimDates_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleAdimStringTypedSectionTitle_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:to="abc-lr_LinkroleBreakdown1_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:to="abc-lr_LinkroleBreakdown2_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleMovementSectionTitle_loc" xlink:to="abc-lr_LinkroleMovement_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleRequiredFieldsSectionTitle_loc" xlink:to="abc-lr_LinkroleRequiredFields_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleString2SectionTitle_loc" xlink:to="abc-lr_LinkroleString2_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleStringSectionTitle_loc" xlink:to="abc-lr_LinkroleString_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleTupleSectionTitle_loc" xlink:to="abc-lr_LinkroleTuple_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:abstract-elr" xlink:from="abc-pabstr_LinkroleTypedSectionTitle_loc" xlink:to="abc-lr_LinkroleTyped_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHAdimStringPageTitle_loc" xlink:to="abc-pabstr_LinkroleAdimStringTypedSectionTitle_loc" xlink:type="arc"/>
+    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHDefaultValuesEditablePageTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_loc" xlink:type="arc"/>
+    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHMovementPageTitle_loc" xlink:to="abc-pabstr_LinkroleMovementSectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHNavigationDates1PageTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDate2SectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHNavigationDates2PageTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDatesSectionTitle_loc" xlink:type="arc"/>
@@ -35,9 +39,11 @@
     <gen:arc order="2" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHTwoBreakdownsPageTitle_loc" xlink:type="arc"/>
     <gen:arc order="3" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHStringPageTitle_loc" xlink:type="arc"/>
     <gen:arc order="4" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHString2PageTitle_loc" xlink:type="arc"/>
-    <gen:arc order="6" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHRequiredFieldsPageTitle_loc" xlink:type="arc"/>
-    <gen:arc order="7" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHAdimStringPageTitle_loc" xlink:type="arc"/>
-    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHRequiredFieldsPageTitle_loc" xlink:to="abc-pabstr_ARequiredFieldsSectionTitle_loc" xlink:type="arc"/>
+    <gen:arc order="5" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:type="arc"/>
+    <gen:arc order="6" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHDefaultValuesEditablePageTitle_loc" xlink:type="arc"/>
+    <gen:arc order="7" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHRequiredFieldsPageTitle_loc" xlink:type="arc"/>
+    <gen:arc order="8" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:to="abc-pabstr_PHAdimStringPageTitle_loc" xlink:type="arc"/>
+    <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHRequiredFieldsPageTitle_loc" xlink:to="abc-pabstr_LinkroleRequiredFieldsSectionTitle_loc" xlink:type="arc"/>
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:navigation" xlink:from="abc-pabstr_PHRootNavigationTitle_loc" xlink:to="abc-pabstr_PHNavigationDatesNavigationTitle_loc" xlink:type="arc"/>
     <gen:arc order="5" xlink:arcrole="urn:ebpi:husky:navigation" xlink:from="abc-pabstr_PHRootNavigationTitle_loc" xlink:to="abc-pabstr_PHNavigationOtherNavigationTitle_loc" xlink:type="arc"/>
     <gen:arc order="2" xlink:arcrole="urn:ebpi:husky:page" xlink:from="abc-pabstr_PHRootNavigationTitle_loc" xlink:to="abc-pabstr_PHTuplePageTitle_loc" xlink:type="arc"/>
@@ -50,6 +56,8 @@
     <gen:arc order="1" xlink:arcrole="urn:ebpi:husky:non-labeled-section" xlink:from="abc-pabstr_PHTypedPageTitle_loc" xlink:to="abc-pabstr_LinkroleTypedSectionTitle_loc" xlink:type="arc"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:label="abc-lr_LinkroleAdimDates_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesEditable" xlink:label="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesReadonly" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:label="abc-lr_LinkroleBreakdown2_loc" xlink:type="locator"/>
@@ -59,18 +67,22 @@
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTyped" xlink:label="abc-lr_LinkroleTyped_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_ARequiredFieldsSectionTitle" xlink:label="abc-pabstr_ARequiredFieldsSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDate2SectionTitle" xlink:label="abc-pabstr_LinkroleAdimDate2SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDatesSectionTitle" xlink:label="abc-pabstr_LinkroleAdimDatesSectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimStringTypedSectionTitle" xlink:label="abc-pabstr_LinkroleAdimStringTypedSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleBreakdown1SectionTitle" xlink:label="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleBreakdown2SectionTitle" xlink:label="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleMovementSectionTitle" xlink:label="abc-pabstr_LinkroleMovementSectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleRequiredFieldsSectionTitle" xlink:label="abc-pabstr_LinkroleRequiredFieldsSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleString2SectionTitle" xlink:label="abc-pabstr_LinkroleString2SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleStringSectionTitle" xlink:label="abc-pabstr_LinkroleStringSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleTupleSectionTitle" xlink:label="abc-pabstr_LinkroleTupleSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleTypedSectionTitle" xlink:label="abc-pabstr_LinkroleTypedSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHAdimStringPageTitle" xlink:label="abc-pabstr_PHAdimStringPageTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDefaultValuesEditablePageTitle" xlink:label="abc-pabstr_PHDefaultValuesEditablePageTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDefaultValuesReadonlyPageTitle" xlink:label="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHMovementPageTitle" xlink:label="abc-pabstr_PHMovementPageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHNavigationDates1PageTitle" xlink:label="abc-pabstr_PHNavigationDates1PageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHNavigationDates2PageTitle" xlink:label="abc-pabstr_PHNavigationDates2PageTitle_loc" xlink:type="locator"/>

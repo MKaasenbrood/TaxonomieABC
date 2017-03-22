@@ -9,24 +9,29 @@
 <xs:schema xmlns:abc-pabstr="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-portal-abstracts" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:sbr="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/ontology/abc-portal-abstracts">
   <xs:annotation>
     <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-portal-abstracts-lab-en.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-portal-abstracts-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
     </xs:appinfo>
   </xs:annotation>
   <xs:import namespace="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension" schemaLocation="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-extension.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
-  <xs:element abstract="true" id="abc-pabstr_ARequiredFieldsSectionTitle" name="ARequiredFieldsSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleAdimDate2SectionTitle" name="LinkroleAdimDate2SectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleAdimDatesSectionTitle" name="LinkroleAdimDatesSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle" name="LinkroleAdimDefaultValuesEditableSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle" name="LinkroleAdimDefaultValuesReadonlySectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleAdimStringTypedSectionTitle" name="LinkroleAdimStringTypedSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleBreakdown1SectionTitle" name="LinkroleBreakdown1SectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleBreakdown2SectionTitle" name="LinkroleBreakdown2SectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleMovementSectionTitle" name="LinkroleMovementSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_LinkroleRequiredFieldsSectionTitle" name="LinkroleRequiredFieldsSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleString2SectionTitle" name="LinkroleString2SectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleStringSectionTitle" name="LinkroleStringSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleTupleSectionTitle" name="LinkroleTupleSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_LinkroleTypedSectionTitle" name="LinkroleTypedSectionTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHAdimStringPageTitle" name="PHAdimStringPageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHDefaultValuesEditablePageTitle" name="PHDefaultValuesEditablePageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="true" id="abc-pabstr_PHDefaultValuesReadonlyPageTitle" name="PHDefaultValuesReadonlyPageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHMovementPageTitle" name="PHMovementPageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHNavigationDates1PageTitle" name="PHNavigationDates1PageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="abc-pabstr_PHNavigationDates2PageTitle" name="PHNavigationDates2PageTitle" nillable="false" substitutionGroup="sbr:presentationItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>

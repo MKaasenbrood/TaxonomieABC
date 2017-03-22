@@ -1525,3 +1525,99 @@
 {"type":"id-changed","from":"kvk-table_AdimStringTyped","to":"kvk-table_TabelEenKolomDynamischeAsAdimensioneelAdimStringTyped",}
 {"type":"id-changed","from":"kvk-table_AdimStringTyped-x","to":"kvk-table_TabelEenKolomDynamischeAsAdimensioneelAdimStringTyped-x",}
 {"type":"id-changed","from":"kvk-table_AdimStringTyped_label_en","to":"kvk-table_TabelEenKolomDynamischeAsAdimensioneelAdimStringTyped_label_en",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdimDefaultValuesReadonly_1_label_nl","to":"abc-lr_LinkroleAdimDefaultValuesEditable_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleAdimDefaultValuesReadonly_1_label_en","to":"abc-lr_LinkroleAdimDefaultValuesEditable_label_en",}
+{"type":"text-mapping","from":"Default values and readonly","to":"Default values and editable",}
+{"type":"text-mapping","from":"Default waarden en readonly","to":"Default waarden en aanpasbaar",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootDefaultValuesReadonlyTitle_1_label_nl","to":"abc-abstr_AbstractRootDefaultValuesEditableTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootDefaultValuesReadonlyTitle_1","to":"abc-abstr_AbstractRootDefaultValuesEditableTitle",}
+{"type":"name-mapping","from":"AbstractRootDefaultValuesReadonlyTitle_1","to":"AbstractRootDefaultValuesEditableTitle",}
+{"type":"id-changed","from":"abc-abstr_PHDefaultValuesReadonlyTitle_1_label_en","to":"abc-abstr_PHDefaultValuesEditableTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHDefaultValuesReadonlyTitle_1_label_nl","to":"abc-abstr_PHDefaultValuesEditableTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHDefaultValuesReadonlyTitle_1","to":"abc-abstr_PHDefaultValuesEditableTitle",}
+{"type":"name-mapping","from":"PHDefaultValuesReadonlyTitle_1","to":"PHDefaultValuesEditableTitle",}
+{"type":"text-mapping","from":"Default values and readonly","to":"Default values and editable",}
+{"type":"text-mapping","from":"Default waarden en readonly","to":"Default waarden en aanpasbaar",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADD_1_documentation_nl","to":"abc-i_ConceptMoneyJDD_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADD_1_terseLabel_nl","to":"abc-i_ConceptMoneyJDD_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADD_1_label_nl","to":"abc-i_ConceptMoneyJDD_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADD_1","to":"abc-i_ConceptMoneyJDD",}
+{"type":"name-mapping","from":"ConceptMoneyADD_1","to":"ConceptMoneyJDD",}
+{"type":"text-mapping","from":"Concept Geld ADD","to":"Concept Geld JDD",}
+{"type":"text-mapping","from":"Concept Geld ADD, kort","to":"Concept Geld JDD, kort",}
+{"type":"id-changed","from":"abc-codes_enumerationABCDItemType_1","to":"abc-codes_enumeration1234ItemType",}
+{"type":"id-changed","from":"abc-codes_enumerationABCDItemType_1_label_en","to":"abc-codes_enumeration1234ItemType_label_en",}
+{"type":"id-changed","from":"abc-codes_enumerationABCDItemType_1_label_nl","to":"abc-codes_enumeration1234ItemType_label_nl",}
+{"type":"name-mapping","from":"enumerationABCDItemType_1","to":"enumeration1234ItemType",}
+{"type":"text-mapping","from":"Enumeration Item Type","to":"Enumeration ABCD Item Type",}
+{"type":"text-mapping","from":"Enumeratie Item Type","to":"Enumeratie ABCD Item Type",}
+{"type":"id-changed","from":"A2","to":"1",}
+{"type":"id-changed","from":"A2_label_nl","to":"1_label_nl",}
+{"type":"id-changed","from":"A2_label_en","to":"1_label_en",}
+{"type":"text-mapping","from":"A2","to":"1",}
+{"type":"text-mapping","from":"A2","to":"1",}
+{"type":"text-mapping","from":"B34","to":"2",}
+{"type":"text-mapping","from":"B34","to":"2",}
+{"type":"id-changed","from":"B34","to":"2",}
+{"type":"id-changed","from":"B34_label_en","to":"2_label_en",}
+{"type":"id-changed","from":"B34_label_nl","to":"2_label_nl",}
+{"type":"id-changed","from":"C1","to":"3",}
+{"type":"id-changed","from":"C1_label_nl","to":"3_label_nl",}
+{"type":"id-changed","from":"C1_label_en","to":"3_label_en",}
+{"type":"text-mapping","from":"C1","to":"3",}
+{"type":"text-mapping","from":"C1","to":"3",}
+{"type":"id-changed","from":"D","to":"4",}
+{"type":"id-changed","from":"D_label_nl","to":"4_label_nl",}
+{"type":"id-changed","from":"D_label_en","to":"4_label_en",}
+{"type":"text-mapping","from":"D","to":"4",}
+{"type":"text-mapping","from":"D","to":"4",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1_documentation_nl","to":"abc-i_ConceptEnumeration1234_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1_label_nl","to":"abc-i_ConceptEnumeration1234_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1","to":"abc-i_ConceptEnumeration1234",}
+{"type":"name-mapping","from":"ConceptEnumerationABCD_1","to":"ConceptEnumeration1234",}
+{"type":"text-mapping","from":"Concept Enumeratie ABCD","to":"Concept Enumeratie 1234",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean2_1_documentation_nl","to":"abc-i_ConceptBoolean3_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean2_1_label_nl","to":"abc-i_ConceptBoolean3_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean2_1","to":"abc-i_ConceptBoolean3",}
+{"type":"name-mapping","from":"ConceptBoolean2_1","to":"ConceptBoolean3",}
+{"type":"text-mapping","from":"Concept Boolean","to":"Concept Boolean 3",}
+{"type":"text-mapping","from":"Concept Boolean","to":"Concept Boolean 2",}
+{"type":"id-changed","from":"abc-i_ConceptDateE_1_documentation_nl","to":"abc-i_ConceptDateF_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateE_1_label_nl","to":"abc-i_ConceptDateF_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateE_1","to":"abc-i_ConceptDateF",}
+{"type":"name-mapping","from":"ConceptDateE_1","to":"ConceptDateF",}
+{"type":"text-mapping","from":"Concept Date E","to":"Concept Date F",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_nl","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_en","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x.1","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y.1","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y","to":"kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable-y",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"Default values and editable",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"Default waarden en aanpasbaar",}
+{"type":"id-changed","from":"1","to":"Een",}
+{"type":"id-changed","from":"1_label_en","to":"Een_label_en",}
+{"type":"id-changed","from":"1_label_nl","to":"Een_label_nl",}
+{"type":"text-mapping","from":"1","to":"Een",}
+{"type":"text-mapping","from":"1","to":"Een",}
+{"type":"text-mapping","from":"Een","to":"One",}
+{"type":"id-changed","from":"Een","to":"One",}
+{"type":"id-changed","from":"Een_label_en","to":"One_label_en",}
+{"type":"id-changed","from":"Een_label_nl","to":"One_label_nl",}
+{"type":"id-changed","from":"4","to":"Four",}
+{"type":"id-changed","from":"4_label_nl","to":"Four_label_nl",}
+{"type":"id-changed","from":"4_label_en","to":"Four_label_en",}
+{"type":"text-mapping","from":"4","to":"Four",}
+{"type":"text-mapping","from":"4","to":"Vier",}
+{"type":"id-changed","from":"3","to":"Three",}
+{"type":"id-changed","from":"3_label_nl","to":"Three_label_nl",}
+{"type":"id-changed","from":"3_label_en","to":"Three_label_en",}
+{"type":"text-mapping","from":"3","to":"Drie",}
+{"type":"text-mapping","from":"3","to":"Drie",}
+{"type":"text-mapping","from":"Drie","to":"Three",}
+{"type":"id-changed","from":"2","to":"Two",}
+{"type":"id-changed","from":"2_label_en","to":"Two_label_en",}
+{"type":"id-changed","from":"2_label_nl","to":"Two_label_nl",}
+{"type":"text-mapping","from":"2","to":"Two",}
+{"type":"text-mapping","from":"2","to":"Twee",}

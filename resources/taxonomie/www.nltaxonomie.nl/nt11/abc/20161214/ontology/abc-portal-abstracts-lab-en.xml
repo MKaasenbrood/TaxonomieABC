@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_label_en" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and editable</link:label>
+    <link:label id="abc-pabstr_PHDefaultValuesEditablePageTitle_label_en" xlink:label="abc-pabstr_PHDefaultValuesEditablePageTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and editable</link:label>
+    <link:label id="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_label_en" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and readonly</link:label>
+    <link:label id="abc-pabstr_PHDefaultValuesReadonlyPageTitle_label_en" xlink:label="abc-pabstr_PHDefaultValuesReadonlyPageTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and readonly</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_loc" xlink:to="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHDefaultValuesEditablePageTitle_loc" xlink:to="abc-pabstr_PHDefaultValuesEditablePageTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:to="abc-pabstr_PHDefaultValuesReadonlyPageTitle_label_en" xlink:type="arc"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesEditableSectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle" xlink:label="abc-pabstr_LinkroleAdimDefaultValuesReadonlySectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDefaultValuesEditablePageTitle" xlink:label="abc-pabstr_PHDefaultValuesEditablePageTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDefaultValuesReadonlyPageTitle" xlink:label="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

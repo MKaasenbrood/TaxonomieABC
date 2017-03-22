@@ -15,6 +15,11 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="B34_loc" xlink:to="B34_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="C1_loc" xlink:to="C1_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="D_loc" xlink:to="D_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="Four_loc" xlink:to="Four_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="One_loc" xlink:to="One_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="Three_loc" xlink:to="Three_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="Two_loc" xlink:to="Two_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-codes_enumeration1234ItemType_loc" xlink:to="abc-codes_enumeration1234ItemType_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-codes_enumerationABCDItemType_loc" xlink:to="abc-codes_enumerationABCDItemType_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="nl-codes_No_loc" xlink:to="nl-codes_No_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="nl-codes_Yes_loc" xlink:to="nl-codes_Yes_label_nl" xlink:type="arc"/>
@@ -22,13 +27,23 @@
     <label:label id="B34_label_nl" xlink:label="B34_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">B34</label:label>
     <label:label id="C1_label_nl" xlink:label="C1_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">C1</label:label>
     <label:label id="D_label_nl" xlink:label="D_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">D</label:label>
-    <label:label id="abc-codes_enumerationABCDItemType_label_nl" xlink:label="abc-codes_enumerationABCDItemType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enumeratie Item Type</label:label>
+    <label:label id="Three_label_nl" xlink:label="Three_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Drie</label:label>
+    <label:label id="One_label_nl" xlink:label="One_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Een</label:label>
+    <label:label id="abc-codes_enumerationABCDItemType_label_nl" xlink:label="abc-codes_enumerationABCDItemType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enumeratie ABCD Item Type</label:label>
+    <label:label id="abc-codes_enumeration1234ItemType_label_nl" xlink:label="abc-codes_enumeration1234ItemType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enumeratie Item Type</label:label>
     <label:label id="nl-codes_Yes_label_nl" xlink:label="nl-codes_Yes_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Ja</label:label>
     <label:label id="nl-codes_No_label_nl" xlink:label="nl-codes_No_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Nee</label:label>
+    <label:label id="Two_label_nl" xlink:label="Two_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Twee</label:label>
+    <label:label id="Four_label_nl" xlink:label="Four_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Vier</label:label>
     <link:loc xlink:href="abc-codes.xsd#A2" xlink:label="A2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#B34" xlink:label="B34_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#C1" xlink:label="C1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#D" xlink:label="D_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-codes.xsd#Four" xlink:label="Four_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-codes.xsd#One" xlink:label="One_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-codes.xsd#Three" xlink:label="Three_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-codes.xsd#Two" xlink:label="Two_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-codes.xsd#abc-codes_enumeration1234ItemType" xlink:label="abc-codes_enumeration1234ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#abc-codes_enumerationABCDItemType" xlink:label="abc-codes_enumerationABCDItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#nl-codes_No" xlink:label="nl-codes_No_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-codes.xsd#nl-codes_Yes" xlink:label="nl-codes_Yes_loc" xlink:type="locator"/>

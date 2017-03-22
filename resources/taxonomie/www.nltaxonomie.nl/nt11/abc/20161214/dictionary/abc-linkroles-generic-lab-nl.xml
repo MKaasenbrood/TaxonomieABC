@@ -18,6 +18,7 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_FSTSeparate_loc" xlink:to="abc-lr_FSTSeparate_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDate2_loc" xlink:to="abc-lr_LinkroleAdimDate2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDates_loc" xlink:to="abc-lr_LinkroleAdimDates_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesEditable_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimStringTyped_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown1_loc" xlink:to="abc-lr_LinkroleBreakdown1_label_nl" xlink:type="arc"/>
@@ -41,6 +42,7 @@
     <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptDateC moet voor de huidige datum liggen</label:label>
     <label:label id="abc-lr_LinkroleAdimDates_label_nl" xlink:label="abc-lr_LinkroleAdimDates_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Datum in conceptA moet voor de datum in conceptB liggen</label:label>
     <label:label id="abc-lr_LinkroleTuple_label_nl" xlink:label="abc-lr_LinkroleTuple_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</label:label>
+    <label:label id="abc-lr_LinkroleAdimDefaultValuesEditable_label_nl" xlink:label="abc-lr_LinkroleAdimDefaultValuesEditable_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Default waarden en aanpasbaar</label:label>
     <label:label id="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Default waarden en readonly</label:label>
     <label:label id="abc-lr_FSTConsolidated_label_nl" xlink:label="abc-lr_FSTConsolidated_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTC</label:label>
     <label:label id="abc-lr_FSTSeparate_label_nl" xlink:label="abc-lr_FSTSeparate_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTS</label:label>
@@ -52,6 +54,7 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_FSTSeparate" xlink:label="abc-lr_FSTSeparate_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:label="abc-lr_LinkroleAdimDates_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesEditable" xlink:label="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesReadonly" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>

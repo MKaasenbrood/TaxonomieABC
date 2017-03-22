@@ -11,8 +11,8 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable_loc" xlink:to="kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable_label_nl" xlink:type="arc"/>
-    <label:label id="kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable_label_nl" xlink:label="kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Default waarden en readonly</label:label>
-    <link:loc xlink:href="abc-linkrole-adim-default-values-readonly-tab.xml#kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable" xlink:label="kvk-table_TableEenKolomAdimensioneelLinkroleAdimDefaultValuesReadonlyTable_loc" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_loc" xlink:to="kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_label_nl" xlink:type="arc"/>
+    <label:label id="kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_label_nl" xlink:label="kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Default waarden en aanpasbaar</label:label>
+    <link:loc xlink:href="abc-linkrole-adim-default-values-editable-tab.xml#kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable" xlink:label="kvk-table_TabelEenKolomAdimensionaalLinkroleAdimDefaultValuesEditable_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>
