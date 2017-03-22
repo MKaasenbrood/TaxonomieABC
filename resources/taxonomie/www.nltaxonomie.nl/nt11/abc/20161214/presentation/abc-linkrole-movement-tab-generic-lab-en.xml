@@ -11,8 +11,8 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_Movement_loc" xlink:to="kvk-table_Movement_label_en" xlink:type="arc"/>
-    <label:label id="kvk-table_Movement_label_en" xlink:label="kvk-table_Movement_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Movement</label:label>
-    <link:loc xlink:href="abc-linkrole-movement-tab.xml#kvk-table_Movement" xlink:label="kvk-table_Movement_loc" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_TabelVerloopoverzichtGeconsolideerdMovement_loc" xlink:to="kvk-table_TabelVerloopoverzichtGeconsolideerdMovement_label_en" xlink:type="arc"/>
+    <label:label id="kvk-table_TabelVerloopoverzichtGeconsolideerdMovement_label_en" xlink:label="kvk-table_TabelVerloopoverzichtGeconsolideerdMovement_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Movement</label:label>
+    <link:loc xlink:href="abc-linkrole-movement-tab.xml#kvk-table_TabelVerloopoverzichtGeconsolideerdMovement" xlink:label="kvk-table_TabelVerloopoverzichtGeconsolideerdMovement_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>
