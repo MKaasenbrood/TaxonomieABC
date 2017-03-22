@@ -13,6 +13,7 @@
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptBoolean2_loc" xlink:to="True_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptDateE_loc" xlink:to="True_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="True_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptInteger2_loc" xlink:to="True_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptMoneyADD_loc" xlink:to="True_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptMoneyCDI_loc" xlink:to="True_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:value-is-read-only" xlink:from="abc-i_ConceptStringH_loc" xlink:to="True_loc" xlink:type="arc"/>
@@ -20,6 +21,7 @@
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean2" xlink:label="abc-i_ConceptBoolean2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateE" xlink:label="abc-i_ConceptDateE_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptInteger2" xlink:label="abc-i_ConceptInteger2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyADD" xlink:label="abc-i_ConceptMoneyADD_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyCDI" xlink:label="abc-i_ConceptMoneyCDI_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringH" xlink:label="abc-i_ConceptStringH_loc" xlink:type="locator"/>

@@ -12,13 +12,15 @@
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootRequiredFields" xlink:label="abc-abstr_AbstractRootRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean" xlink:label="abc-i_ConceptBoolean_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateD" xlink:label="abc-i_ConceptDateD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDecimal1" xlink:label="abc-i_ConceptDecimal1_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMoneyIDD" xlink:label="abc-i_ConceptMoneyIDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringG" xlink:label="abc-i_ConceptStringG_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptValuta" xlink:label="abc-i_ConceptValuta_loc" xlink:type="locator"/>
     <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptValuta_loc" xlink:type="arc"/>
     <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptStringG_loc" xlink:type="arc"/>
-    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptMoneyIDD_loc" xlink:type="arc"/>
-    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptBoolean_loc" xlink:type="arc"/>
-    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptDateD_loc" xlink:type="arc"/>
+    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptDecimal1_loc" xlink:type="arc"/>
+    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptMoneyIDD_loc" xlink:type="arc"/>
+    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptBoolean_loc" xlink:type="arc"/>
+    <link:presentationArc order="6" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-i_ConceptDateD_loc" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

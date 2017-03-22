@@ -55,6 +55,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimDifferentDataTypes" roleURI="urn:abc:linkrole:linkrole-adim-different-data-types">
+        <link:definition>Verschillende Datatypen</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimStringTyped" roleURI="urn:abc:linkrole:linkrole-adim-string-typed">
         <link:definition>Alleen typed dimensie met string geen losse formulas van toepassing</link:definition>
         <link:usedOn>gen:link</link:usedOn>

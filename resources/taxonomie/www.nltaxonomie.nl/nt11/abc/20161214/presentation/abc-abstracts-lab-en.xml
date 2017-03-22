@@ -10,6 +10,8 @@
   <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
     <link:label id="abc-abstr_PHDefaultValuesEditableTitle_label_en" xlink:label="abc-abstr_PHDefaultValuesEditableTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and editable</link:label>
     <link:label id="abc-abstr_PHDefaultValuesReadonlyTitle_label_en" xlink:label="abc-abstr_PHDefaultValuesReadonlyTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Default values and readonly</link:label>
+    <link:label id="abc-abstr_PHDifferentDataTypesTitle_label_en" xlink:label="abc-abstr_PHDifferentDataTypesTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Different Data Types [Title]</link:label>
+    <link:label id="abc-abstr_AbstractRootDifferentDataTypesTitle_label_en" xlink:label="abc-abstr_AbstractRootDifferentDataTypesTitle_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Root Different Data Types [Title]</link:label>
     <link:label id="abc-abstr_AbstractRootAdimDates2_label_en" xlink:label="abc-abstr_AbstractRootAdimDates2_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Root</link:label>
     <link:label id="abc-abstr_AbstractRootAdimDates_label_en" xlink:label="abc-abstr_AbstractRootAdimDates_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Root</link:label>
     <link:label id="abc-abstr_AbstractRootAdimStringTyped_label_en" xlink:label="abc-abstr_AbstractRootAdimStringTyped_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Root</link:label>
@@ -23,20 +25,24 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:to="abc-abstr_AbstractRootAdimStringTyped_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown1_loc" xlink:to="abc-abstr_AbstractRootBreakdown1_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown2_loc" xlink:to="abc-abstr_AbstractRootBreakdown2_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-abstr_AbstractRootDifferentDataTypesTitle_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootMovement_loc" xlink:to="abc-abstr_AbstractRootMovement_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootString2_loc" xlink:to="abc-abstr_AbstractRootString2_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootString_loc" xlink:to="abc-abstr_AbstractRootString_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHDefaultValuesEditableTitle_loc" xlink:to="abc-abstr_PHDefaultValuesEditableTitle_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHDefaultValuesReadonlyTitle_loc" xlink:to="abc-abstr_PHDefaultValuesReadonlyTitle_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHDifferentDataTypesTitle_loc" xlink:to="abc-abstr_PHDifferentDataTypesTitle_label_en" xlink:type="arc"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimDates2" xlink:label="abc-abstr_AbstractRootAdimDates2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimDates" xlink:label="abc-abstr_AbstractRootAdimDates_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimStringTyped" xlink:label="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown1" xlink:label="abc-abstr_AbstractRootBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown2" xlink:label="abc-abstr_AbstractRootBreakdown2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootDifferentDataTypesTitle" xlink:label="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootMovement" xlink:label="abc-abstr_AbstractRootMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString2" xlink:label="abc-abstr_AbstractRootString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString" xlink:label="abc-abstr_AbstractRootString_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHDefaultValuesEditableTitle" xlink:label="abc-abstr_PHDefaultValuesEditableTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHDefaultValuesReadonlyTitle" xlink:label="abc-abstr_PHDefaultValuesReadonlyTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHDifferentDataTypesTitle" xlink:label="abc-abstr_PHDifferentDataTypesTitle_loc" xlink:type="locator"/>
   </link:labelLink>
 </link:linkbase>

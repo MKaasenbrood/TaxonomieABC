@@ -13,9 +13,12 @@
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesEditable_label_en" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesReadonly_label_en" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDifferentDataTypes_loc" xlink:to="abc-lr_LinkroleAdimDifferentDataTypes_label_en" xlink:type="arc"/>
     <label:label id="abc-lr_LinkroleAdimDefaultValuesEditable_label_en" xlink:label="abc-lr_LinkroleAdimDefaultValuesEditable_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Default values and editable</label:label>
     <label:label id="abc-lr_LinkroleAdimDefaultValuesReadonly_label_en" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Default values and readonly</label:label>
+    <label:label id="abc-lr_LinkroleAdimDifferentDataTypes_label_en" xlink:label="abc-lr_LinkroleAdimDifferentDataTypes_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Different Data Types</label:label>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesEditable" xlink:label="abc-lr_LinkroleAdimDefaultValuesEditable_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesReadonly" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDifferentDataTypes" xlink:label="abc-lr_LinkroleAdimDifferentDataTypes_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

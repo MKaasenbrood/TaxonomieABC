@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-different-data-types" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDifferentDataTypes" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-adim-different-data-types" xlink:type="extended">
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootDifferentDataTypesTitle" xlink:label="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBooleanItemType" xlink:label="abc-i_ConceptBooleanItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateItemType" xlink:label="abc-i_ConceptDateItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDecimalItemType" xlink:label="abc-i_ConceptDecimalItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCDItemType" xlink:label="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptIntegerItemType" xlink:label="abc-i_ConceptIntegerItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryNoDecimals20ItemType" xlink:label="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringItemType" xlink:label="abc-i_ConceptStringItemType_loc" xlink:type="locator"/>
+    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptStringItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptIntegerItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptBooleanItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="6" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDecimalItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="7" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDateItemType_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>

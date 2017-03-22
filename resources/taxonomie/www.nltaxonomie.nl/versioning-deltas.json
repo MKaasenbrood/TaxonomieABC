@@ -1621,3 +1621,146 @@
 {"type":"id-changed","from":"2_label_nl","to":"Two_label_nl",}
 {"type":"text-mapping","from":"2","to":"Two",}
 {"type":"text-mapping","from":"2","to":"Twee",}
+{"type":"text-mapping","from":"Concept H","to":"Concept String H",}
+{"type":"text-mapping","from":"Concept F","to":"Concept String F",}
+{"type":"text-mapping","from":"Concept E","to":"Concept String E",}
+{"type":"text-mapping","from":"Concept D","to":"Concept String D",}
+{"type":"text-mapping","from":"Concept C","to":"Concept String C",}
+{"type":"text-mapping","from":"Concept B","to":"Concept String B",}
+{"type":"text-mapping","from":"Concept A","to":"Concept String A",}
+{"type":"text-mapping","from":"Concept A einde van de periode","to":"Concept String A einde van de periode",}
+{"type":"text-mapping","from":"Concept F einde van de periode","to":"Concept String F einde van de periode",}
+{"type":"text-mapping","from":"Concept E einde van de periode","to":"Concept String E einde van de periode",}
+{"type":"text-mapping","from":"Concept D einde van de periode","to":"Concept String D einde van de periode",}
+{"type":"text-mapping","from":"Concept M verkort","to":"Concept String M verkort",}
+{"type":"text-mapping","from":"Concept L verkort","to":"Concept String L verkort",}
+{"type":"text-mapping","from":"Concept K verkort","to":"Concept String K verkort",}
+{"type":"text-mapping","from":"Concept J verkort","to":"Concept String J verkort",}
+{"type":"text-mapping","from":"Concept I verkort","to":"Concept String I verkort",}
+{"type":"text-mapping","from":"Concept H verkort","to":"Concept String H verkort",}
+{"type":"text-mapping","from":"Concept G verkort","to":"Concept String G verkort",}
+{"type":"text-mapping","from":"Concept F verkort","to":"Concept String F verkort",}
+{"type":"text-mapping","from":"Concept E verkort","to":"Concept String E verkort",}
+{"type":"text-mapping","from":"Concept D verkort","to":"Concept String D verkort",}
+{"type":"text-mapping","from":"Concept C verkort","to":"Concept String C verkort",}
+{"type":"text-mapping","from":"Concept B verkort","to":"Concept String B verkort",}
+{"type":"text-mapping","from":"Concept A verkort","to":"Concept String A verkort",}
+{"type":"text-mapping","from":"Concept I","to":"Concept String I",}
+{"type":"text-mapping","from":"Concept J","to":"Concept String J",}
+{"type":"text-mapping","from":"Concept K","to":"Concept String K",}
+{"type":"text-mapping","from":"Concept L","to":"Concept String L",}
+{"type":"text-mapping","from":"Concept M","to":"Concept String M",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_1_label_nl","to":"abc-i_ConceptNumeric1_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_1_label_en","to":"abc-i_ConceptNumeric1_label_en",}
+{"type":"name-mapping","from":"ConceptNumeric_1","to":"ConceptNumeric1",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_1","to":"abc-i_ConceptNumeric1",}
+{"type":"text-mapping","from":"Concept numeric","to":"Concept numeric 1",}
+{"type":"text-mapping","from":"Concept Numeriek","to":"Concept Numeriek 1",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_2_label_en","to":"abc-i_ConceptNumeric2_label_en",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_2_label_nl","to":"abc-i_ConceptNumeric2_label_nl",}
+{"type":"name-mapping","from":"ConceptNumeric_2","to":"ConceptNumeric2",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_2","to":"abc-i_ConceptNumeric2",}
+{"type":"text-mapping","from":"Concept numeric","to":"Concept numeric 2",}
+{"type":"text-mapping","from":"Concept Numeriek","to":"Concept Numeriek 2",}
+{"type":"text-mapping","from":"Concept Numeriek 2","to":"Concept numeriek 2",}
+{"type":"text-mapping","from":"Concept Numeriek 1","to":"Concept numeriek 1",}
+{"type":"text-mapping","from":"Concept numeric","to":"Concept numeric 3",}
+{"type":"text-mapping","from":"Concept Numeriek","to":"Concept numeriek 3",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_label_nl","to":"abc-i_ConceptNumeric3_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric_label_en","to":"abc-i_ConceptNumeric3_label_en",}
+{"type":"name-mapping","from":"ConceptNumeric","to":"ConceptNumeric3",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric","to":"abc-i_ConceptNumeric3",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric1_label_nl","to":"abc-i_ConceptDecimal1_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric1_documentation_nl","to":"abc-i_ConceptDecimal1_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric1_label_en","to":"abc-i_ConceptDecimal1_label_en",}
+{"type":"name-mapping","from":"ConceptNumeric1","to":"ConceptDecimal1",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric1","to":"abc-i_ConceptDecimal1",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric2_label_en","to":"abc-i_ConceptInteger2_label_en",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric2_documentation_nl","to":"abc-i_ConceptInteger2_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric2_label_nl","to":"abc-i_ConceptInteger2_label_nl",}
+{"type":"name-mapping","from":"ConceptNumeric2","to":"ConceptInteger2",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric2","to":"abc-i_ConceptInteger2",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric3_documentation_nl","to":"abc-i_ConceptInteger3_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric3_label_nl","to":"abc-i_ConceptInteger3_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric3_label_en","to":"abc-i_ConceptInteger3_label_en",}
+{"type":"name-mapping","from":"ConceptNumeric3","to":"ConceptInteger3",}
+{"type":"id-changed","from":"abc-i_ConceptNumeric3","to":"abc-i_ConceptInteger3",}
+{"type":"text-mapping","from":"Concept numeric 2","to":"Concept integer 2",}
+{"type":"text-mapping","from":"Concept numeriek 2","to":"Concept integer 2",}
+{"type":"text-mapping","from":"Concept numeric 3","to":"Concept integer 3",}
+{"type":"text-mapping","from":"Concept numeriek 3","to":"Concept integer 3",}
+{"type":"text-mapping","from":"Concept numeric 1","to":"Concept decimal 1",}
+{"type":"text-mapping","from":"Concept numeriek 1","to":"Concept decimaal 1",}
+{"type":"text-mapping","from":"Concept integer 3","to":"Concept Integer 3",}
+{"type":"text-mapping","from":"Concept integer 3","to":"Concept Integer 3",}
+{"type":"text-mapping","from":"Concept decimal 1","to":"Concept Decimal 1",}
+{"type":"text-mapping","from":"Concept decimaal 1","to":"Concept Decimaal 1",}
+{"type":"text-mapping","from":"Concept integer 2","to":"Concept Integer 2",}
+{"type":"text-mapping","from":"Concept integer 2","to":"Concept Integer 2",}
+{"type":"id-changed","from":"abc-abstr_PHDifferentDataTypesTitle_1_label_en","to":"abc-abstr_AbstractRootDifferentDataTypesTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHDifferentDataTypesTitle_1_label_nl","to":"abc-abstr_AbstractRootDifferentDataTypesTitle_label_nl",}
+{"type":"name-mapping","from":"PHDifferentDataTypesTitle_1","to":"AbstractRootDifferentDataTypesTitle",}
+{"type":"id-changed","from":"abc-abstr_PHDifferentDataTypesTitle_1","to":"abc-abstr_AbstractRootDifferentDataTypesTitle",}
+{"type":"text-mapping","from":"Different Data Types [Title]","to":"Root Different Data Types [Title]",}
+{"type":"text-mapping","from":"Verschillende Datatypen [Titel]","to":"Root Verschillende Datatypen [Titel]",}
+{"type":"id-changed","from":"abc-i_ConceptStringJ_terseLabel_nl","to":"abc-i_ConceptStringItemType_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringJ_label_nl","to":"abc-i_ConceptStringItemType_label_nl",}
+{"type":"name-mapping","from":"ConceptStringJ","to":"ConceptStringItemType",}
+{"type":"id-changed","from":"abc-i_ConceptStringJ","to":"abc-i_ConceptStringItemType",}
+{"type":"text-mapping","from":"Concept String J","to":"Concept String ItemType ",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_label_nl","to":"abc-i_ConceptMonetaryNoDecimals20ItemType_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_periodStartLabel_nl","to":"abc-i_ConceptMonetaryNoDecimals20ItemType_periodStartLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_documentation_nl","to":"abc-i_ConceptMonetaryNoDecimals20ItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_periodEndLabel_nl","to":"abc-i_ConceptMonetaryNoDecimals20ItemType_periodEndLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI_terseLabel_nl","to":"abc-i_ConceptMonetaryNoDecimals20ItemType_terseLabel_nl",}
+{"type":"name-mapping","from":"ConceptMoneyADI","to":"ConceptMonetaryNoDecimals20ItemType",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyADI","to":"abc-i_ConceptMonetaryNoDecimals20ItemType",}
+{"type":"text-mapping","from":"Concept Geld ADI","to":"Concept monetaryNoDecimals20ItemType",}
+{"type":"id-changed","from":"abc-i_ConceptInteger3_1_documentation_nl","to":"abc-i_ConceptIntegerItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptInteger3_1_label_en","to":"abc-i_ConceptIntegerItemType_label_en",}
+{"type":"id-changed","from":"abc-i_ConceptInteger3_1_label_nl","to":"abc-i_ConceptIntegerItemType_label_nl",}
+{"type":"name-mapping","from":"ConceptInteger3_1","to":"ConceptIntegerItemType",}
+{"type":"id-changed","from":"abc-i_ConceptInteger3_1","to":"abc-i_ConceptIntegerItemType",}
+{"type":"text-mapping","from":"Concept Integer 3","to":"Concept IntegerItemType",}
+{"type":"text-mapping","from":"Concept Integer 3","to":"Concept IntegerItemTypeConcept Integer 3",}
+{"type":"text-mapping","from":"Concept IntegerItemTypeConcept Integer 3","to":"Concept IntegerItemType",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean3_1_documentation_nl","to":"abc-i_ConceptBooleanItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean3_1_label_nl","to":"abc-i_ConceptBooleanItemType_label_nl",}
+{"type":"name-mapping","from":"ConceptBoolean3_1","to":"ConceptBooleanItemType",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean3_1","to":"abc-i_ConceptBooleanItemType",}
+{"type":"text-mapping","from":"Concept Boolean 3","to":"BooleanItemType",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1_documentation_nl","to":"abc-i_ConceptEnumerationYesNoItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1_label_nl","to":"abc-i_ConceptEnumerationYesNoItemType_label_nl",}
+{"type":"name-mapping","from":"ConceptEnumeration_1","to":"ConceptEnumerationYesNoItemType",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1","to":"abc-i_ConceptEnumerationYesNoItemType",}
+{"type":"text-mapping","from":"Concept Enumeration","to":"Concept EnumerationYesNoItemType",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1_documentation_nl","to":"abc-i_ConceptEnumerationABCDItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1_label_nl","to":"abc-i_ConceptEnumerationABCDItemType_label_nl",}
+{"type":"name-mapping","from":"ConceptEnumerationABCD_1","to":"ConceptEnumerationABCDItemType",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationABCD_1","to":"abc-i_ConceptEnumerationABCDItemType",}
+{"type":"text-mapping","from":"Concept Enumeratie ABCD","to":"Concept EnumerationABCDItemType",}
+{"type":"id-changed","from":"abc-i_ConceptDecimal1_1_label_nl","to":"abc-i_ConceptDecimalItemType_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDecimal1_1_documentation_nl","to":"abc-i_ConceptDecimalItemType_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDecimal1_1_label_en","to":"abc-i_ConceptDecimalItemType_label_en",}
+{"type":"name-mapping","from":"ConceptDecimal1_1","to":"ConceptDecimalItemType",}
+{"type":"id-changed","from":"abc-i_ConceptDecimal1_1","to":"abc-i_ConceptDecimalItemType",}
+{"type":"text-mapping","from":"Concept Decimal 1","to":"Concept DecimalItemType",}
+{"type":"text-mapping","from":"Concept Decimaal 1","to":"Concept DecimalItemType",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1_label_nl","to":"abc-i_ConceptDateItemType_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1_documentation_nl","to":"abc-i_ConceptDateItemType_documentation_nl",}
+{"type":"name-mapping","from":"ConceptDateF_1","to":"ConceptDateItemType",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1","to":"abc-i_ConceptDateItemType",}
+{"type":"text-mapping","from":"Concept Date F","to":"Concept DateItemType",}
+{"type":"id-changed","from":"abc-lr_LinkroleDifferentDataTypes_label_nl","to":"abc-lr_LinkroleAdimDifferentDataTypes_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleDifferentDataTypes_label_en","to":"abc-lr_LinkroleAdimDifferentDataTypes_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y.1","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x.1","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_en","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_nl","to":"kvk-table_TabelEenKolomAdimensioneelDifferentDataTypes_label_nl",}
+{"type":"text-mapping","from":"Verschillende Ddatatypen","to":"Verschillende Datatypen",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"Verschillende Datatypen",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"Different Date Types",}
+{"type":"text-mapping","from":"Concept String ItemType ","to":"Concept String ItemType",}
