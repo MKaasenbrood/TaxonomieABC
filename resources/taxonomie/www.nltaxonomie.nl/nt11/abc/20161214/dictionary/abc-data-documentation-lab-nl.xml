@@ -8,12 +8,15 @@
 -->
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
   <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-i_ConceptBoolean2_documentation_nl" xlink:label="abc-i_ConceptBoolean2_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptBoolean_documentation_nl" xlink:label="abc-i_ConceptBoolean_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptDateA_documentation_nl" xlink:label="abc-i_ConceptDateA_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptDateB_documentation_nl" xlink:label="abc-i_ConceptDateB_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptDateC_documentation_nl" xlink:label="abc-i_ConceptDateC_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptDateD_documentation_nl" xlink:label="abc-i_ConceptDateD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptDateE_documentation_nl" xlink:label="abc-i_ConceptDateE_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEntityIdentifier_documentation_nl" xlink:label="abc-i_ConceptEntityIdentifier_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:label="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumeration_documentation_nl" xlink:label="abc-i_ConceptEnumeration_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyACD_documentation_nl" xlink:label="abc-i_ConceptMoneyACD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyACI_documentation_nl" xlink:label="abc-i_ConceptMoneyACI_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
@@ -42,12 +45,15 @@
     <link:label id="abc-i_ConceptTuple5_documentation_nl" xlink:label="abc-i_ConceptTuple5_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptValuta_documentation_nl" xlink:label="abc-i_ConceptValuta_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_TypedMemberPresentationOrder_documentation_nl" xlink:label="abc-i_TypedMemberPresentationOrder_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean2_loc" xlink:to="abc-i_ConceptBoolean2_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean_loc" xlink:to="abc-i_ConceptBoolean_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateA_loc" xlink:to="abc-i_ConceptDateA_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateB_loc" xlink:to="abc-i_ConceptDateB_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateC_loc" xlink:to="abc-i_ConceptDateC_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateD_loc" xlink:to="abc-i_ConceptDateD_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateE_loc" xlink:to="abc-i_ConceptDateE_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEntityIdentifier_loc" xlink:to="abc-i_ConceptEntityIdentifier_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumeration_loc" xlink:to="abc-i_ConceptEnumeration_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyACD_loc" xlink:to="abc-i_ConceptMoneyACD_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyACI_loc" xlink:to="abc-i_ConceptMoneyACI_documentation_nl" xlink:type="arc"/>
@@ -76,12 +82,15 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple5_loc" xlink:to="abc-i_ConceptTuple5_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptValuta_loc" xlink:to="abc-i_ConceptValuta_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_TypedMemberPresentationOrder_loc" xlink:to="abc-i_TypedMemberPresentationOrder_documentation_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean2" xlink:label="abc-i_ConceptBoolean2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean" xlink:label="abc-i_ConceptBoolean_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateA" xlink:label="abc-i_ConceptDateA_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateB" xlink:label="abc-i_ConceptDateB_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateC" xlink:label="abc-i_ConceptDateC_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateD" xlink:label="abc-i_ConceptDateD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateE" xlink:label="abc-i_ConceptDateE_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEntityIdentifier" xlink:label="abc-i_ConceptEntityIdentifier_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumeration" xlink:label="abc-i_ConceptEnumeration_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyACD" xlink:label="abc-i_ConceptMoneyACD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyACI" xlink:label="abc-i_ConceptMoneyACI_loc" xlink:type="locator"/>

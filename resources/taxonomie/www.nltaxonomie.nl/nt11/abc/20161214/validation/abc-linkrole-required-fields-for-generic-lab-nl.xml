@@ -21,10 +21,10 @@
     <label:label id="ARequiredFields_MsgAdimensionalExistOnce3_label_NL" xlink:label="ARequiredFields_MsgAdimensionalExistOnce3_label_NL" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptMoneyIDD moet exact één keer voorkomen.</label:label>
     <label:label id="ARequiredFields_MsgAdimensionalExistOnce2_label_NL" xlink:label="ARequiredFields_MsgAdimensionalExistOnce2_label_NL" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptStringG moet exact één keer voorkomen.</label:label>
     <label:label id="ARequiredFields_MsgAdimensionalExistOnce1_label_NL" xlink:label="ARequiredFields_MsgAdimensionalExistOnce1_label_NL" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptValuta moet exact één keer voorkomen.</label:label>
-    <link:loc xlink:href="abc-arequired-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-arequired-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-arequired-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-arequired-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-arequired-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-for.xml#ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

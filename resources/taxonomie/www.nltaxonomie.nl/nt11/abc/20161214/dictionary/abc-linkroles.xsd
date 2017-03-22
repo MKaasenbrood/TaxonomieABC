@@ -9,13 +9,8 @@
 <xs:schema xmlns:abc-lr="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-linkroles" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-linkroles">
   <xs:annotation>
     <xs:appinfo>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkroles-generic-lab-en.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkroles-generic-lab-nl.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
-      <link:roleType id="abc-lr_ARequiredFields" roleURI="urn:abc:linkrole:arequired-fields">
-        <link:definition>Alle concepten zijn verplicht gesteld</link:definition>
-        <link:usedOn>gen:link</link:usedOn>
-        <link:usedOn>link:definitionLink</link:usedOn>
-        <link:usedOn>link:presentationLink</link:usedOn>
-      </link:roleType>
       <link:roleType id="abc-lr_BoPCommercial" roleURI="urn:abc:linkrole:bo-pcommercial">
         <link:definition>BoPC</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
@@ -48,6 +43,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleAdimDefaultValuesReadonly" roleURI="urn:abc:linkrole:linkrole-adim-default-values-readonly">
+        <link:definition>Default waarden en readonly</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleAdimStringTyped" roleURI="urn:abc:linkrole:linkrole-adim-string-typed">
         <link:definition>Alleen typed dimensie met string geen losse formulas van toepassing</link:definition>
         <link:usedOn>gen:link</link:usedOn>
@@ -68,6 +69,12 @@
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleMovement" roleURI="urn:abc:linkrole:linkrole-movement">
         <link:definition>Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleRequiredFields" roleURI="urn:abc:linkrole:linkrole-required-fields">
+        <link:definition>Alle concepten zijn verplicht gesteld</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>

@@ -11,24 +11,24 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:href="http://www.nltaxonomie.nl/2011/xbrl/xbrl-syntax-arcroles.xsd#sbr_linkrole-order" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_ARequiredFields_loc" xlink:to="abc-lr_ARequiredFields_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleAdimDate2_loc" xlink:to="abc-lr_LinkroleAdimDate2_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleAdimDates_loc" xlink:to="abc-lr_LinkroleAdimDates_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleAdimStringTyped_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleBreakdown1_loc" xlink:to="abc-lr_LinkroleBreakdown1_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleBreakdown2_loc" xlink:to="abc-lr_LinkroleBreakdown2_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleMovement_loc" xlink:to="abc-lr_LinkroleMovement_rsc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleRequiredFields_loc" xlink:to="abc-lr_LinkroleRequiredFields_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleString2_loc" xlink:to="abc-lr_LinkroleString2_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleString_loc" xlink:to="abc-lr_LinkroleString_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleTuple_loc" xlink:to="abc-lr_LinkroleTuple_rsc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://www.nltaxonomie.nl/2011/arcrole/linkrole-order" xlink:from="abc-lr_LinkroleTyped_loc" xlink:to="abc-lr_LinkroleTyped_rsc" xlink:type="arc"/>
-    <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:label="abc-lr_ARequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:label="abc-lr_LinkroleAdimDates_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:label="abc-lr_LinkroleBreakdown2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleMovement" xlink:label="abc-lr_LinkroleMovement_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:label="abc-lr_LinkroleRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:label="abc-lr_LinkroleString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>
@@ -43,6 +43,6 @@
     <sbr:linkroleOrder id="abc-lr_LinkroleString2_rsc" xlink:label="abc-lr_LinkroleString2_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">7.0</sbr:linkroleOrder>
     <sbr:linkroleOrder id="abc-lr_LinkroleAdimDates_rsc" xlink:label="abc-lr_LinkroleAdimDates_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">7.5</sbr:linkroleOrder>
     <sbr:linkroleOrder id="abc-lr_LinkroleTyped_rsc" xlink:label="abc-lr_LinkroleTyped_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">8.0</sbr:linkroleOrder>
-    <sbr:linkroleOrder id="abc-lr_ARequiredFields_rsc" xlink:label="abc-lr_ARequiredFields_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">9.0</sbr:linkroleOrder>
+    <sbr:linkroleOrder id="abc-lr_LinkroleRequiredFields_rsc" xlink:label="abc-lr_LinkroleRequiredFields_rsc" xlink:role="http://www.nltaxonomie.nl/2011/role/linkrole-info" xlink:type="resource">9.0</sbr:linkroleOrder>
   </gen:link>
 </link:linkbase>

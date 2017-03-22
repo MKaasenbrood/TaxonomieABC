@@ -30,9 +30,9 @@
       </cf:concept>
     </cf:conceptName>
   </gen:link>
-  <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-string-typed" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set-precondition" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set-precondition" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-string-typed" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:type="simple"/>
 </link:linkbase>

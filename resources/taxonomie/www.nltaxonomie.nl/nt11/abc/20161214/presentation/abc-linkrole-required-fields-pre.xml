@@ -7,8 +7,8 @@
   Release date: Wed Dec 14 09:00:00 2016
 -->
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <link:roleRef roleURI="urn:abc:linkrole:arequired-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:type="simple"/>
-  <link:presentationLink xlink:role="urn:abc:linkrole:arequired-fields" xlink:type="extended">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-required-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-required-fields" xlink:type="extended">
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootRequiredFields" xlink:label="abc-abstr_AbstractRootRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean" xlink:label="abc-i_ConceptBoolean_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateD" xlink:label="abc-i_ConceptDateD_loc" xlink:type="locator"/>

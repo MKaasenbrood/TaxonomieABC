@@ -13,6 +13,6 @@
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_ARequiredFields_loc" xlink:to="kvk-table_ARequiredFields_label_nl" xlink:type="arc"/>
     <label:label id="kvk-table_ARequiredFields_label_nl" xlink:label="kvk-table_ARequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ARequiredFields</label:label>
-    <link:loc xlink:href="abc-arequired-fields-tab.xml#kvk-table_ARequiredFields" xlink:label="kvk-table_ARequiredFields_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkrole-required-fields-tab.xml#kvk-table_ARequiredFields" xlink:label="kvk-table_ARequiredFields_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>

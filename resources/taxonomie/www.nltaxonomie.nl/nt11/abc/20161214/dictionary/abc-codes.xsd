@@ -15,7 +15,17 @@
   </xs:annotation>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
-  <xs:complexType id="abc-codes_yesNoItemType" name="yesNoItemType">
+  <xs:complexType id="abc-codes_enumerationABCDItemType" name="enumerationABCDItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:enumeration id="A2" value="A2"/>
+        <xs:enumeration id="B34" value="B34"/>
+        <xs:enumeration id="C1" value="C1"/>
+        <xs:enumeration id="D" value="D"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-codes_enumerationYesNoItemType" name="enumerationYesNoItemType">
     <xs:simpleContent>
       <xs:restriction base="xbrli:stringItemType">
         <xs:enumeration id="nl-codes_Yes" value="Ja"/>

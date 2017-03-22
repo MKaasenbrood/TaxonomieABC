@@ -11,7 +11,6 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_ARequiredFields_loc" xlink:to="abc-lr_ARequiredFields_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_BoPCommercial_loc" xlink:to="abc-lr_BoPCommercial_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_BoPFiscal_loc" xlink:to="abc-lr_BoPFiscal_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_ClassesOfStuff_loc" xlink:to="abc-lr_ClassesOfStuff_label_nl" xlink:type="arc"/>
@@ -19,15 +18,17 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_FSTSeparate_loc" xlink:to="abc-lr_FSTSeparate_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDate2_loc" xlink:to="abc-lr_LinkroleAdimDate2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDates_loc" xlink:to="abc-lr_LinkroleAdimDates_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:to="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimStringTyped_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown1_loc" xlink:to="abc-lr_LinkroleBreakdown1_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown2_loc" xlink:to="abc-lr_LinkroleBreakdown2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleMovement_loc" xlink:to="abc-lr_LinkroleMovement_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleRequiredFields_loc" xlink:to="abc-lr_LinkroleRequiredFields_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2_loc" xlink:to="abc-lr_LinkroleString2_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString_loc" xlink:to="abc-lr_LinkroleString_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleTuple_loc" xlink:to="abc-lr_LinkroleTuple_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleTyped_loc" xlink:to="abc-lr_LinkroleTyped_label_nl" xlink:type="arc"/>
-    <label:label id="abc-lr_ARequiredFields_label_nl" xlink:label="abc-lr_ARequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Alle concepten zijn verplicht gesteld</label:label>
+    <label:label id="abc-lr_LinkroleRequiredFields_label_nl" xlink:label="abc-lr_LinkroleRequiredFields_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Alle concepten zijn verplicht gesteld</label:label>
     <label:label id="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:label="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Alleen typed dimensie met string geen losse formulas van toepassing</label:label>
     <label:label id="abc-lr_LinkroleString_label_nl" xlink:label="abc-lr_LinkroleString_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</label:label>
     <label:label id="abc-lr_LinkroleString2_label_nl" xlink:label="abc-lr_LinkroleString2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptStringE ingevuld is dan moet ConceptStringF ook bestaan.</label:label>
@@ -40,10 +41,10 @@
     <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptDateC moet voor de huidige datum liggen</label:label>
     <label:label id="abc-lr_LinkroleAdimDates_label_nl" xlink:label="abc-lr_LinkroleAdimDates_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Datum in conceptA moet voor de datum in conceptB liggen</label:label>
     <label:label id="abc-lr_LinkroleTuple_label_nl" xlink:label="abc-lr_LinkroleTuple_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</label:label>
+    <label:label id="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Default waarden en readonly</label:label>
     <label:label id="abc-lr_FSTConsolidated_label_nl" xlink:label="abc-lr_FSTConsolidated_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTC</label:label>
     <label:label id="abc-lr_FSTSeparate_label_nl" xlink:label="abc-lr_FSTSeparate_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">FSTS</label:label>
     <label:label id="abc-lr_ClassesOfStuff_label_nl" xlink:label="abc-lr_ClassesOfStuff_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Klassen van stuffs</label:label>
-    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_ARequiredFields" xlink:label="abc-lr_ARequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPCommercial" xlink:label="abc-lr_BoPCommercial_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_BoPFiscal" xlink:label="abc-lr_BoPFiscal_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_ClassesOfStuff" xlink:label="abc-lr_ClassesOfStuff_loc" xlink:type="locator"/>
@@ -51,10 +52,12 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_FSTSeparate" xlink:label="abc-lr_FSTSeparate_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDate2" xlink:label="abc-lr_LinkroleAdimDate2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:label="abc-lr_LinkroleAdimDates_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimDefaultValuesReadonly" xlink:label="abc-lr_LinkroleAdimDefaultValuesReadonly_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:label="abc-lr_LinkroleBreakdown2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleMovement" xlink:label="abc-lr_LinkroleMovement_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:label="abc-lr_LinkroleRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:label="abc-lr_LinkroleString2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>

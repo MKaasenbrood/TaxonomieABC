@@ -21,6 +21,7 @@
     <link:label id="abc-abstr_PHNavigationDates2Title_label_nl" xlink:label="abc-abstr_PHNavigationDates2Title_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Datum in conceptA moet voor de datum in conceptB liggen</link:label>
     <link:label id="abc-abstr_AbstractTupleTitle_label_nl" xlink:label="abc-abstr_AbstractTupleTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</link:label>
     <link:label id="abc-abstr_PHTupleTitle_label_nl" xlink:label="abc-abstr_PHTupleTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">De Tuple is verplicht, maar binnen de tuple zijn er geen concepten verplicht.</link:label>
+    <link:label id="abc-abstr_PHDefaultValuesReadonlyTitle_label_nl" xlink:label="abc-abstr_PHDefaultValuesReadonlyTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Default waarden en readonly</link:label>
     <link:label id="abc-abstr_EndTitle_label_nl" xlink:label="abc-abstr_EndTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Eind</link:label>
     <link:label id="abc-abstr_MovementTitle_label_nl" xlink:label="abc-abstr_MovementTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Mutatie</link:label>
     <link:label id="abc-abstr_PHRootTitle_label_nl" xlink:label="abc-abstr_PHRootTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Rapportage</link:label>
@@ -29,6 +30,7 @@
     <link:label id="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:label="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:label="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:label="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
+    <link:label id="abc-abstr_AbstractRootDefaultValuesReadonlyTitle_label_nl" xlink:label="abc-abstr_AbstractRootDefaultValuesReadonlyTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootMovement_label_nl" xlink:label="abc-abstr_AbstractRootMovement_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:label="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
     <link:label id="abc-abstr_AbstractRootString2_label_nl" xlink:label="abc-abstr_AbstractRootString2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Root</link:label>
@@ -40,6 +42,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:to="abc-abstr_AbstractRootAdimStringTyped_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown1_loc" xlink:to="abc-abstr_AbstractRootBreakdown1_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootBreakdown2_loc" xlink:to="abc-abstr_AbstractRootBreakdown2_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootDefaultValuesReadonlyTitle_loc" xlink:to="abc-abstr_AbstractRootDefaultValuesReadonlyTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootMovement_loc" xlink:to="abc-abstr_AbstractRootMovement_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootRequiredFields_loc" xlink:to="abc-abstr_AbstractRootRequiredFields_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_AbstractRootString2_loc" xlink:to="abc-abstr_AbstractRootString2_label_nl" xlink:type="arc"/>
@@ -49,6 +52,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_EndTitle_loc" xlink:to="abc-abstr_EndTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_MovementTitle_loc" xlink:to="abc-abstr_MovementTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHAdimStringTitle_loc" xlink:to="abc-abstr_PHAdimStringTitle_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHDefaultValuesReadonlyTitle_loc" xlink:to="abc-abstr_PHDefaultValuesReadonlyTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHMovementTitle_loc" xlink:to="abc-abstr_PHMovementTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHNavigationDates1Title_loc" xlink:to="abc-abstr_PHNavigationDates1Title_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHNavigationDates2Title_loc" xlink:to="abc-abstr_PHNavigationDates2Title_label_nl" xlink:type="arc"/>
@@ -67,6 +71,7 @@
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootAdimStringTyped" xlink:label="abc-abstr_AbstractRootAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown1" xlink:label="abc-abstr_AbstractRootBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootBreakdown2" xlink:label="abc-abstr_AbstractRootBreakdown2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootDefaultValuesReadonlyTitle" xlink:label="abc-abstr_AbstractRootDefaultValuesReadonlyTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootMovement" xlink:label="abc-abstr_AbstractRootMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootRequiredFields" xlink:label="abc-abstr_AbstractRootRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootString2" xlink:label="abc-abstr_AbstractRootString2_loc" xlink:type="locator"/>
@@ -76,6 +81,7 @@
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_EndTitle" xlink:label="abc-abstr_EndTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_MovementTitle" xlink:label="abc-abstr_MovementTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHAdimStringTitle" xlink:label="abc-abstr_PHAdimStringTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHDefaultValuesReadonlyTitle" xlink:label="abc-abstr_PHDefaultValuesReadonlyTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHMovementTitle" xlink:label="abc-abstr_PHMovementTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHNavigationDates1Title" xlink:label="abc-abstr_PHNavigationDates1Title_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHNavigationDates2Title" xlink:label="abc-abstr_PHNavigationDates2Title_loc" xlink:type="locator"/>
