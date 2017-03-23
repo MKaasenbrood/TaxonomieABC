@@ -1818,3 +1818,74 @@
 {"type":"text-mapping","from":"Verschillende Datatypen [Titel]","to":"Verschillende Datatypen",}
 {"type":"text-mapping","from":"Als ConceptStringK ingevuld is dan moet ConceptStringL ook bestaan. [ERROR]","to":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. [ERROR]",}
 {"type":"text-mapping","from":"Als ConceptStringK ingevuld is dan moet ConceptStringL ook bestaan. [ERROR]","to":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. [ERROR]",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle_label_nl","to":"abc-abstr_PHString2ErrorTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle","to":"abc-abstr_PHString2ErrorTitle",}
+{"type":"name-mapping","from":"PHStringErrorTitle","to":"PHString2ErrorTitle",}
+{"type":"id-changed","from":"abc-abstr_PHString2ErrorTitle_label_nl","to":"abc-abstr_PHStringErrorTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHString2ErrorTitle","to":"abc-abstr_PHStringErrorTitle",}
+{"type":"name-mapping","from":"PHString2ErrorTitle","to":"PHStringErrorTitle",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle_label_nl","to":"abc-abstr_PHString2ErrorTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle","to":"abc-abstr_PHString2ErrorTitle",}
+{"type":"name-mapping","from":"PHStringErrorTitle","to":"PHString2ErrorTitle",}
+{"type":"id-changed","from":"abc-abstr_PHStringError2Title_label_en","to":"abc-abstr_PHStringErrorTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHStringError2Title_label_nl","to":"abc-abstr_PHStringErrorTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHStringError2Title","to":"abc-abstr_PHStringErrorTitle",}
+{"type":"name-mapping","from":"PHStringError2Title","to":"PHStringErrorTitle",}
+{"type":"id-changed","from":"abc-lr_LinkroleString_1_label_nl","to":"abc-lr_LinkroleStringError_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString_1_label_en","to":"abc-abstr_AbstractRootStringError_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString_1_label_nl","to":"abc-abstr_AbstractRootStringError_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString_1","to":"abc-abstr_AbstractRootStringError",}
+{"type":"name-mapping","from":"AbstractRootString_1","to":"AbstractRootStringError",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1_documentation_nl","to":"abc-i_ConceptEnumeration2_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1_label_nl","to":"abc-i_ConceptEnumeration2_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration_1","to":"abc-i_ConceptEnumeration2",}
+{"type":"name-mapping","from":"ConceptEnumeration_1","to":"ConceptEnumeration2",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle_label_en","to":"abc-abstr_PHDateErrorTitle_label_en",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle_label_nl","to":"abc-abstr_PHDateErrorTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHStringErrorTitle","to":"abc-abstr_PHDateErrorTitle",}
+{"type":"name-mapping","from":"PHStringErrorTitle","to":"PHDateErrorTitle",}
+{"type":"id-changed","from":"abc-lr_LinkroleStringError_label_nl","to":"abc-lr_LinkroleDateError_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootStringError_label_en","to":"abc-abstr_AbstractRootDateError_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootStringError_label_nl","to":"abc-abstr_AbstractRootDateError_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootStringError","to":"abc-abstr_AbstractRootDateError",}
+{"type":"name-mapping","from":"AbstractRootStringError","to":"AbstractRootDateError",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1_documentation_nl","to":"abc-i_ConceptDateG_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1_label_nl","to":"abc-i_ConceptDateG_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptDateF_1","to":"abc-i_ConceptDateG",}
+{"type":"name-mapping","from":"ConceptDateF_1","to":"ConceptDateG",}
+{"type":"text-mapping","from":"ConceptDateC moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen",}
+{"type":"text-mapping","from":"ConceptDateC moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen",}
+{"type":"text-mapping","from":"Concept Date F","to":"Concept Date G",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent","to":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent1",}
+{"type":"text-mapping","from":"The date reported for OperandDate ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate}) must be earlier than the current date.","to":"The date reported for OperandDate ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate}) must be earlier than the current date.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDate ({$varArc_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate}) moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor OperandDate ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate}) moet liggen voor de huidige datum.",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"factVariable_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_label_NL","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_label_NL",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_EN1","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"valueAssertion_ELRName_MsgAdimDateEarlierThanCurrent1","to":"valueAssertion_LinkroleDateError_MsgAdimDateEarlierThanCurrent1",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_label_EN","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDate moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor ConceptDateG moet liggen voor de huidige datum.",}
+{"type":"text-mapping","from":"The date reported for OperandDate ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate}) must be earlier than the current date.","to":"The date reported for ConceptDateG ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_ConceptDateG}) must be earlier than the current date.",}
+{"type":"text-mapping","from":"De datum gerapporteerd voor OperandDate ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate}) moet liggen voor de huidige datum.","to":"De datum gerapporteerd voor ConceptDateG ({$varArc_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_ConceptDateG}) moet liggen voor de huidige datum.",}
+{"type":"text-mapping","from":"The date reported for OperandDate must be earlier than the current date.","to":"The date reported for ConceptDateG must be earlier than the current date.",}
+{"type":"id-changed","from":"factVariable_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"factVariable_LinkroleDateError_MsgAdimDateEarlierThanCurrent1_ConceptDateG",}
+{"type":"id-changed","from":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_OperandDate","to":"LinkroleDateError_MsgAdimDateEarlierThanCurrent1_ConceptDateG",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError-y",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError-x",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-x.1","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel-y.1","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_nl","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelEenKolomAdimensioneel_label_en","to":"kvk-table_TabelEenKolomAdimensioneelLinkroleDateError_label_en",}
+{"type":"text-mapping","from":"TabelLabelENEenKolomAdimensioneel","to":"Tabel en label",}
+{"type":"text-mapping","from":"TabelLabelNLEenKolomAdimensioneel","to":"Tabel nl label",}
+{"type":"text-mapping","from":"Tabel en label","to":"Table en label",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen [error]",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen [error]","to":"Concept Date G moet voor de huidige datum liggen [ERROR]",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen [ERROR]",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen [ERROR]",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen [ERROR]",}
+{"type":"text-mapping","from":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. [ERROR]","to":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. (ERROR)",}
+{"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen [ERROR]","to":"Concept Date G moet voor de huidige datum liggen (ERROR)",}

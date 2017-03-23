@@ -18,6 +18,7 @@
     <link:label id="abc-i_ConceptDateD_label_nl" xlink:label="abc-i_ConceptDateD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date D</link:label>
     <link:label id="abc-i_ConceptDateE_label_nl" xlink:label="abc-i_ConceptDateE_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date E</link:label>
     <link:label id="abc-i_ConceptDateF_label_nl" xlink:label="abc-i_ConceptDateF_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date F</link:label>
+    <link:label id="abc-i_ConceptDateG_label_nl" xlink:label="abc-i_ConceptDateG_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date G</link:label>
     <link:label id="abc-i_ConceptDateItemType_label_nl" xlink:label="abc-i_ConceptDateItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept DateItemType</link:label>
     <link:label id="abc-i_ConceptDecimal1_label_nl" xlink:label="abc-i_ConceptDecimal1_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Decimaal 1</link:label>
     <link:label id="abc-i_ConceptDecimalItemType_label_nl" xlink:label="abc-i_ConceptDecimalItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept DecimalItemType</link:label>
@@ -25,6 +26,7 @@
     <link:label id="abc-i_ConceptEnumerationABCD_label_nl" xlink:label="abc-i_ConceptEnumerationABCD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Enumeratie ABCD</link:label>
     <link:label id="abc-i_ConceptEnumerationABCDItemType_label_nl" xlink:label="abc-i_ConceptEnumerationABCDItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept EnumerationABCDItemType</link:label>
     <link:label id="abc-i_ConceptEnumerationYesNoItemType_label_nl" xlink:label="abc-i_ConceptEnumerationYesNoItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept EnumerationYesNoItemType</link:label>
+    <link:label id="abc-i_ConceptEnumeration2_label_nl" xlink:label="abc-i_ConceptEnumeration2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Enumeration</link:label>
     <link:label id="abc-i_ConceptEnumeration_label_nl" xlink:label="abc-i_ConceptEnumeration_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Enumeration</link:label>
     <link:label id="abc-i_ConceptMoneyACD_label_nl" xlink:label="abc-i_ConceptMoneyACD_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACD</link:label>
     <link:label id="abc-i_ConceptMoneyACI_label_nl" xlink:label="abc-i_ConceptMoneyACI_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACI</link:label>
@@ -81,10 +83,12 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateD_loc" xlink:to="abc-i_ConceptDateD_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateE_loc" xlink:to="abc-i_ConceptDateE_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateF_loc" xlink:to="abc-i_ConceptDateF_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateG_loc" xlink:to="abc-i_ConceptDateG_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDateItemType_loc" xlink:to="abc-i_ConceptDateItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDecimal1_loc" xlink:to="abc-i_ConceptDecimal1_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDecimalItemType_loc" xlink:to="abc-i_ConceptDecimalItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEntityIdentifier_loc" xlink:to="abc-i_ConceptEntityIdentifier_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumeration2_loc" xlink:to="abc-i_ConceptEnumeration2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumeration1234_loc" xlink:to="abc-i_ConceptEnumeration1234_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationABCDItemType_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="abc-i_ConceptEnumerationABCD_label_nl" xlink:type="arc"/>
@@ -144,10 +148,12 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateD" xlink:label="abc-i_ConceptDateD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateE" xlink:label="abc-i_ConceptDateE_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateF" xlink:label="abc-i_ConceptDateF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateG" xlink:label="abc-i_ConceptDateG_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDateItemType" xlink:label="abc-i_ConceptDateItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDecimal1" xlink:label="abc-i_ConceptDecimal1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDecimalItemType" xlink:label="abc-i_ConceptDecimalItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEntityIdentifier" xlink:label="abc-i_ConceptEntityIdentifier_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumeration2" xlink:label="abc-i_ConceptEnumeration2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumeration1234" xlink:label="abc-i_ConceptEnumeration1234_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationABCDItemType" xlink:label="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>

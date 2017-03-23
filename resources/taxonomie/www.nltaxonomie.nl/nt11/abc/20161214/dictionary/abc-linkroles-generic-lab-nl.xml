@@ -24,6 +24,7 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleAdimStringTyped_loc" xlink:to="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown1_loc" xlink:to="abc-lr_LinkroleBreakdown1_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleBreakdown2_loc" xlink:to="abc-lr_LinkroleBreakdown2_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleDateError_loc" xlink:to="abc-lr_LinkroleDateError_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleMovement_loc" xlink:to="abc-lr_LinkroleMovement_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleRequiredFields_loc" xlink:to="abc-lr_LinkroleRequiredFields_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2Error_loc" xlink:to="abc-lr_LinkroleString2Error_label_nl" xlink:type="arc"/>
@@ -40,6 +41,7 @@
     <label:label id="abc-lr_LinkroleBreakdown1_label_nl" xlink:label="abc-lr_LinkroleBreakdown1_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat</label:label>
     <label:label id="abc-lr_BoPCommercial_label_nl" xlink:label="abc-lr_BoPCommercial_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">BoPC</label:label>
     <label:label id="abc-lr_BoPFiscal_label_nl" xlink:label="abc-lr_BoPFiscal_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">BoPF</label:label>
+    <label:label id="abc-lr_LinkroleDateError_label_nl" xlink:label="abc-lr_LinkroleDateError_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Concept Date G moet voor de huidige datum liggen [ERROR]</label:label>
     <label:label id="abc-lr_LinkroleBreakdown2_label_nl" xlink:label="abc-lr_LinkroleBreakdown2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI</label:label>
     <label:label id="abc-lr_LinkroleTyped_label_nl" xlink:label="abc-lr_LinkroleTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)</label:label>
     <label:label id="abc-lr_LinkroleAdimDate2_label_nl" xlink:label="abc-lr_LinkroleAdimDate2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">ConceptDateC moet voor de huidige datum liggen</label:label>
@@ -64,6 +66,7 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleAdimStringTyped" xlink:label="abc-lr_LinkroleAdimStringTyped_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown1" xlink:label="abc-lr_LinkroleBreakdown1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleBreakdown2" xlink:label="abc-lr_LinkroleBreakdown2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleDateError" xlink:label="abc-lr_LinkroleDateError_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleMovement" xlink:label="abc-lr_LinkroleMovement_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:label="abc-lr_LinkroleRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2Error" xlink:label="abc-lr_LinkroleString2Error_loc" xlink:type="locator"/>
