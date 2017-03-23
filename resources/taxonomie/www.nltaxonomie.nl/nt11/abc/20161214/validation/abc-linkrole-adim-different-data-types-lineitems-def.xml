@@ -14,6 +14,7 @@
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptDateItemType_loc" xlink:type="arc"/>
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptDecimalItemType_loc" xlink:type="arc"/>
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="arc"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="arc"/>
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptIntegerItemType_loc" xlink:type="arc"/>
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="arc"/>
     <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptStringItemType_loc" xlink:type="arc"/>
@@ -21,6 +22,7 @@
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateItemType" xlink:label="abc-i_ConceptDateItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDecimalItemType" xlink:label="abc-i_ConceptDecimalItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCDItemType" xlink:label="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationYesNoItemType" xlink:label="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptIntegerItemType" xlink:label="abc-i_ConceptIntegerItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryNoDecimals20ItemType" xlink:label="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringItemType" xlink:label="abc-i_ConceptStringItemType_loc" xlink:type="locator"/>
