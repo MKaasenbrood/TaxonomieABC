@@ -97,6 +97,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleString2Error" roleURI="urn:abc:linkrole:linkrole-string2error">
+        <link:definition>Als ConceptStringK ingevuld is dan moet ConceptStringL ook bestaan. [ERROR]</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleString" roleURI="urn:abc:linkrole:linkrole-string">
         <link:definition>Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
