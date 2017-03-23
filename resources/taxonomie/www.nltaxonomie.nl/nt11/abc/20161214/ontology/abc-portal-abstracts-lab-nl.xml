@@ -24,6 +24,8 @@
     <link:label id="abc-pabstr_LinkroleBreakdown1SectionTitle_label_nl" xlink:label="abc-pabstr_LinkroleBreakdown1SectionTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Bevat het concept ConceptMoneyDDI wat de tabel hieronder ook bevat</link:label>
     <link:label id="abc-pabstr_PHDateErrorPageTitle_label_nl" xlink:label="abc-pabstr_PHDateErrorPageTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date G moet voor de huidige datum liggen (ERROR)</link:label>
     <link:label id="abc-pabstr_LinkroleDateErrorSectionTitle_label_nl" xlink:label="abc-pabstr_LinkroleDateErrorSectionTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date G moet voor de huidige datum liggen [ERROR]</link:label>
+    <link:label id="abc-pabstr_PHMovementPartPageTitle_label_nl" xlink:label="abc-pabstr_PHMovementPartPageTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACI = Concept Geld BCI + Concept Geld CCI. Herhaling van concepten en bijbehorende formulas vanuit een andere pagina</link:label>
+    <link:label id="abc-pabstr_LinkroleMovementPartSectionTitle_label_nl" xlink:label="abc-pabstr_LinkroleMovementPartSectionTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld ACI = Concept Geld BCI + Concept Geld CCI</link:label>
     <link:label id="abc-pabstr_LinkroleBreakdown2SectionTitle_label_nl" xlink:label="abc-pabstr_LinkroleBreakdown2SectionTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld CCI = -Concept Geld DDI + Concept Geld FCI</link:label>
     <link:label id="abc-pabstr_LinkroleTypedSectionTitle_label_nl" xlink:label="abc-pabstr_LinkroleTypedSectionTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)</link:label>
     <link:label id="abc-pabstr_PHTypedPageTitle_label_nl" xlink:label="abc-pabstr_PHTypedPageTitle_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Geld HDI = -Concept Geld GCI +Concept Geld GDI (kan tzt worden aangepast naar een versie met TypedDimension filter)</link:label>
@@ -51,6 +53,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown1SectionTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:to="abc-pabstr_LinkroleBreakdown2SectionTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleDateErrorSectionTitle_loc" xlink:to="abc-pabstr_LinkroleDateErrorSectionTitle_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleMovementPartSectionTitle_loc" xlink:to="abc-pabstr_LinkroleMovementPartSectionTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleMovementSectionTitle_loc" xlink:to="abc-pabstr_LinkroleMovementSectionTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleRequiredFieldsSectionTitle_loc" xlink:to="abc-pabstr_LinkroleRequiredFieldsSectionTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_LinkroleString2ErrorSectionTitle_loc" xlink:to="abc-pabstr_LinkroleString2ErrorSectionTitle_label_nl" xlink:type="arc"/>
@@ -64,6 +67,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:to="abc-pabstr_PHDefaultValuesReadonlyPageTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHDifferentDataTypesPageTitle_loc" xlink:to="abc-pabstr_PHDifferentDataTypesPageTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHMovementPageTitle_loc" xlink:to="abc-pabstr_PHMovementPageTitle_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHMovementPartPageTitle_loc" xlink:to="abc-pabstr_PHMovementPartPageTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHNavigationDates1PageTitle_loc" xlink:to="abc-pabstr_PHNavigationDates1PageTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHNavigationDates2PageTitle_loc" xlink:to="abc-pabstr_PHNavigationDates2PageTitle_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-pabstr_PHNavigationDatesNavigationTitle_loc" xlink:to="abc-pabstr_PHNavigationDatesNavigationTitle_label_nl" xlink:type="arc"/>
@@ -85,6 +89,7 @@
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleBreakdown1SectionTitle" xlink:label="abc-pabstr_LinkroleBreakdown1SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleBreakdown2SectionTitle" xlink:label="abc-pabstr_LinkroleBreakdown2SectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleDateErrorSectionTitle" xlink:label="abc-pabstr_LinkroleDateErrorSectionTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleMovementPartSectionTitle" xlink:label="abc-pabstr_LinkroleMovementPartSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleMovementSectionTitle" xlink:label="abc-pabstr_LinkroleMovementSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleRequiredFieldsSectionTitle" xlink:label="abc-pabstr_LinkroleRequiredFieldsSectionTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_LinkroleString2ErrorSectionTitle" xlink:label="abc-pabstr_LinkroleString2ErrorSectionTitle_loc" xlink:type="locator"/>
@@ -98,6 +103,7 @@
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDefaultValuesReadonlyPageTitle" xlink:label="abc-pabstr_PHDefaultValuesReadonlyPageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHDifferentDataTypesPageTitle" xlink:label="abc-pabstr_PHDifferentDataTypesPageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHMovementPageTitle" xlink:label="abc-pabstr_PHMovementPageTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHMovementPartPageTitle" xlink:label="abc-pabstr_PHMovementPartPageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHNavigationDates1PageTitle" xlink:label="abc-pabstr_PHNavigationDates1PageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHNavigationDates2PageTitle" xlink:label="abc-pabstr_PHNavigationDates2PageTitle_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-portal-abstracts.xsd#abc-pabstr_PHNavigationDatesNavigationTitle" xlink:label="abc-pabstr_PHNavigationDatesNavigationTitle_loc" xlink:type="locator"/>

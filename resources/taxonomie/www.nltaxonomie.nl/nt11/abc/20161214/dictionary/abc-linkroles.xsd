@@ -23,6 +23,10 @@
         <link:definition>Klassen van stuffs</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_ClassesOfStuffOneMember" roleURI="urn:abc:linkrole:classes-of-stuff-one-member">
+        <link:definition>Klassen van stuffs, één member</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_FSTConsolidated" roleURI="urn:abc:linkrole:fstconsolidated">
         <link:definition>FSTC</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
@@ -87,6 +91,12 @@
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleMovement" roleURI="urn:abc:linkrole:linkrole-movement">
         <link:definition>Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleMovementPart" roleURI="urn:abc:linkrole:linkrole-movement-part">
+        <link:definition>Concept Geld ACI = Concept Geld BCI + Concept Geld CCI</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>

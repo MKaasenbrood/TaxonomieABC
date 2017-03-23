@@ -1889,3 +1889,32 @@
 {"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen","to":"Concept Date G moet voor de huidige datum liggen [ERROR]",}
 {"type":"text-mapping","from":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. [ERROR]","to":"Als Concept String K ingevuld is dan moet Concept String L ook bestaan. (ERROR)",}
 {"type":"text-mapping","from":"Concept Date G moet voor de huidige datum liggen [ERROR]","to":"Concept Date G moet voor de huidige datum liggen (ERROR)",}
+{"type":"id-changed","from":"abc-lr_LinkroleMovement_1_label_nl","to":"abc-lr_LinkroleMovementPart_label_nl",}
+{"type":"text-mapping","from":"Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd","to":"Concept Geld ACI = Concept",}
+{"type":"text-mapping","from":"Concept Geld ACI = Concept","to":"Concept Geld ACI = Concept Geld BCI + Concept Geld CCI",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootMovement_1_label_nl","to":"abc-abstr_AbstractRootMovementPart_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootMovement_1_label_en","to":"abc-abstr_AbstractRootMovementPart_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootMovement_1","to":"abc-abstr_AbstractRootMovementPart",}
+{"type":"name-mapping","from":"AbstractRootMovement_1","to":"AbstractRootMovementPart",}
+{"type":"id-changed","from":"abc-abstr_PHMovementTitle_1_label_nl","to":"abc-abstr_PHMovementTitlePart_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHMovementTitle_1","to":"abc-abstr_PHMovementTitlePart",}
+{"type":"name-mapping","from":"PHMovementTitle_1","to":"PHMovementTitlePart",}
+{"type":"text-mapping","from":"Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd","to":"Concept Geld ACI = Concept Geld BCI + Concept Geld CCI. Herhaling van concepten en bijbehorende formulas vanuit een andere pagina",}
+{"type":"id-changed","from":"abc-lr_ClassesOfStuff_1_label_nl","to":"abc-lr_ClassesOfStuffOneMember_label_nl",}
+{"type":"text-mapping","from":"Klassen van stuffs","to":"Klassen van stuffs, één member",}
+{"type":"id-changed","from":"kvk-table_Tabel2ClassesOpXenYasEnkelvoudigMergedLineitem","to":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-y.1","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-x.1","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-y","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-y",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-x","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-x",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant_label_en","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart_label_en",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-x.1.1.1","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant_label_nl","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart_label_nl",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-x.1.1.1.1","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-x.1.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelUitsplitsingSegmentatieGeconsolideerdInstant-x.1.1","to":"kvk-table_TabelUitplitsingSegmentatieGeconsolideerdInstantLinkroleMovementPart-x.1.1",}
+{"type":"text-mapping","from":"TabelLabelENUitsplitsingSegmentatieGeconsolideerdInstant","to":"LinkroleMovementPart",}
+{"type":"text-mapping","from":"TabelLabelNLUitsplitsingSegmentatieGeconsolideerdInstant","to":"LinkroleMovementPart",}
+{"type":"id-changed","from":"abc-abstr_PHMovementTitlePart_label_nl","to":"abc-abstr_PHMovementPartTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHMovementTitlePart","to":"abc-abstr_PHMovementPartTitle",}
+{"type":"name-mapping","from":"PHMovementTitlePart","to":"PHMovementPartTitle",}
