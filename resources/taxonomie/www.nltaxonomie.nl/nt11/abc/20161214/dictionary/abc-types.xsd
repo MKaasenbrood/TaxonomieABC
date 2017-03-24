@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<xs:schema xmlns:abc-types="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-types" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" id="abc-types" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-types">
+  <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+  <xs:complexType id="abc-types_stringMaxLength5ItemType" name="stringMaxLength5ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:maxLength fixed="false" value="5"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_astring3FItemType" name="astring3FItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:pattern value="([a-zA-Z]{3})"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_pure5_3VItemType" name="pure5_3VItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:pattern value="\d{1,2}(\.\d{1,3})?"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_monetaryTotalDigits10ItemType" name="monetaryTotalDigits10ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:totalDigits value="10"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  
+  
+
+  <xs:complexType id="abc-types_monetaryMaxExclusive10ItemType" name="monetaryMaxExclusive10ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:maxExclusive fixed="false" value="10"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_monetaryMaxInclusive10ItemType" name="monetaryMaxInclusive10ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:maxInclusive fixed="false" value="10"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_stringMaxLength20ItemType" name="stringMaxLength20ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:maxLength fixed="false" value="20"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_stringMinExclusive20ItemType" name="stringMinExclusive20ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:minExclusive fixed="false" value="20"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_monetaryMinInclusive20ItemType" name="monetaryMinInclusive20ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:minInclusive fixed="false" value="5"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="abc-types_monetaryMinLength20ItemType" name="monetaryMinLength20ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:minLength fixed="false" value="20"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="nl-types_monetaryFractionDigits2ItemType" name="monetaryFractionDigits2ItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:monetaryItemType">
+        <xs:fractionDigits value="2"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  
+  
+
+</xs:schema>

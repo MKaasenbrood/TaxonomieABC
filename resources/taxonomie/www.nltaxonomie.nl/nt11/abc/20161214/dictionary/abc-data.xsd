@@ -6,7 +6,7 @@
   Version: 20161214
   Release date: Wed Dec 14 09:00:00 2016
 -->
-<xs:schema xmlns:abc-codes="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-codes" xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:iso4217-enum-sbr="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/iso4217-currencycodes-2016-02-24" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nl-types="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data">
+<xs:schema xmlns:abc-codes="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-codes" xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:abc-types="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-types" xmlns:iso4217-enum-sbr="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/iso4217-currencycodes-2016-02-24" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:nl-types="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" xmlns:sbi="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/sbi-businesscodes-2016" xmlns:venj-types="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-types" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data">
   <xs:annotation>
     <xs:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-documentation-lab-nl.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:type="simple"/>
@@ -20,14 +20,19 @@
     </xs:appinfo>
   </xs:annotation>
   <xs:import namespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-codes" schemaLocation="abc-codes.xsd"/>
+  <xs:import namespace="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-types" schemaLocation="abc-types.xsd"/>
   <xs:import namespace="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/iso4217-currencycodes-2016-02-24" schemaLocation="../../../sbr/20160610/dictionary/iso4217-currencycodes-2016-02-24.xsd"/>
   <xs:import namespace="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/nl-types" schemaLocation="../../../sbr/20160610/dictionary/nl-types.xsd"/>
+  <xs:import namespace="http://www.nltaxonomie.nl/nt11/sbr/20160610/dictionary/sbi-businesscodes-2016" schemaLocation="../../../sbr/20160610/dictionary/sbi-businesscodes-2016.xsd"/>
+  <xs:import namespace="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-types" schemaLocation="../../../venj/20161214/dictionary/venj-types.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+  <xs:element abstract="false" id="abc-i_ConceptAstring3FItemType" name="ConceptAstring3FItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:astring3FItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean2" name="ConceptBoolean2" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean3" name="ConceptBoolean3" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean" name="ConceptBoolean" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBooleanItemType" name="ConceptBooleanItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType" name="ConceptChamberOfCommerceRegistrationNumberItemType" nillable="false" substitutionGroup="xbrli:item" type="venj-types:chamberOfCommerceRegistrationNumberItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptDateA" name="ConceptDateA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptDateB" name="ConceptDateB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptDateC" name="ConceptDateC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
@@ -38,6 +43,7 @@
   <xs:element abstract="false" id="abc-i_ConceptDateItemType" name="ConceptDateItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptDecimal1" name="ConceptDecimal1" nillable="false" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptDecimalItemType" name="ConceptDecimalItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptEmailItemType" name="ConceptEmailItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:emailItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEntityIdentifier" name="ConceptEntityIdentifier" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumeration2" name="ConceptEnumeration2" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumerationYesNoItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumeration1234" name="ConceptEnumeration1234" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumeration1234ItemType" xbrli:periodType="duration"/>
@@ -48,7 +54,11 @@
   <xs:element abstract="false" id="abc-i_ConceptInteger2" name="ConceptInteger2" nillable="false" substitutionGroup="xbrli:item" type="xbrli:integerItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptInteger3" name="ConceptInteger3" nillable="false" substitutionGroup="xbrli:item" type="xbrli:integerItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptIntegerItemType" name="ConceptIntegerItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:integerItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryFractionDigits2ItemType" name="ConceptMonetaryFractionDigits2ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryFractionDigits2ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryItemType" name="ConceptMonetaryItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryNoDecimalItemType" name="ConceptMonetaryNoDecimalItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimalsItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMonetaryNoDecimals20ItemType" name="ConceptMonetaryNoDecimals20ItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryTotalDigits10ItemType" name="ConceptMonetaryTotalDigits10ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryTotalDigits10ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyACD" name="ConceptMoneyACD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyACI" name="ConceptMoneyACI" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="instant"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyADD" name="ConceptMoneyADD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
@@ -69,6 +79,14 @@
   <xs:element abstract="false" id="abc-i_ConceptMoneyIDD" name="ConceptMoneyIDD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyIDI" name="ConceptMoneyIDI" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="instant"/>
   <xs:element abstract="false" id="abc-i_ConceptMoneyJDD" name="ConceptMoneyJDD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptNLzipItemType" name="ConceptNLzipItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:nlzipItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptNonNegative20ItemType" name="ConceptNonNegative20ItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:nonNegative20ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptNonNegativeDecimalItemType" name="ConceptNonNegativeDecimalItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:nonNegativeDecimalItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptNonNegativeIntegerItemType" name="ConceptNonNegativeIntegerItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:nonNegativeIntegerItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptPure5_3VItemType" name="ConceptPure5_3VItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:pure5_3VItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptPureItemType" name="ConceptPureItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:pureItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptSBIItemType" name="ConceptSBIItemType" nillable="false" substitutionGroup="xbrli:item" type="sbi:sbiItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptSharesItemType" name="ConceptSharesItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:sharesItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringA" name="ConceptStringA" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringB" name="ConceptStringB" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringC" name="ConceptStringC" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
@@ -82,6 +100,13 @@
   <xs:element abstract="false" id="abc-i_ConceptStringK" name="ConceptStringK" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringL" name="ConceptStringL" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringM" name="ConceptStringM" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryMaxExclusive10ItemType" name="ConceptMonetaryMaxExclusive10ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryMaxExclusive10ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryMaxInclusive10ItemType" name="ConceptMonetaryMaxInclusive10ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryMaxInclusive10ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptStringMaxLength5ItemType" name="ConceptStringMaxLength5ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMaxLength5ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptStringMaxLength20ItemType" name="ConceptStringMaxLength20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMaxLength20ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptStringMinExclusive20ItemType" name="ConceptStringMinExclusive20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMinExclusive20ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryMinInclusive20ItemType" name="ConceptMonetaryMinInclusive20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryMinInclusive20ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptMonetaryMinLength20ItemType" name="ConceptMonetaryMinLength20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:monetaryMinLength20ItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptTuple1" name="ConceptTuple1" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptTuple2" name="ConceptTuple2" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptTuple3" name="ConceptTuple3" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>

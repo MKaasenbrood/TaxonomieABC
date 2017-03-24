@@ -10,21 +10,59 @@
   <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-different-data-types" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDifferentDataTypes" xlink:type="simple"/>
   <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-adim-different-data-types" xlink:type="extended">
     <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractRootDifferentDataTypesTitle" xlink:label="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptAstring3FItemType" xlink:label="abc-i_ConceptAstring3FItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBooleanItemType" xlink:label="abc-i_ConceptBooleanItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptChamberOfCommerceRegistrationNumberItemType" xlink:label="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateItemType" xlink:label="abc-i_ConceptDateItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDecimalItemType" xlink:label="abc-i_ConceptDecimalItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEmailItemType" xlink:label="abc-i_ConceptEmailItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCDItemType" xlink:label="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationYesNoItemType" xlink:label="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptIntegerItemType" xlink:label="abc-i_ConceptIntegerItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryFractionDigits2ItemType" xlink:label="abc-i_ConceptMonetaryFractionDigits2ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryItemType" xlink:label="abc-i_ConceptMonetaryItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryNoDecimalItemType" xlink:label="abc-i_ConceptMonetaryNoDecimalItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryNoDecimals20ItemType" xlink:label="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryTotalDigits10ItemType" xlink:label="abc-i_ConceptMonetaryTotalDigits10ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptNLzipItemType" xlink:label="abc-i_ConceptNLzipItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptNonNegative20ItemType" xlink:label="abc-i_ConceptNonNegative20ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptNonNegativeDecimalItemType" xlink:label="abc-i_ConceptNonNegativeDecimalItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptNonNegativeIntegerItemType" xlink:label="abc-i_ConceptNonNegativeIntegerItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptPure5_3VItemType" xlink:label="abc-i_ConceptPure5_3VItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptPureItemType" xlink:label="abc-i_ConceptPureItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptSBIItemType" xlink:label="abc-i_ConceptSBIItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptSharesItemType" xlink:label="abc-i_ConceptSharesItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringItemType" xlink:label="abc-i_ConceptStringItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryMaxExclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptMonetaryMaxInclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringMaxLength5ItemType" xlink:label="abc-i_ConceptStringMaxLength5ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptStringMaxLength20ItemType" xlink:label="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:type="locator"/>
     <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptStringItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptIntegerItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptBooleanItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="6" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="7" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDecimalItemType_loc" xlink:type="arc"/>
-    <link:presentationArc order="8" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDateItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="2" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryNoDecimalItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="3" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="4" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="5" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptIntegerItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="6" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptBooleanItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="7" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="8" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="9" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDecimalItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="10" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptDateItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="11" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptNonNegativeIntegerItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="12" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptNonNegativeDecimalItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="13" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptEmailItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="14" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptNLzipItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="15" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptNonNegative20ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="16" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="17" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptSharesItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="18" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptPureItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="19" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptSBIItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="20" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptStringMaxLength5ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="21" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptAstring3FItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="22" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptPure5_3VItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="23" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryTotalDigits10ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="24" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="25" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="26" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:type="arc"/>
+    <link:presentationArc order="27" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractRootDifferentDataTypesTitle_loc" xlink:to="abc-i_ConceptMonetaryFractionDigits2ItemType_loc" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

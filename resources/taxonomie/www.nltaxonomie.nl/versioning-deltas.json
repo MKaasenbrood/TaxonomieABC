@@ -1918,3 +1918,23 @@
 {"type":"id-changed","from":"abc-abstr_PHMovementTitlePart_label_nl","to":"abc-abstr_PHMovementPartTitle_label_nl",}
 {"type":"id-changed","from":"abc-abstr_PHMovementTitlePart","to":"abc-abstr_PHMovementPartTitle",}
 {"type":"name-mapping","from":"PHMovementTitlePart","to":"PHMovementPartTitle",}
+{"type":"text-mapping","from":"Concept String ItemType","to":"ConceptStringItemType",}
+{"type":"text-mapping","from":"Concept monetaryNoDecimals20ItemType","to":"ConceptMonetaryNoDecimals20ItemType",}
+{"type":"text-mapping","from":"Concept IntegerItemType","to":"ConceptIntegerItemType",}
+{"type":"text-mapping","from":"Concept IntegerItemType","to":"ConceptIntegerItemType",}
+{"type":"text-mapping","from":"Concept EnumerationYesNoItemType","to":"ConceptEnumerationYesNoItemType",}
+{"type":"text-mapping","from":"Concept DecimalItemType","to":"ConceptDecimalItemType",}
+{"type":"text-mapping","from":"Concept DecimalItemType","to":"ConceptDecimalItemType",}
+{"type":"text-mapping","from":"Concept DateItemType","to":"ConceptDateItemType",}
+{"type":"text-mapping","from":"Concept Nonnegative Integer Item Type","to":"ConceptNonnegative Integer Item Type",}
+{"type":"text-mapping","from":"Concept Nonnegative Integer ItemType","to":"ConceptNonnegative Integer ItemType",}
+{"type":"text-mapping","from":"ConceptNonnegative Integer ItemType","to":"ConceptNonnegativeIntegerItemType",}
+{"type":"text-mapping","from":"ConceptNonnegative Integer Item Type","to":"ConceptNonnegativeIntegerItemType",}
+{"type":"text-mapping","from":"Concept EnumerationABCDItemType","to":"ConceptEnumerationABCDItemType",}
+{"type":"id-changed","from":"abc-i_ConceptNonnegativeIntegerItemType_label_nl","to":"abc-i_ConceptNonNegativeIntegerItemType_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptNonnegativeIntegerItemType_label_en","to":"abc-i_ConceptNonNegativeIntegerItemType_label_en",}
+{"type":"name-mapping","from":"ConceptNonnegativeIntegerItemType","to":"ConceptNonNegativeIntegerItemType",}
+{"type":"id-changed","from":"abc-i_ConceptNonnegativeIntegerItemType","to":"abc-i_ConceptNonNegativeIntegerItemType",}
+{"type":"text-mapping","from":"ConceptNonnegativeIntegerItemType","to":"ConceptNonNegativeIntegerItemType",}
+{"type":"text-mapping","from":"ConceptNonnegativeIntegerItemType","to":"ConceptNonNegativeIntegerItemType",}
+{"type":"text-mapping","from":"Pure Concept Item Type","to":"ConceptPureItemType",}
