@@ -36,9 +36,6 @@
       </xs:restriction>
     </xs:simpleContent>
   </xs:complexType>
-  
-  
-
   <xs:complexType id="abc-types_monetaryMaxExclusive10ItemType" name="monetaryMaxExclusive10ItemType">
     <xs:simpleContent>
       <xs:restriction base="xbrli:monetaryItemType">
@@ -88,7 +85,25 @@
       </xs:restriction>
     </xs:simpleContent>
   </xs:complexType>
-  
-  
-
+  <xs:complexType id="nl-types_stringWhitespaceCollapseItemType" name="stringWhitespaceCollapseItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:whiteSpace value="collapse"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="nl-types_stringWhitespacePreserveItemType" name="stringWhitespacePreserveItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:whiteSpace value="preserve"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType id="nl-types_stringWhitespaceReplaceItemType" name="stringWhitespaceReplaceItemType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:whiteSpace value="replace"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
 </xs:schema>

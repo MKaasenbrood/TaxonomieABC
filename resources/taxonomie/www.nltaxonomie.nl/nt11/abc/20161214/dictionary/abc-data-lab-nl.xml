@@ -70,6 +70,10 @@
     <link:label id="abc-i_ConceptIntegerItemType_label_nl" xlink:label="abc-i_ConceptIntegerItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptIntegerItemType</link:label>
     <link:label id="abc-i_ConceptMonetaryFractionDigits2ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryFractionDigits2ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryFractionDigits2ItemType</link:label>
     <link:label id="abc-i_ConceptMonetaryItemType_label_nl" xlink:label="abc-i_ConceptMonetaryItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryItemType</link:label>
+    <link:label id="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMaxExclusive10ItemType</link:label>
+    <link:label id="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMaxInclusive10ItemType</link:label>
+    <link:label id="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMinInclusive20ItemType</link:label>
+    <link:label id="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMinLength20ItemType</link:label>
     <link:label id="abc-i_ConceptMonetaryNoDecimals20ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryNoDecimals20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryNoDecimals20ItemType</link:label>
     <link:label id="abc-i_ConceptMonetaryNoDecimalItemType_label_nl" xlink:label="abc-i_ConceptMonetaryNoDecimalItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryNoDecimalsItemType</link:label>
     <link:label id="abc-i_ConceptMonetaryTotalDigits10ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryTotalDigits10ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryTotalDigits10ItemType</link:label>
@@ -82,13 +86,12 @@
     <link:label id="abc-i_ConceptSBIItemType_label_nl" xlink:label="abc-i_ConceptSBIItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptSBIItemType</link:label>
     <link:label id="abc-i_ConceptSharesItemType_label_nl" xlink:label="abc-i_ConceptSharesItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptSharesItemType</link:label>
     <link:label id="abc-i_ConceptStringItemType_label_nl" xlink:label="abc-i_ConceptStringItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringItemType</link:label>
-    <link:label id="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMaxExclusive10ItemType</link:label>
-    <link:label id="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMaxInclusive10ItemType</link:label>
     <link:label id="abc-i_ConceptStringMaxLength5ItemType_label_nl" xlink:label="abc-i_ConceptStringMaxLength5ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringMaxLength5ItemType</link:label>
     <link:label id="abc-i_ConceptStringMaxLength20ItemType_label_nl" xlink:label="abc-i_ConceptStringMaxLength20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringMaxLength20ItemType</link:label>
     <link:label id="abc-i_ConceptStringMinExclusive20ItemType_label_nl" xlink:label="abc-i_ConceptStringMinExclusive20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringMinExclusive20ItemType</link:label>
-    <link:label id="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMinInclusive20ItemType</link:label>
-    <link:label id="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:label="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptMonetaryMinLength20ItemType</link:label>
+    <link:label id="abc-i_ConceptStringWhitespaceCollapseItemType_label_nl" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringWhitespaceCollapseItemType</link:label>
+    <link:label id="abc-i_ConceptStringWhitespacePreserveItemType_label_nl" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringWhitespacePreserveItemType</link:label>
+    <link:label id="abc-i_ConceptStringWhitespaceReplaceItemType_label_nl" xlink:label="abc-i_ConceptStringWhitespaceReplaceItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptStringWhitespaceReplaceItemType</link:label>
     <link:label id="abc-i_ConceptTuple1_label_nl" xlink:label="abc-i_ConceptTuple1_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple1</link:label>
     <link:label id="abc-i_ConceptTuple2_label_nl" xlink:label="abc-i_ConceptTuple2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple2</link:label>
     <link:label id="abc-i_ConceptTuple3_label_nl" xlink:label="abc-i_ConceptTuple3_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">ConceptTuple3</link:label>
@@ -124,6 +127,10 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptIntegerItemType_loc" xlink:to="abc-i_ConceptIntegerItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryFractionDigits2ItemType_loc" xlink:to="abc-i_ConceptMonetaryFractionDigits2ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryItemType_loc" xlink:to="abc-i_ConceptMonetaryItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:to="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:to="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMinInclusive20ItemType_loc" xlink:to="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMinLength20ItemType_loc" xlink:to="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryNoDecimalItemType_loc" xlink:to="abc-i_ConceptMonetaryNoDecimalItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:to="abc-i_ConceptMonetaryNoDecimals20ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryTotalDigits10ItemType_loc" xlink:to="abc-i_ConceptMonetaryTotalDigits10ItemType_label_nl" xlink:type="arc"/>
@@ -168,13 +175,12 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringK_loc" xlink:to="abc-i_ConceptStringK_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringL_loc" xlink:to="abc-i_ConceptStringL_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringM_loc" xlink:to="abc-i_ConceptStringM_label_nl" xlink:type="arc"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:to="abc-i_ConceptMonetaryMaxExclusive10ItemType_label_nl" xlink:type="arc"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:to="abc-i_ConceptMonetaryMaxInclusive10ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringMaxLength5ItemType_loc" xlink:to="abc-i_ConceptStringMaxLength5ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:to="abc-i_ConceptStringMaxLength20ItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringMinExclusive20ItemType_loc" xlink:to="abc-i_ConceptStringMinExclusive20ItemType_label_nl" xlink:type="arc"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMinInclusive20ItemType_loc" xlink:to="abc-i_ConceptMonetaryMinInclusive20ItemType_label_nl" xlink:type="arc"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMonetaryMinLength20ItemType_loc" xlink:to="abc-i_ConceptMonetaryMinLength20ItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:to="abc-i_ConceptStringWhitespaceCollapseItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:to="abc-i_ConceptStringWhitespacePreserveItemType_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespaceReplaceItemType_loc" xlink:to="abc-i_ConceptStringWhitespaceReplaceItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple1_loc" xlink:to="abc-i_ConceptTuple1_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple2_loc" xlink:to="abc-i_ConceptTuple2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptTuple3_loc" xlink:to="abc-i_ConceptTuple3_label_nl" xlink:type="arc"/>
@@ -211,6 +217,10 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptIntegerItemType" xlink:label="abc-i_ConceptIntegerItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryFractionDigits2ItemType" xlink:label="abc-i_ConceptMonetaryFractionDigits2ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryItemType" xlink:label="abc-i_ConceptMonetaryItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMaxExclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMaxInclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMinInclusive20ItemType" xlink:label="abc-i_ConceptMonetaryMinInclusive20ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMinLength20ItemType" xlink:label="abc-i_ConceptMonetaryMinLength20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryNoDecimalItemType" xlink:label="abc-i_ConceptMonetaryNoDecimalItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryNoDecimals20ItemType" xlink:label="abc-i_ConceptMonetaryNoDecimals20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryTotalDigits10ItemType" xlink:label="abc-i_ConceptMonetaryTotalDigits10ItemType_loc" xlink:type="locator"/>
@@ -255,13 +265,12 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringK" xlink:label="abc-i_ConceptStringK_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringL" xlink:label="abc-i_ConceptStringL_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringM" xlink:label="abc-i_ConceptStringM_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMaxExclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxExclusive10ItemType_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMaxInclusive10ItemType" xlink:label="abc-i_ConceptMonetaryMaxInclusive10ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringMaxLength5ItemType" xlink:label="abc-i_ConceptStringMaxLength5ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringMaxLength20ItemType" xlink:label="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringMinExclusive20ItemType" xlink:label="abc-i_ConceptStringMinExclusive20ItemType_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMinInclusive20ItemType" xlink:label="abc-i_ConceptMonetaryMinInclusive20ItemType_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMonetaryMinLength20ItemType" xlink:label="abc-i_ConceptMonetaryMinLength20ItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespaceCollapseItemType" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespacePreserveItemType" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespaceReplaceItemType" xlink:label="abc-i_ConceptStringWhitespaceReplaceItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptTuple1" xlink:label="abc-i_ConceptTuple1_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptTuple2" xlink:label="abc-i_ConceptTuple2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptTuple3" xlink:label="abc-i_ConceptTuple3_loc" xlink:type="locator"/>
