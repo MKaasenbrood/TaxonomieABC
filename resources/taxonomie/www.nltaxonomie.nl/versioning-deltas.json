@@ -1938,3 +1938,7 @@
 {"type":"text-mapping","from":"ConceptNonnegativeIntegerItemType","to":"ConceptNonNegativeIntegerItemType",}
 {"type":"text-mapping","from":"ConceptNonnegativeIntegerItemType","to":"ConceptNonNegativeIntegerItemType",}
 {"type":"text-mapping","from":"Pure Concept Item Type","to":"ConceptPureItemType",}
+{"type":"id-changed","from":"abc-i_ConceptPercentItemTypw_label_nl","to":"abc-i_ConceptPercentItemType_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptPercentItemTypw_label_en","to":"abc-i_ConceptPercentItemType_label_en",}
+{"type":"name-mapping","from":"ConceptPercentItemTypw","to":"ConceptPercentItemType",}
+{"type":"id-changed","from":"abc-i_ConceptPercentItemTypw","to":"abc-i_ConceptPercentItemType",}
