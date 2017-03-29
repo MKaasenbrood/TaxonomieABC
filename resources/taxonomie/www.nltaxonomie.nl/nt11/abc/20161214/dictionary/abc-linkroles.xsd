@@ -119,6 +119,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleString3" roleURI="urn:abc:linkrole:linkrole-string3">
+        <link:definition>Als ConceptEnumeration3 = Ja dan moet ConceptStringM wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringN niet bestaan. Default ConceptEnumeration3 = Ja.</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleString" roleURI="urn:abc:linkrole:linkrole-string">
         <link:definition>Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</link:definition>
         <link:usedOn>gen:link</link:usedOn>

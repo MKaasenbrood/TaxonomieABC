@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:acf="http://xbrl.org/2010/filter/aspect-cover" xmlns:cf="http://xbrl.org/2008/filter/concept" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:va="http://xbrl.org/2008/assertion/value" xmlns:variable="http://xbrl.org/2008/variable" xmlns:xff="http://www.xbrl.org/2010/function/formula" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/variable http://www.xbrl.org/2008/variable.xsd http://xbrl.org/2008/filter/concept http://www.xbrl.org/2008/concept-filter.xsd http://xbrl.org/2008/assertion/value http://www.xbrl.org/2008/value-assertion.xsd http://xbrl.org/2010/filter/aspect-cover http://www.xbrl.org/2010/aspect-cover-filter.xsd http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data ../dictionary/abc-data.xsd">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-string3" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleString3" xlink:type="simple"/>
+  <gen:link xlink:role="urn:abc:linkrole:linkrole-string3" xlink:type="extended">
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:to="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:type="arc"/>
+    <variable:factVariable bindAsSequence="true" fallbackValue="0" id="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" matches="false" nils="false" xlink:label="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:type="resource"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set-precondition" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" xlink:to="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_precondition1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:to="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_CoverAll2" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set-precondition" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" xlink:to="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_precondition2" xlink:type="arc"/>
+    <variable:precondition id="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_precondition1" test="$varArc_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3 eq 'Ja'" xlink:label="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_precondition1" xlink:type="resource"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:to="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:type="arc"/>
+    <cf:conceptName id="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:label="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:type="resource">
+      <cf:concept>
+        <cf:qname>abc-i:ConceptEnumeration3</cf:qname>
+      </cf:concept>
+    </cf:conceptName>
+    <variable:variableArc name="varArc_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" order="5" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" xlink:to="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:to="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1" xlink:type="arc"/>
+    <variable:variableArc name="varArc_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" xlink:to="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:type="arc"/>
+    <va:valueAssertion aspectModel="dimensional" id="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" implicitFiltering="true" test="if(xff:has-fallback-value(xs:QName('varArc_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN'))) then true() else not(count($varArc_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN) ge 1)" xlink:label="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" xlink:type="resource"/>
+    <variable:variableArc name="varArc_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" order="5" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" xlink:to="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:type="arc"/>
+    <va:valueAssertion aspectModel="dimensional" id="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" implicitFiltering="true" test="if(xff:has-fallback-value(xs:QName('varArc_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM'))) then false() else (count($varArc_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM) ge 1)" xlink:label="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" xlink:type="resource"/>
+    <acf:aspectCover id="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_CoverAll2" xlink:label="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_CoverAll2" xlink:type="resource">
+      <acf:aspect>all</acf:aspect>
+    </acf:aspectCover>
+    <variable:factVariable bindAsSequence="true" fallbackValue="0" id="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" matches="false" nils="false" xlink:label="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" matches="false" nils="false" xlink:label="factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:type="resource"/>
+    <acf:aspectCover id="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1" xlink:label="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1" xlink:type="resource">
+      <acf:aspect>all</acf:aspect>
+    </acf:aspectCover>
+    <cf:conceptName id="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:label="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN" xlink:type="resource">
+      <cf:concept>
+        <cf:qname>abc-i:ConceptStringN</cf:qname>
+      </cf:concept>
+    </cf:conceptName>
+    <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" matches="false" nils="false" xlink:label="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:type="resource"/>
+    <variable:precondition id="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_precondition2" test="$varArc_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3 eq 'Ja'" xlink:label="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_precondition2" xlink:type="resource"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:to="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:to="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:type="arc"/>
+    <cf:conceptName id="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:label="LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM" xlink:type="resource">
+      <cf:concept>
+        <cf:qname>abc-i:ConceptStringM</cf:qname>
+      </cf:concept>
+    </cf:conceptName>
+    <variable:variableArc name="varArc_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" xlink:to="factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3" xlink:type="arc"/>
+    <cf:conceptName id="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:label="LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3" xlink:type="resource">
+      <cf:concept>
+        <cf:qname>abc-i:ConceptEnumeration3</cf:qname>
+      </cf:concept>
+    </cf:conceptName>
+    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1" xlink:to="WARNING_loc" xlink:type="arc"/>
+  </gen:link>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set-precondition" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set-precondition" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
+</link:linkbase>

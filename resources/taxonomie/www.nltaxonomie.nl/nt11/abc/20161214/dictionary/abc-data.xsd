@@ -47,6 +47,7 @@
   <xs:element abstract="false" id="abc-i_ConceptEmailItemType" name="ConceptEmailItemType" nillable="false" substitutionGroup="xbrli:item" type="nl-types:emailItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEntityIdentifier" name="ConceptEntityIdentifier" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumeration2" name="ConceptEnumeration2" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumerationYesNoItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptEnumeration3" name="ConceptEnumeration3" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumerationYesNoItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumeration1234" name="ConceptEnumeration1234" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumeration1234ItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumeration" name="ConceptEnumeration" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumerationYesNoItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptEnumerationABCD" name="ConceptEnumerationABCD" nillable="false" substitutionGroup="xbrli:item" type="abc-codes:enumerationABCDItemType" xbrli:periodType="duration"/>
@@ -110,6 +111,7 @@
   <xs:element abstract="false" id="abc-i_ConceptStringMaxLength5ItemType" name="ConceptStringMaxLength5ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMaxLength5ItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringMaxLength20ItemType" name="ConceptStringMaxLength20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMaxLength20ItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringMinExclusive20ItemType" name="ConceptStringMinExclusive20ItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringMinExclusive20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptStringN" name="ConceptStringN" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringWhitespaceCollapseItemType" name="ConceptStringWhitespaceCollapseItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringWhitespaceCollapseItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringWhitespacePreserveItemType" name="ConceptStringWhitespacePreserveItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringWhitespacePreserveItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptStringWhitespaceReplaceItemType" name="ConceptStringWhitespaceReplaceItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:stringWhitespaceReplaceItemType" xbrli:periodType="duration"/>

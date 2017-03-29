@@ -20,6 +20,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2error-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string3-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-tuple-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-typed-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/kvk-generic-parameter.xml FAIL
@@ -33,6 +34,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2error-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string3-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-tuple-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_8_02 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
@@ -51,6 +53,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2error-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string3-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-tuple-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-typed-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/kvk-generic-parameter.xml FAIL
@@ -64,16 +67,19 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2error-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string3-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-tuple-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_8_05 www.nltaxonomie.nl/nt11/abc/20161214/ ERROR nl.taxonomievalidatie.common.error.PreconditionViolationException
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string3-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-breakdown1-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2error-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string3-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_11_09 www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-tuple.xsd FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_2_19 www.nltaxonomie.nl/nt11/abc/20161214/ FAIL
 nl.taxonomievalidatie.rule.Validator_2_2_11_19 www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-types.xsd WARN
