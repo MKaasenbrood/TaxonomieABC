@@ -25,6 +25,7 @@
 		<report.style>ebpi</report.style>
 		<taxonomy.validation.arelle>false</taxonomy.validation.arelle>
 		<taxonomy.validation.inuit>true</taxonomy.validation.inuit>
+		<taxonomy.validation.inuitformula>true</taxonomy.validation.inuitformula>
 		<taxonomy.validation.xwand>true</taxonomy.validation.xwand>
 	</properties>
 
