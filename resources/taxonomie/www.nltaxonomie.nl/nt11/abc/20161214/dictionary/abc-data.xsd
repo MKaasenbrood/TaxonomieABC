@@ -31,6 +31,7 @@
   <xs:element abstract="false" id="abc-i_ConceptAstring3FItemType" name="ConceptAstring3FItemType" nillable="false" substitutionGroup="xbrli:item" type="abc-types:astring3FItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean2" name="ConceptBoolean2" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean3" name="ConceptBoolean3" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_ConceptBoolean4" name="ConceptBoolean4" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBoolean" name="ConceptBoolean" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptBooleanItemType" name="ConceptBooleanItemType" nillable="false" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType" name="ConceptChamberOfCommerceRegistrationNumberItemType" nillable="false" substitutionGroup="xbrli:item" type="venj-types:chamberOfCommerceRegistrationNumberItemType" xbrli:periodType="duration"/>

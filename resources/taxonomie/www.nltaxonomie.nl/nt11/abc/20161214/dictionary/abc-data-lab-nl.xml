@@ -11,6 +11,7 @@
     <link:label id="abc-i_ConceptBooleanItemType_label_nl" xlink:label="abc-i_ConceptBooleanItemType_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">BooleanItemType</link:label>
     <link:label id="abc-i_ConceptBoolean2_label_nl" xlink:label="abc-i_ConceptBoolean2_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Boolean 2</link:label>
     <link:label id="abc-i_ConceptBoolean3_label_nl" xlink:label="abc-i_ConceptBoolean3_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Boolean 3</link:label>
+    <link:label id="abc-i_ConceptBoolean4_label_nl" xlink:label="abc-i_ConceptBoolean4_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Boolean 4</link:label>
     <link:label id="abc-i_ConceptBoolean_label_nl" xlink:label="abc-i_ConceptBoolean_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Boolean</link:label>
     <link:label id="abc-i_ConceptDateA_label_nl" xlink:label="abc-i_ConceptDateA_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date A</link:label>
     <link:label id="abc-i_ConceptDateB_label_nl" xlink:label="abc-i_ConceptDateB_label_nl" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="nl">Concept Date B</link:label>
@@ -105,6 +106,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptAstring3FItemType_loc" xlink:to="abc-i_ConceptAstring3FItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean2_loc" xlink:to="abc-i_ConceptBoolean2_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean3_loc" xlink:to="abc-i_ConceptBoolean3_label_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean4_loc" xlink:to="abc-i_ConceptBoolean4_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBooleanItemType_loc" xlink:to="abc-i_ConceptBooleanItemType_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptBoolean_loc" xlink:to="abc-i_ConceptBoolean_label_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:to="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_label_nl" xlink:type="arc"/>
@@ -199,6 +201,7 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptAstring3FItemType" xlink:label="abc-i_ConceptAstring3FItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean2" xlink:label="abc-i_ConceptBoolean2_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean3" xlink:label="abc-i_ConceptBoolean3_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean4" xlink:label="abc-i_ConceptBoolean4_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBooleanItemType" xlink:label="abc-i_ConceptBooleanItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptBoolean" xlink:label="abc-i_ConceptBoolean_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptChamberOfCommerceRegistrationNumberItemType" xlink:label="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:type="locator"/>

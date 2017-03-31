@@ -16,6 +16,8 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-date-error-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-movement-part-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-movement-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-one-required-field-over-two-pages-dimensional-consolidated-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-one-required-field-over-two-pages-dimensional-separate-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-required-fields-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2-tab.xml FAIL
@@ -30,6 +32,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-breakdown2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-date-error-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-one-required-field-over-two-pages-formula-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-required-fields-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
@@ -49,6 +52,8 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-date-error-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-movement-part-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-movement-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-one-required-field-over-two-pages-dimensional-consolidated-tab.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-one-required-field-over-two-pages-dimensional-separate-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-required-fields-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-string2-tab.xml FAIL
@@ -63,6 +68,7 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-breakdown2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-date-error-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-one-required-field-over-two-pages-formula-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-required-fields-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL

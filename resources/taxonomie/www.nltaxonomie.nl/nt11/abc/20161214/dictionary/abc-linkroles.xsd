@@ -101,6 +101,22 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated" roleURI="urn:abc:linkrole:linkrole-one-required-field-over-two-pages-dimensional-consolidated">
+        <link:definition>Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate" roleURI="urn:abc:linkrole:linkrole-one-required-field-over-two-pages-dimensional-separate">
+        <link:definition>Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de vorige pagina worden ingevuld.</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="abc-lr_LinkroleOneRequiredFieldOverTwoPagesFormula" roleURI="urn:abc:linkrole:linkrole-one-required-field-over-two-pages-formula">
+        <link:definition>Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleRequiredFields" roleURI="urn:abc:linkrole:linkrole-required-fields">
         <link:definition>Alle concepten zijn verplicht gesteld</link:definition>
         <link:usedOn>gen:link</link:usedOn>

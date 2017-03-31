@@ -2109,3 +2109,56 @@
 {"type":"id-changed","from":"test_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_EN2","to":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_assertion-unsatisfied-message_EN2",}
 {"type":"id-changed","from":"factVariable_test_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_WEG","to":"factVariable_ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_WEG",}
 {"type":"id-changed","from":"test_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_precondition2","to":"ELRName_MsgAdimPrecondPreconditionConceptAndExistenceConcept1_precondition2",}
+{"type":"id-changed","from":"abc-lr_LinkroleTuple_1_label_nl","to":"abc-lr_LinkroleOneRequiredFieldDimensionalConsolidated_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleOneRequiredFieldDimensionalConsolidated_1_label_nl","to":"abc-lr_LinkroleOneRequiredFieldDimensionalSeparate_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleOneRequiredFieldDimensionalConsolidated_label_nl","to":"abc-lr_LinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleOneRequiredFieldDimensionalSeparate_label_nl","to":"abc-lr_LinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate_label_nl",}
+{"type":"name-mapping","from":"PHString3Title_2","to":"PHLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparateTitle",}
+{"type":"id-changed","from":"abc-abstr_PHString3Title_2","to":"abc-abstr_PHLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparateTitle",}
+{"type":"name-mapping","from":"PHString3Title_1","to":"PHLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle",}
+{"type":"id-changed","from":"abc-abstr_PHString3Title_1","to":"abc-abstr_PHLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle",}
+{"type":"name-mapping","from":"PHLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle_1","to":"AbstractRootOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle",}
+{"type":"id-changed","from":"abc-abstr_PHLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle_1","to":"abc-abstr_AbstractRootOneRequiredFieldOverTwoPagesDimensionalConsolidatedTitle",}
+{"type":"name-mapping","from":"PHLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparateTitle_1","to":"AbstractRootOneRequiredFieldOverTwoPagesDimensionalSeparateTitle",}
+{"type":"id-changed","from":"abc-abstr_PHLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparateTitle_1","to":"abc-abstr_AbstractRootOneRequiredFieldOverTwoPagesDimensionalSeparateTitle",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean_1_label_nl","to":"abc-i_ConceptBoolean4_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean_1_documentation_nl","to":"abc-i_ConceptBoolean4_documentation_nl",}
+{"type":"name-mapping","from":"ConceptBoolean_1","to":"ConceptBoolean4",}
+{"type":"id-changed","from":"abc-i_ConceptBoolean_1","to":"abc-i_ConceptBoolean4",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerd","to":"kvk-table_TabelTweeKolomGeconsolideerdDurations",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-x","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-x",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-x.1","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-x.1.1.1","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-y","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-y",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-y.1","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-x.1.1.2","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-x.1.1.2",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomGeconsolideerdDurations-x.1.1","to":"kvk-table_TabelTweeKolomGeconsolideerdDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-y","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-y",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-x.1.1.2","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-x.1.1.2",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-x.1","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-x.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-x.1.1.1","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-x.1.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-x.1.1","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-x.1.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-y.1","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-y.1",}
+{"type":"id-changed","from":"kvk-table_TabelTweeKolomEnkelvoudigDurations-x","to":"kvk-table_TabelTweeKolomEnkelvoudigDurationsLinkroleOneRequiredFieldOverTwoPagesDimensionalSeparate-x",}
+{"type":"text-mapping","from":"Concept Boolean","to":"ConceptBoolean4",}
+{"type":"text-mapping","from":"ConceptBoolean4","to":"Concept Boolean 4",}
+{"type":"text-mapping","from":"Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.","to":"Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de vorige pagina worden ingevuld.",}
+{"type":"id-changed","from":"abc-lr_LinkroleOneRequiredFieldOverTwoPagesDimensionalConsolidated_1_label_nl","to":"abc-lr_LinkroleOneRequiredFieldOverTwoPagesFormula_label_nl",}
+{"type":"text-mapping","from":"label-nl : Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.","to":"Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.",}
+{"type":"text-mapping","from":"label-nl : Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.","to":"Concept Boolean 4 moet over de gehele rapportage minimaal 1 maal voorkomen, maar kan ook op de volgende pagina worden ingevuld.",}
+{"type":"id-changed","from":"ExistenceAssertion_ELRName_MsgAdimExistence","to":"ExistenceAssertion_ELRName_MsgAdimExistence1",}
+{"type":"id-changed","from":"factVariable_ELRName_MsgAdimExistence1_Operand","to":"factVariable_LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_Operand",}
+{"type":"id-changed","from":"ELRName_MsgAdimExistence1_assertion-unsatisfied-message_NL1","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"ExistenceAssertion_ELRName_MsgAdimExistence1","to":"ExistenceAssertion_LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1",}
+{"type":"id-changed","from":"ELRName_MsgAdimExistence1_label_EN","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_label_EN",}
+{"type":"id-changed","from":"ELRName_MsgAdimExistence1_label_NL","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_label_NL",}
+{"type":"id-changed","from":"ELRName_MsgAdimExistence1_assertion-unsatisfied-message_EN1","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_assertion-unsatisfied-message_EN1",}
+{"type":"id-changed","from":"ELRName_MsgAdimExistence1_Operand","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_Operand",}
+{"type":"id-changed","from":"factVariable_LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_Operand","to":"factVariable_LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_ConceptBoolean4",}
+{"type":"id-changed","from":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_Operand","to":"LinkroleOneRequiredFieldOverTwoPagesFormula_MsgAdimExistence1_ConceptBoolean4",}
+{"type":"text-mapping","from":"Operand moet minimaal één keer voorkomen.","to":"ConceptBoolean4 moet minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Operand must exist at least once.","to":"ConceptBoolean4 must exist at least once.",}
+{"type":"text-mapping","from":"Operand moet minimaal één keer voorkomen.","to":"ConceptBoolean4 moet minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Operand must exist at least once.","to":"ConceptBoolean4 must exist at least once.",}
