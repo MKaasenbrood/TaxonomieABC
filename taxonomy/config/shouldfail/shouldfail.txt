@@ -36,7 +36,11 @@ nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-breakdown2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-date-error-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vaprecondition-concept-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-one-required-field-over-two-pages-formula-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_08 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-required-fields-for.xml FAIL
@@ -78,7 +82,11 @@ nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-breakdown2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-date-error-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vaprecondition-concept-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-movement-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-one-required-field-over-two-pages-formula-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_10_14 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-required-fields-for.xml FAIL
@@ -95,7 +103,11 @@ nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/201612
 nl.taxonomievalidatie.rule.Validator_2_3_9_02 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string3-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/presentation/abc-linkrole-breakdown1-tab.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-adim-string-typed-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vacons-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vaprecondition-concept-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-for.xml FAIL
+nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-eato-vasep-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2-for.xml FAIL
 nl.taxonomievalidatie.rule.Validator_2_3_0_07 www.nltaxonomie.nl/nt11/abc/20161214/validation/abc-linkrole-string2error-for.xml FAIL
