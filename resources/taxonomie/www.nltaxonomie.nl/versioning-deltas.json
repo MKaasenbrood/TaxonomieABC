@@ -2631,3 +2631,4 @@
 {"type":"id-changed","from":"Geconsolideerd en enkelvoudig_label_en","to":"GeconsolideerdEnEnkelvoudig_label_en",}
 {"type":"id-changed","from":"Geconsolideerd en enkelvoudig_label_nl","to":"GeconsolideerdEnEnkelvoudig_label_nl",}
 {"type":"id-changed","from":"Geconsolideerd en enkelvoudig","to":"GeconsolideerdEnEnkelvoudig",}
+{"type":"text-mapping","from":"Enkelboudig","to":"Enkelvoudig",}

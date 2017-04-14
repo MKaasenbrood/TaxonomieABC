@@ -63,6 +63,12 @@
 			<type>zip</type>
 		</dependency>
 		<dependency>
+			<groupId>nl.taxonomie.taxonomiesbr.2017</groupId>
+			<artifactId>assemblyrelease</artifactId>
+			<classifier>assembly</classifier>
+			<type>zip</type>
+		</dependency>
+		<dependency>
 			<groupId>org.w3</groupId>
 			<artifactId>assembly</artifactId>
 			<classifier>assembly</classifier>

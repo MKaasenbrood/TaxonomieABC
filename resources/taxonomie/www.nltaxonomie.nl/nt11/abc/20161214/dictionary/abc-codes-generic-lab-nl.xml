@@ -33,7 +33,7 @@
     <label:label id="D_label_nl" xlink:label="D_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">D</label:label>
     <label:label id="Three_label_nl" xlink:label="Three_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Drie</label:label>
     <label:label id="One_label_nl" xlink:label="One_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Een</label:label>
-    <label:label id="Enkelvoudig_label_nl" xlink:label="Enkelvoudig_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enkelboudig</label:label>
+    <label:label id="Enkelvoudig_label_nl" xlink:label="Enkelvoudig_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enkelvoudig</label:label>
     <label:label id="abc-codes_enumerationABCDItemType_label_nl" xlink:label="abc-codes_enumerationABCDItemType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enumeratie ABCD Item Type</label:label>
     <label:label id="abc-codes_enumeration1234ItemType_label_nl" xlink:label="abc-codes_enumeration1234ItemType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Enumeratie Item Type</label:label>
     <label:label id="abc-codes_enumerationFinancialStatementType_label_nl" xlink:label="abc-codes_enumerationFinancialStatementType_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Financial Statement Type</label:label>
