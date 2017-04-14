@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xbrli:xbrl xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:abc-dm="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-domains" xmlns:abc-dim="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-axes" xmlns:venj-bw2-dim="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-axes" xmlns:linkbase="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:prefix7="http://www.xbrl.org/2003/iso4217" xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:venj-bw2-dm="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-domains" xmlns:abc-t="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-tuple" xml:lang="nl">
+  <linkbase:schemaRef xlink:type="simple" xlink:href="http://www.nltaxonomie.nl/nt11/abc/20161214/entrypoints/abc-rpt-test-2017.xsd"/>
+  <xbrli:context id="context0">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <xbrli:context id="context7">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="abc-dim:TypedAxis">
+        <abc-dm:TypedMember>Typed As</abc-dm:TypedMember>
+      </xbrldi:typedMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:SeparateMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context9">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_1</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context10">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_4</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context11">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_5</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context12">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_2</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context13">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_3</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context14">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_0</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context21">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_1</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context22">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_4</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context23">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_5</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context24">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_2</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context25">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_3</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context26">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_0</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context51">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_1</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context52">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_4</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context53">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_5</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context54">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_2</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context55">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_3</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context56">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="abc-dim:StuffAxis">abc-dm:StuffMember_0</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context63">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2016-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:SeparateMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context64">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:instant>2015-12-31</xbrli:instant>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:SeparateMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context71">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context74">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:SeparateMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context127">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2015-01-01</xbrli:startDate>
+      <xbrli:endDate>2015-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:ConsolidatedMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context129">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2015-01-01</xbrli:startDate>
+      <xbrli:endDate>2015-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:FinancialStatementsTypeAxis">venj-bw2-dm:SeparateMember</xbrldi:explicitMember>
+      <xbrldi:explicitMember dimension="venj-bw2-dim:BasisOfPreparationAxis">venj-bw2-dm:CommercialMember</xbrldi:explicitMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:context id="context145">
+    <xbrli:entity>
+      <xbrli:identifier scheme="identifier-schema">20050039</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2016-01-01</xbrli:startDate>
+      <xbrli:endDate>2016-12-31</xbrli:endDate>
+    </xbrli:period>
+    <xbrli:scenario>
+      <xbrldi:typedMember dimension="abc-dim:TypedAxis2">
+        <abc-dm:TypedMember2>TypedAxis2</abc-dm:TypedMember2>
+      </xbrldi:typedMember>
+    </xbrli:scenario>
+  </xbrli:context>
+  <xbrli:unit id="unit7">
+    <xbrli:measure>prefix7:XBA</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="unit77">
+    <xbrli:measure>xbrli:pure</xbrli:measure>
+  </xbrli:unit>
+  <xbrli:unit id="unit104">
+    <xbrli:measure>xbrli:shares</xbrli:measure>
+  </xbrli:unit>
+  <abc-i:ConceptDateA contextRef="context0">2017-04-06</abc-i:ConceptDateA>
+  <abc-i:ConceptDateB contextRef="context0">2017-04-07</abc-i:ConceptDateB>
+  <abc-i:ConceptDateC contextRef="context0">2017-04-13</abc-i:ConceptDateC>
+  <abc-i:ConceptMoneyGCI contextRef="context7" unitRef="unit7" decimals="INF">34</abc-i:ConceptMoneyGCI>
+  <abc-i:ConceptMoneyGDI contextRef="context7" unitRef="unit7" decimals="INF">2353</abc-i:ConceptMoneyGDI>
+  <abc-i:ConceptMoneyBCI contextRef="context9" unitRef="unit7" decimals="INF">1234</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context10" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context11" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context12" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context13" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context14" unitRef="unit7" decimals="INF">1687</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyCCI contextRef="context9" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context10" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context11" unitRef="unit7" decimals="INF">32</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context12" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context13" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context14" unitRef="unit7" decimals="INF">585</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyBCD contextRef="context21" unitRef="unit7" decimals="INF">132113</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyBCD contextRef="context22" unitRef="unit7" decimals="INF">21</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyBCD contextRef="context23" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyBCD contextRef="context24" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyBCD contextRef="context25" unitRef="unit7" decimals="INF">32</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyBCD contextRef="context26" unitRef="unit7" decimals="INF">132466</abc-i:ConceptMoneyBCD>
+  <abc-i:ConceptMoneyCDD contextRef="context21" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyCDD contextRef="context22" unitRef="unit7" decimals="INF">13</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyCDD contextRef="context23" unitRef="unit7" decimals="INF">1313</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyCDD contextRef="context24" unitRef="unit7" decimals="INF">21</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyCDD contextRef="context25" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyCDD contextRef="context26" unitRef="unit7" decimals="INF">474</abc-i:ConceptMoneyCDD>
+  <abc-i:ConceptMoneyBDD contextRef="context21" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyBDD contextRef="context22" unitRef="unit7" decimals="INF">31</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyBDD contextRef="context23" unitRef="unit7" decimals="INF">32</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyBDD contextRef="context24" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyBDD contextRef="context25" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyBDD contextRef="context26" unitRef="unit7" decimals="INF">585</abc-i:ConceptMoneyBDD>
+  <abc-i:ConceptMoneyCCD contextRef="context21" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyCCD contextRef="context22" unitRef="unit7" decimals="INF">1321</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyCCD contextRef="context23" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyCCD contextRef="context24" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyCCD contextRef="context25" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyCCD contextRef="context26" unitRef="unit7" decimals="INF">774</abc-i:ConceptMoneyCCD>
+  <abc-i:ConceptMoneyACD contextRef="context21" unitRef="unit7" decimals="INF">131792</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyACD contextRef="context22" unitRef="unit7" decimals="INF">1298</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyACD contextRef="context23" unitRef="unit7" decimals="INF">-703</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyACD contextRef="context24" unitRef="unit7" decimals="INF">489</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyACD contextRef="context25" unitRef="unit7" decimals="INF">-100</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyACD contextRef="context26" unitRef="unit7" decimals="INF">132181</abc-i:ConceptMoneyACD>
+  <abc-i:ConceptMoneyBCI contextRef="context51" unitRef="unit7" decimals="INF">32</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context52" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context53" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context54" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context55" unitRef="unit7" decimals="INF">1342</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyBCI contextRef="context56" unitRef="unit7" decimals="INF">1506</abc-i:ConceptMoneyBCI>
+  <abc-i:ConceptMoneyCCI contextRef="context51" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context52" unitRef="unit7" decimals="INF">132</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context53" unitRef="unit7" decimals="INF">132131313</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context54" unitRef="unit7" decimals="INF">21</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context55" unitRef="unit7" decimals="INF">321</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyCCI contextRef="context56" unitRef="unit7" decimals="INF">474</abc-i:ConceptMoneyCCI>
+  <abc-i:ConceptMoneyDDI contextRef="context63" unitRef="unit7" decimals="INF">2343</abc-i:ConceptMoneyDDI>
+  <abc-i:ConceptMoneyDDI contextRef="context64" unitRef="unit7" decimals="INF">2345</abc-i:ConceptMoneyDDI>
+  <abc-i:ConceptMoneyIDI contextRef="context63" unitRef="unit7" decimals="INF">345</abc-i:ConceptMoneyIDI>
+  <abc-i:ConceptMoneyIDI contextRef="context64" unitRef="unit7" decimals="INF">345</abc-i:ConceptMoneyIDI>
+  <abc-i:ConceptMoneyFCI contextRef="context63" unitRef="unit7" decimals="INF">234</abc-i:ConceptMoneyFCI>
+  <abc-i:ConceptMoneyFCI contextRef="context64" unitRef="unit7" decimals="INF">234</abc-i:ConceptMoneyFCI>
+  <abc-i:ConceptMoneyDCI contextRef="context63" unitRef="unit7" decimals="INF">-2109</abc-i:ConceptMoneyDCI>
+  <abc-i:ConceptMoneyDCI contextRef="context64" unitRef="unit7" decimals="INF">-2111</abc-i:ConceptMoneyDCI>
+  <abc-i:ConceptEnumeration contextRef="context71">Ja</abc-i:ConceptEnumeration>
+  <abc-i:ConceptStringC contextRef="context71">StringC</abc-i:ConceptStringC>
+  <abc-i:ConceptStringD contextRef="context71">StringD</abc-i:ConceptStringD>
+  <abc-i:ConceptStringE contextRef="context74">StringE</abc-i:ConceptStringE>
+  <abc-i:ConceptStringF contextRef="context74">StringF</abc-i:ConceptStringF>
+  <abc-i:ConceptStringH contextRef="context0">Hey</abc-i:ConceptStringH>
+  <abc-i:ConceptInteger2 contextRef="context0" unitRef="unit77" decimals="INF">9</abc-i:ConceptInteger2>
+  <abc-i:ConceptMoneyADD contextRef="context0" unitRef="unit7" decimals="INF">88279</abc-i:ConceptMoneyADD>
+  <abc-i:ConceptEnumerationABCD contextRef="context0">A2</abc-i:ConceptEnumerationABCD>
+  <abc-i:ConceptBoolean2 contextRef="context0">true</abc-i:ConceptBoolean2>
+  <abc-i:ConceptDateE contextRef="context0">2017-03-22</abc-i:ConceptDateE>
+  <abc-i:ConceptStringI contextRef="context0">Hallo</abc-i:ConceptStringI>
+  <abc-i:ConceptInteger3 contextRef="context0" unitRef="unit77" decimals="INF">88279</abc-i:ConceptInteger3>
+  <abc-i:ConceptMoneyJDD contextRef="context0" unitRef="unit7" decimals="INF">27889</abc-i:ConceptMoneyJDD>
+  <abc-i:ConceptEnumeration1234 contextRef="context0">Twee</abc-i:ConceptEnumeration1234>
+  <abc-i:ConceptBoolean3 contextRef="context0">true</abc-i:ConceptBoolean3>
+  <abc-i:ConceptDateF contextRef="context0">2017-04-11</abc-i:ConceptDateF>
+  <abc-i:ConceptStringItemType contextRef="context0">string</abc-i:ConceptStringItemType>
+  <abc-i:ConceptMonetaryNoDecimalItemType contextRef="context0" unitRef="unit7" decimals="INF">234</abc-i:ConceptMonetaryNoDecimalItemType>
+  <abc-i:ConceptMonetaryNoDecimals20ItemType contextRef="context0" unitRef="unit7" decimals="INF">234</abc-i:ConceptMonetaryNoDecimals20ItemType>
+  <abc-i:ConceptMonetaryItemType contextRef="context0" unitRef="unit7" decimals="INF">234</abc-i:ConceptMonetaryItemType>
+  <abc-i:ConceptIntegerItemType contextRef="context0" unitRef="unit77" decimals="INF">23425</abc-i:ConceptIntegerItemType>
+  <abc-i:ConceptBooleanItemType contextRef="context0">true</abc-i:ConceptBooleanItemType>
+  <abc-i:ConceptEnumerationYesNoItemType contextRef="context0">Ja</abc-i:ConceptEnumerationYesNoItemType>
+  <abc-i:ConceptEnumerationABCDItemType contextRef="context0">A2</abc-i:ConceptEnumerationABCDItemType>
+  <abc-i:ConceptDecimalItemType contextRef="context0" unitRef="unit77" decimals="INF">345.456</abc-i:ConceptDecimalItemType>
+  <abc-i:ConceptDateItemType contextRef="context0">2017-04-21</abc-i:ConceptDateItemType>
+  <abc-i:ConceptNonNegativeIntegerItemType contextRef="context0" unitRef="unit77" decimals="INF">345</abc-i:ConceptNonNegativeIntegerItemType>
+  <abc-i:ConceptNonNegativeDecimalItemType contextRef="context0" unitRef="unit77" decimals="INF">4756</abc-i:ConceptNonNegativeDecimalItemType>
+  <abc-i:ConceptEmailItemType contextRef="context0">fg@aergf</abc-i:ConceptEmailItemType>
+  <abc-i:ConceptNLzipItemType contextRef="context0">1234AB</abc-i:ConceptNLzipItemType>
+  <abc-i:ConceptNonNegative20ItemType contextRef="context0">234</abc-i:ConceptNonNegative20ItemType>
+  <abc-i:ConceptChamberOfCommerceRegistrationNumberItemType contextRef="context0">12345678</abc-i:ConceptChamberOfCommerceRegistrationNumberItemType>
+  <abc-i:ConceptSharesItemType contextRef="context0" unitRef="unit104" decimals="INF">6</abc-i:ConceptSharesItemType>
+  <abc-i:ConceptPureItemType contextRef="context0" unitRef="unit77" decimals="INF">5678</abc-i:ConceptPureItemType>
+  <abc-i:ConceptSBIItemType contextRef="context0">6202</abc-i:ConceptSBIItemType>
+  <abc-i:ConceptStringMaxLength5ItemType contextRef="context0">abcde</abc-i:ConceptStringMaxLength5ItemType>
+  <abc-i:ConceptAstring3FItemType contextRef="context0">abc</abc-i:ConceptAstring3FItemType>
+  <abc-i:ConceptPure5_3VItemType contextRef="context0">12</abc-i:ConceptPure5_3VItemType>
+  <abc-i:ConceptMonetaryTotalDigits10ItemType contextRef="context0" unitRef="unit7" decimals="INF">1234567890</abc-i:ConceptMonetaryTotalDigits10ItemType>
+  <abc-i:ConceptMonetaryMinInclusive20ItemType contextRef="context0" unitRef="unit7" decimals="INF">5</abc-i:ConceptMonetaryMinInclusive20ItemType>
+  <abc-i:ConceptMonetaryMinLength20ItemType contextRef="context0">12345678901234567890</abc-i:ConceptMonetaryMinLength20ItemType>
+  <abc-i:ConceptMonetaryMaxExclusive10ItemType contextRef="context0" unitRef="unit7" decimals="INF">9</abc-i:ConceptMonetaryMaxExclusive10ItemType>
+  <abc-i:ConceptMonetaryMaxInclusive10ItemType contextRef="context0" unitRef="unit7" decimals="INF">10</abc-i:ConceptMonetaryMaxInclusive10ItemType>
+  <abc-i:ConceptStringMinExclusive20ItemType contextRef="context0" unitRef="unit7" decimals="INF">21</abc-i:ConceptStringMinExclusive20ItemType>
+  <abc-i:ConceptStringMaxLength20ItemType contextRef="context0">12345678901234567890</abc-i:ConceptStringMaxLength20ItemType>
+  <abc-i:ConceptMonetaryFractionDigits2ItemType contextRef="context0" unitRef="unit7" decimals="INF">45685.45</abc-i:ConceptMonetaryFractionDigits2ItemType>
+  <abc-i:ConceptPercentItemType contextRef="context0" unitRef="unit77" decimals="INF">5</abc-i:ConceptPercentItemType>
+  <abc-i:ConceptPerShareItemType contextRef="context0" unitRef="unit77" decimals="INF">45</abc-i:ConceptPerShareItemType>
+  <abc-i:ConceptStringK contextRef="context0">StringK</abc-i:ConceptStringK>
+  <abc-i:ConceptStringL contextRef="context0">StringL</abc-i:ConceptStringL>
+  <abc-i:ConceptDateG contextRef="context0">2017-02-09</abc-i:ConceptDateG>
+  <abc-i:ConceptEnumeration3 contextRef="context0">Ja</abc-i:ConceptEnumeration3>
+  <abc-i:ConceptStringM contextRef="context0">StringM</abc-i:ConceptStringM>
+  <abc-i:ConceptStringN contextRef="context0">StringN</abc-i:ConceptStringN>
+  <abc-i:ConceptBoolean4 contextRef="context71">true</abc-i:ConceptBoolean4>
+  <abc-i:ConceptBoolean4 contextRef="context127">false</abc-i:ConceptBoolean4>
+  <abc-i:ConceptBoolean4 contextRef="context74">false</abc-i:ConceptBoolean4>
+  <abc-i:ConceptBoolean4 contextRef="context129">false</abc-i:ConceptBoolean4>
+  <abc-i:ConceptEnumerationFinancialStatementType contextRef="context0">Geconsolideerd en enkelvoudig</abc-i:ConceptEnumerationFinancialStatementType>
+  <abc-i:ConceptMoneyJCD contextRef="context71" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
+  <abc-i:ConceptMoneyJCD contextRef="context127" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
+  <abc-i:ConceptStringO contextRef="context71">stringO</abc-i:ConceptStringO>
+  <abc-i:ConceptStringP contextRef="context71">stringP</abc-i:ConceptStringP>
+  <abc-i:ConceptMoneyJCD contextRef="context74" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
+  <abc-i:ConceptMoneyJCD contextRef="context129" unitRef="unit7" decimals="INF">23</abc-i:ConceptMoneyJCD>
+  <abc-i:ConceptStringO contextRef="context74">StringO</abc-i:ConceptStringO>
+  <abc-i:ConceptStringP contextRef="context74">StringP</abc-i:ConceptStringP>
+  <abc-i:ConceptValuta contextRef="context0">XBA</abc-i:ConceptValuta>
+  <abc-i:ConceptStringG contextRef="context0">afsdr</abc-i:ConceptStringG>
+  <abc-i:ConceptDecimal1 contextRef="context0" unitRef="unit77" decimals="INF">123.345</abc-i:ConceptDecimal1>
+  <abc-i:ConceptMoneyIDD contextRef="context0" unitRef="unit7" decimals="INF">345</abc-i:ConceptMoneyIDD>
+  <abc-i:ConceptBoolean contextRef="context0">true</abc-i:ConceptBoolean>
+  <abc-i:ConceptDateD contextRef="context0">2017-04-14</abc-i:ConceptDateD>
+  <abc-i:ConceptStringA contextRef="context145">StringA</abc-i:ConceptStringA>
+  <abc-i:ConceptStringB contextRef="context145">StringB</abc-i:ConceptStringB>
+  <abc-t:Tuple>
+    <abc-i:ConceptTuple4 contextRef="context0">Tuple4</abc-i:ConceptTuple4>
+    <abc-i:ConceptTuple1 contextRef="context0">Tuple1</abc-i:ConceptTuple1>
+    <abc-i:ConceptTuple2 contextRef="context0">Tuple2</abc-i:ConceptTuple2>
+    <abc-i:ConceptTuple3 contextRef="context0">Tuple3</abc-i:ConceptTuple3>
+  </abc-t:Tuple>
+</xbrli:xbrl>
