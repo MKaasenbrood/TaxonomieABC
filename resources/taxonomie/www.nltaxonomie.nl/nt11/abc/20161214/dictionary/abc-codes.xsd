@@ -35,6 +35,15 @@
       </xs:restriction>
     </xs:simpleContent>
   </xs:complexType>
+  <xs:complexType id="abc-codes_enumerationFinancialStatementType" name="enumerationFinancialStatementType">
+    <xs:simpleContent>
+      <xs:restriction base="xbrli:stringItemType">
+        <xs:enumeration id="Enkelvoudig" value="Enkelvoudig"/>
+        <xs:enumeration id="GeconsolideerdEnEnkelvoudig" value="Geconsolideerd en enkelvoudig"/>
+        <xs:enumeration id="Geconsolideerd" value="Geconsolideerd"/>
+      </xs:restriction>
+    </xs:simpleContent>
+  </xs:complexType>
   <xs:complexType id="abc-codes_enumerationYesNoItemType" name="enumerationYesNoItemType">
     <xs:simpleContent>
       <xs:restriction base="xbrli:stringItemType">

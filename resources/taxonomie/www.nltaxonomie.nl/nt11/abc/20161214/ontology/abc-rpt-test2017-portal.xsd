@@ -14,6 +14,7 @@
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-generic-value-is-read-only.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-data-generic-valuta-concept.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkrole-breakdown2-for-generic-use-as-assignment.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
+      <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkrole-eato-vaprecondition-concept-for-generic-use-as-assignment.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkrole-movement-for-generic-use-as-assignment.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-linkrole-typed-for-generic-use-as-assignment.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="abc-rpt-test2017-portal-generic-defines.xml" xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="simple"/>

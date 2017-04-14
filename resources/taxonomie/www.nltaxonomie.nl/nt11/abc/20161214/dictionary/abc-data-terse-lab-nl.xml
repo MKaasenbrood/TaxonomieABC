@@ -27,6 +27,7 @@
     <link:label id="abc-i_ConceptMoneyHDI_terseLabel_nl" xlink:label="abc-i_ConceptMoneyHDI_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept Geld HDI, kort</link:label>
     <link:label id="abc-i_ConceptMoneyIDD_terseLabel_nl" xlink:label="abc-i_ConceptMoneyIDD_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept Geld IDD, kort</link:label>
     <link:label id="abc-i_ConceptMoneyIDI_terseLabel_nl" xlink:label="abc-i_ConceptMoneyIDI_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept Geld IDI, kort</link:label>
+    <link:label id="abc-i_ConceptMoneyJCD_terseLabel_nl" xlink:label="abc-i_ConceptMoneyJCD_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept Geld JCD, kort</link:label>
     <link:label id="abc-i_ConceptMoneyJDD_terseLabel_nl" xlink:label="abc-i_ConceptMoneyJDD_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept Geld JDD, kort</link:label>
     <link:label id="abc-i_ConceptStringA_terseLabel_nl" xlink:label="abc-i_ConceptStringA_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept String A verkort</link:label>
     <link:label id="abc-i_ConceptStringB_terseLabel_nl" xlink:label="abc-i_ConceptStringB_terseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="nl">Concept String B verkort</link:label>
@@ -60,6 +61,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyHDI_loc" xlink:to="abc-i_ConceptMoneyHDI_terseLabel_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyIDD_loc" xlink:to="abc-i_ConceptMoneyIDD_terseLabel_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyIDI_loc" xlink:to="abc-i_ConceptMoneyIDI_terseLabel_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyJCD_loc" xlink:to="abc-i_ConceptMoneyJCD_terseLabel_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyJDD_loc" xlink:to="abc-i_ConceptMoneyJDD_terseLabel_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringA_loc" xlink:to="abc-i_ConceptStringA_terseLabel_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringB_loc" xlink:to="abc-i_ConceptStringB_terseLabel_nl" xlink:type="arc"/>
@@ -93,6 +95,7 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyHDI" xlink:label="abc-i_ConceptMoneyHDI_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyIDD" xlink:label="abc-i_ConceptMoneyIDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyIDI" xlink:label="abc-i_ConceptMoneyIDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyJCD" xlink:label="abc-i_ConceptMoneyJCD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyJDD" xlink:label="abc-i_ConceptMoneyJDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringA" xlink:label="abc-i_ConceptStringA_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringB" xlink:label="abc-i_ConceptStringB_loc" xlink:type="locator"/>

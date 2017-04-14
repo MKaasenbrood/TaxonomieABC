@@ -22,6 +22,8 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringL" xlink:label="abc-i_ConceptStringL_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringM" xlink:label="abc-i_ConceptStringM_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringN" xlink:label="abc-i_ConceptStringN_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringO" xlink:label="abc-i_ConceptStringO_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringP" xlink:label="abc-i_ConceptStringP_loc" xlink:type="locator"/>
     <link:reference id="abc-i_R_1_ref" xlink:label="abc-i_R_1_ref" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
       <ref:Name>Referentie</ref:Name>
       <ref:Page>1</ref:Page>
@@ -56,5 +58,7 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="abc-i_ConceptStringL_loc" xlink:to="abc-i_R_2_ref" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="abc-i_ConceptStringM_loc" xlink:to="abc-i_R_3_ref" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="abc-i_ConceptStringN_loc" xlink:to="abc-i_R_3_ref" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="abc-i_ConceptStringO_loc" xlink:to="abc-i_R_3_ref" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="abc-i_ConceptStringP_loc" xlink:to="abc-i_R_3_ref" xlink:type="arc"/>
   </link:referenceLink>
 </link:linkbase>
