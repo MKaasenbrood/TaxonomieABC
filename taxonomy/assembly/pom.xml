@@ -22,7 +22,6 @@
 			<classifier>assembly</classifier>
 			<type>zip</type>
 		</dependency>
-
 		<dependency>
 			<groupId>nl.taxonomie.sbr.bd.11.20161207.taxonomy</groupId>
 			<artifactId>assemblyrelease</artifactId>
@@ -68,12 +67,6 @@
 		</dependency>
 		<dependency>
 			<groupId>nl.taxonomie.taxonomiesbr.2016</groupId>
-			<artifactId>assemblyrelease</artifactId>
-			<classifier>assembly</classifier>
-			<type>zip</type>
-		</dependency>
-		<dependency>
-			<groupId>nl.taxonomie.taxonomiesbr.2017</groupId>
 			<artifactId>assemblyrelease</artifactId>
 			<classifier>assembly</classifier>
 			<type>zip</type>

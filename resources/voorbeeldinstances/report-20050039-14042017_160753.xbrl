@@ -490,7 +490,7 @@
   <abc-i:ConceptBoolean4 contextRef="context127">false</abc-i:ConceptBoolean4>
   <abc-i:ConceptBoolean4 contextRef="context74">false</abc-i:ConceptBoolean4>
   <abc-i:ConceptBoolean4 contextRef="context129">false</abc-i:ConceptBoolean4>
-  <abc-i:ConceptEnumerationFinancialStatementType contextRef="context0">Geconsolideerd en enkelvoudig</abc-i:ConceptEnumerationFinancialStatementType>
+  <abc-i:ConceptEnumerationFinancialStatementType contextRef="context0">Geconsolideerd</abc-i:ConceptEnumerationFinancialStatementType>
   <abc-i:ConceptMoneyJCD contextRef="context71" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
   <abc-i:ConceptMoneyJCD contextRef="context127" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
   <abc-i:ConceptStringO contextRef="context71">stringO</abc-i:ConceptStringO>
