@@ -3,7 +3,6 @@
 	<name>ABC</name>
 	<comment></comment>
 	<projects>
-		<project>2017</project>
 		<project>PortalOntologyDefinition</project>
 	</projects>
 	<buildSpec>
