@@ -6,10 +6,10 @@
   Version: 20161214
   Release date: Wed Dec 14 09:00:00 2016
 -->
-<xs:schema xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:kvk-arc="http://www.nltaxonomie.nl/nt11/kvk/20161214/dictionary/kvk-arcroles" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/kvk/20161214/dictionary/kvk-arcroles">
+<xs:schema xmlns:gen="http://xbrl.org/2008/generic" xmlns:kvk-arc="http://www.nltaxonomie.nl/nt11/kvk/20170419/dictionary/kvk-arcroles" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.nltaxonomie.nl/nt11/kvk/20170419/dictionary/kvk-arcroles">
   <xs:annotation>
     <xs:appinfo>
-      <link:arcroleType arcroleURI="http://www.nltaxonomie.nl/nt11/kvk/20161214/dictionary/arcrole/DynamicLabel" cyclesAllowed="undirected" id="kvk-arc_DynamicLabel">
+      <link:arcroleType arcroleURI="http://www.nltaxonomie.nl/nt11/kvk/20170419/dictionary/arcrole/DynamicLabel" cyclesAllowed="undirected" id="kvk-arc_DynamicLabel">
         <link:definition>Arcrole voor het koppelen van een message aan een node.</link:definition>
         <link:usedOn>gen:arc</link:usedOn>
       </link:arcroleType>
