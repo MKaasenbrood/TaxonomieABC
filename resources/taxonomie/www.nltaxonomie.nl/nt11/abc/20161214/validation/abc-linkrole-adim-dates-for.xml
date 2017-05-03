@@ -7,13 +7,11 @@
   Release date: Wed Dec 14 09:00:00 2016
 -->
 <link:linkbase xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:cf="http://xbrl.org/2008/filter/concept" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:va="http://xbrl.org/2008/assertion/value" xmlns:variable="http://xbrl.org/2008/variable" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data ../dictionary/abc-data.xsd http://xbrl.org/2008/filter/concept http://www.xbrl.org/2008/concept-filter.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/assertion/value http://www.xbrl.org/2008/value-assertion.xsd http://xbrl.org/2008/variable http://www.xbrl.org/2008/variable.xsd">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-dates" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
   <gen:link xlink:role="urn:abc:linkrole:linkrole-adim-dates" xlink:type="extended">
-    <va:valueAssertion aspectModel="dimensional" id="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" implicitFiltering="true" test="$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA lt $varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:label="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:type="resource"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:to="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:type="arc"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:to="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="arc"/>
-    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
-    <variable:variableArc name="varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:to="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:type="arc"/>
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:to="WARNING_loc" xlink:type="arc"/>
     <cf:conceptName id="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:label="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptDateA</cf:qname>
@@ -24,12 +22,14 @@
         <cf:qname>abc-i:ConceptDateB</cf:qname>
       </cf:concept>
     </cf:conceptName>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
+    <va:valueAssertion aspectModel="dimensional" id="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" implicitFiltering="true" test="$varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA lt $varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:label="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" matches="false" nils="false" xlink:label="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="resource"/>
     <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" matches="false" nils="false" xlink:label="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:type="resource"/>
     <variable:variableArc name="varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" order="5" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:to="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="arc"/>
-    <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" matches="false" nils="false" xlink:label="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="resource"/>
+    <variable:variableArc name="varArc_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleAdimDates_MsgAdimDateEarlierDateLater1" xlink:to="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:to="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateA" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:to="LinkroleAdimDates_MsgAdimDateEarlierDateLater1_ConceptDateB" xlink:type="arc"/>
   </gen:link>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
-  <link:roleRef roleURI="urn:abc:linkrole:linkrole-adim-dates" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleAdimDates" xlink:type="simple"/>
 </link:linkbase>

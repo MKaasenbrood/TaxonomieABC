@@ -2888,3 +2888,43 @@
 {"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVASep2PageTitle_label_nl",}
 {"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepTitle_1","to":"abc-abstr_AbstractEAtoVASep2PageTitle",}
 {"type":"name-mapping","from":"AbstractEAtoVASepTitle_1","to":"AbstractEAtoVASep2PageTitle",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyJCD_1_terseLabel_nl","to":"abc-i_ConceptMoneyJCD2Page_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyJCD_1_label_nl","to":"abc-i_ConceptMoneyJCD2Page_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyJCD_1_documentation_nl","to":"abc-i_ConceptMoneyJCD2Page_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptMoneyJCD_1","to":"abc-i_ConceptMoneyJCD2Page",}
+{"type":"name-mapping","from":"ConceptMoneyJCD_1","to":"ConceptMoneyJCD2Page",}
+{"type":"text-mapping","from":"Concept Geld JCD","to":"Concept Geld JCD 2 Page",}
+{"type":"id-changed","from":"abc-i_ConceptStringO_1_documentation_nl","to":"abc-i_ConceptStringO2Page_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringO_1_label_nl","to":"abc-i_ConceptStringO2Page_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringO_1","to":"abc-i_ConceptStringO2Page",}
+{"type":"name-mapping","from":"ConceptStringO_1","to":"ConceptStringO2Page",}
+{"type":"id-changed","from":"abc-i_ConceptStringP_1_documentation_nl","to":"abc-i_ConceptStringP2Page_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringP_1_label_nl","to":"abc-i_ConceptStringP2Page_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringP_1","to":"abc-i_ConceptStringP2Page",}
+{"type":"name-mapping","from":"ConceptStringP_1","to":"ConceptStringP2Page",}
+{"type":"text-mapping","from":"Concept String O","to":"Concept String O 2 Page",}
+{"type":"text-mapping","from":"Concept String P","to":"Concept String P 2 Page",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationFinancialStatementType_1_label_en","to":"abc-i_ConceptEnumerationFinancialStatementType2Page_label_en",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationFinancialStatementType_1_documentation_nl","to":"abc-i_ConceptEnumerationFinancialStatementType2Page_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationFinancialStatementType_1_label_nl","to":"abc-i_ConceptEnumerationFinancialStatementType2Page_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumerationFinancialStatementType_1","to":"abc-i_ConceptEnumerationFinancialStatementType2Page",}
+{"type":"name-mapping","from":"ConceptEnumerationFinancialStatementType_1","to":"ConceptEnumerationFinancialStatementType2Page",}
+{"type":"text-mapping","from":"Concept Enumeration Financial Statement Type","to":"Concept Enumeration Financial Statement Type 2 Page",}
+{"type":"text-mapping","from":"Concept Enumeration Financial Statement Type","to":"Concept Enumeration Financial Statement Type 2 Page",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptStringO2Page (huidig) of ConceptStringP2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
+{"type":"text-mapping","from":"Concept Enumeration Financial Statement Type moet exact één keer voorkomen.","to":"Concept Enumeration Financial Statement Type 2 Page moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met SeparateMember.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptStringO2Page (huidig) of ConceptStringP2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
+{"type":"text-mapping","from":"Concept Enumeration Financial Statement Type moet exact één keer voorkomen.","to":"Concept Enumeration Financial Statement Type 2 Page moet exact één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met SeparateMember.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptStringO2Page (huidig) of ConceptStringP2Page (huidig) minimaal één keer voorkomen met SeparateMember.",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAPrecond2PageTitle_1_label_nl","to":"abc-abstr_PHEAtoVAPrecond2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAPrecond2PageTitle_1","to":"abc-abstr_PHEAtoVAPrecond2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVAPrecond2PageTitle_1","to":"PHEAtoVAPrecond2PageTitle",}
+{"type":"id-changed","from":"abc-abstr_PHEAtoVATitle_1_label_nl","to":"abc-abstr_PHEAtoVA2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_PHEAtoVATitle_1","to":"abc-abstr_PHEAtoVA2PageTitle",}
+{"type":"name-mapping","from":"PHEAtoVATitle_1","to":"PHEAtoVA2PageTitle",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd en enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember en minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd en enkelvoudig dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember en minimaal één keer voorkomen met SeparateMember.",}

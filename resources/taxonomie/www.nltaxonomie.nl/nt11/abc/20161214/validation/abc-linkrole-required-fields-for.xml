@@ -7,61 +7,61 @@
   Release date: Wed Dec 14 09:00:00 2016
 -->
 <link:linkbase xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:cf="http://xbrl.org/2008/filter/concept" xmlns:ea="http://xbrl.org/2008/assertion/existence" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:variable="http://xbrl.org/2008/variable" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data ../dictionary/abc-data.xsd http://xbrl.org/2008/filter/concept http://www.xbrl.org/2008/concept-filter.xsd http://xbrl.org/2008/assertion/existence http://www.xbrl.org/2008/existence-assertion.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/variable http://www.xbrl.org/2008/variable.xsd">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-required-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
   <gen:link xlink:role="urn:abc:linkrole:linkrole-required-fields" xlink:type="extended">
-    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:type="resource"/>
-    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="arc"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:to="ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="arc"/>
     <cf:conceptName id="ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:label="ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptValuta</cf:qname>
       </cf:concept>
     </cf:conceptName>
-    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
-    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="resource"/>
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:to="WARNING_loc" xlink:type="arc"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:to="ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="arc"/>
     <cf:conceptName id="ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:label="ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptStringG</cf:qname>
       </cf:concept>
     </cf:conceptName>
-    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="resource"/>
-    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="arc"/>
-    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:type="resource"/>
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:to="WARNING_loc" xlink:type="arc"/>
     <cf:conceptName id="ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:label="ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptMoneyIDD</cf:qname>
       </cf:concept>
     </cf:conceptName>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:to="ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="arc"/>
-    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="resource"/>
-    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:type="resource"/>
-    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="arc"/>
-    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:type="resource"/>
-    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="arc"/>
     <cf:conceptName id="ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:label="ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptBoolean</cf:qname>
       </cf:concept>
     </cf:conceptName>
-    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="resource"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:to="ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="arc"/>
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:to="WARNING_loc" xlink:type="arc"/>
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:to="WARNING_loc" xlink:type="arc"/>
-    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="resource"/>
-    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:type="resource"/>
-    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="arc"/>
-    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:to="ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="arc"/>
     <cf:conceptName id="ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:label="ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="resource">
       <cf:concept>
         <cf:qname>abc-i:ConceptDateD</cf:qname>
       </cf:concept>
     </cf:conceptName>
+    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:type="resource"/>
+    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:type="resource"/>
+    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:type="resource"/>
+    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:type="resource"/>
+    <ea:existenceAssertion aspectModel="dimensional" id="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" implicitFiltering="true" test=".eq 1" xlink:label="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:type="resource"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:to="WARNING_loc" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
+    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" fallbackValue="0" id="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" matches="false" nils="false" xlink:label="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="resource"/>
+    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce1" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="arc"/>
+    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce2" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="arc"/>
+    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce3" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="arc"/>
+    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce4" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="arc"/>
+    <variable:variableArc name="varArc_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="ExistenceAssertion_ARequiredFields_MsgAdimensionalExistOnce5" xlink:to="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:to="ARequiredFields_MsgAdimensionalExistOnce1_ConceptValuta" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:to="ARequiredFields_MsgAdimensionalExistOnce2_ConceptStringG" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:to="ARequiredFields_MsgAdimensionalExistOnce3_ConceptMoneyIDD" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:to="ARequiredFields_MsgAdimensionalExistOnce4_ConceptBoolean" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:to="ARequiredFields_MsgAdimensionalExistOnce5_ConceptDateD" xlink:type="arc"/>
   </gen:link>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
-  <link:roleRef roleURI="urn:abc:linkrole:linkrole-required-fields" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:type="simple"/>
 </link:linkbase>
