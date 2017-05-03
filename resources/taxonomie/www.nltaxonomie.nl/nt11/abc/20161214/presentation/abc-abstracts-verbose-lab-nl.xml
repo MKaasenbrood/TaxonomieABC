@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+    <link:label id="abc-abstr_PHEAtoVA2PageTitle_verboseLabel_nl" xlink:label="abc-abstr_PHEAtoVA2PageTitle_verboseLabel_nl" xlink:role="http://www.xbrl.org/2003/role/verboseLabel" xlink:type="resource" xml:lang="nl">ConceptEnumerationFinancialStatementType2Page bevindt zich op de voorgaande pagina.</link:label>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-abstr_PHEAtoVA2PageTitle_loc" xlink:to="abc-abstr_PHEAtoVA2PageTitle_verboseLabel_nl" xlink:type="arc"/>
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_PHEAtoVA2PageTitle" xlink:label="abc-abstr_PHEAtoVA2PageTitle_loc" xlink:type="locator"/>
+  </link:labelLink>
+</link:linkbase>

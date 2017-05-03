@@ -10,8 +10,8 @@
   <link:roleRef roleURI="urn:abc:linkrole:linkrole-eato-vaprecondition-concept2page" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleEAtoVAPreconditionConcept2Page" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
   <link:definitionLink xlink:role="urn:abc:linkrole:linkrole-eato-vaprecondition-concept2page" xlink:type="extended">
-    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptEnumerationFinancialStatementType_loc" xlink:type="arc"/>
-    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationFinancialStatementType" xlink:label="abc-i_ConceptEnumerationFinancialStatementType_loc" xlink:type="locator"/>
+    <link:definitionArc xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="sbr-dim_ValidationLineItems_loc" xlink:to="abc-i_ConceptEnumerationFinancialStatementType2Page_loc" xlink:type="arc"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationFinancialStatementType2Page" xlink:label="abc-i_ConceptEnumerationFinancialStatementType2Page_loc" xlink:type="locator"/>
     <link:loc xlink:href="http://www.nltaxonomie.nl/2013/xbrl/sbr-dimensional-concepts.xsd#sbr-dim_ValidationLineItems" xlink:label="sbr-dim_ValidationLineItems_loc" xlink:type="locator"/>
   </link:definitionLink>
 </link:linkbase>
