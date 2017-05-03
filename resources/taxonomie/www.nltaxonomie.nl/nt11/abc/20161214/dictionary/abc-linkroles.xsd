@@ -90,13 +90,13 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVACons" roleURI="urn:abc:linkrole:linkrole-eato-vacons">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVAConsString" roleURI="urn:abc:linkrole:linkrole-eato-vacons-string">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptStringO of ConceptStringP minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -108,13 +108,13 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVASep" roleURI="urn:abc:linkrole:linkrole-eato-vasep">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD minimaal één keer voorkomen met SeparateMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVASepString" roleURI="urn:abc:linkrole:linkrole-eato-vasep-string">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptStringO of ConceptStringP minimaal één keer voorkomen met SeparateMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
