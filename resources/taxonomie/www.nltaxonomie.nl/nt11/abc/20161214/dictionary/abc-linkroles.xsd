@@ -90,7 +90,7 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVACons2Page" roleURI="urn:abc:linkrole:linkrole-eato-vacons2page">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -102,7 +102,7 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVAConsString2Page" roleURI="urn:abc:linkrole:linkrole-eato-vacons-string2page">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Geconsolideerd dan moet ConceptStringO2Page (huidig) of ConceptStringP2Page (huidig) minimaal één keer voorkomen met ConsolidatedMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -114,7 +114,7 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVAPreconditionConcept2Page" roleURI="urn:abc:linkrole:linkrole-eato-vaprecondition-concept2page">
-        <link:definition>Concept Enumeration Financial Statement Type moet exact één keer voorkomen.</link:definition>
+        <link:definition>Concept Enumeration Financial Statement Type 2 Page moet exact één keer voorkomen.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -126,7 +126,7 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVASep2Page" roleURI="urn:abc:linkrole:linkrole-eato-vasep2page">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD2Page (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
@@ -138,7 +138,7 @@
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
       <link:roleType id="abc-lr_LinkroleEAtoVASepString2Page" roleURI="urn:abc:linkrole:linkrole-eato-vasep-string2page">
-        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptStringO (huidig) of ConceptStringP (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
+        <link:definition>Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType2Page gelijk is aan Enkelvoudig dan moet ConceptStringO2Page (huidig) of ConceptStringP2Page (huidig) minimaal één keer voorkomen met SeparateMember.</link:definition>
         <link:usedOn>gen:link</link:usedOn>
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>

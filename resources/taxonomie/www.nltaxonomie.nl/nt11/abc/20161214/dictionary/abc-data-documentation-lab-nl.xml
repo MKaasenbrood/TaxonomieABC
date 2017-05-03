@@ -32,6 +32,7 @@
     <link:label id="abc-i_ConceptEnumeration1234_documentation_nl" xlink:label="abc-i_ConceptEnumeration1234_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumerationABCDItemType_documentation_nl" xlink:label="abc-i_ConceptEnumerationABCDItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:label="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptEnumerationFinancialStatementType2Page_documentation_nl" xlink:label="abc-i_ConceptEnumerationFinancialStatementType2Page_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumerationFinancialStatementType_documentation_nl" xlink:label="abc-i_ConceptEnumerationFinancialStatementType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumerationYesNoItemType_documentation_nl" xlink:label="abc-i_ConceptEnumerationYesNoItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptEnumeration_documentation_nl" xlink:label="abc-i_ConceptEnumeration_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
@@ -66,6 +67,7 @@
     <link:label id="abc-i_ConceptMoneyHDI_documentation_nl" xlink:label="abc-i_ConceptMoneyHDI_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyIDD_documentation_nl" xlink:label="abc-i_ConceptMoneyIDD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyIDI_documentation_nl" xlink:label="abc-i_ConceptMoneyIDI_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptMoneyJCD2Page_documentation_nl" xlink:label="abc-i_ConceptMoneyJCD2Page_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyJCD_documentation_nl" xlink:label="abc-i_ConceptMoneyJCD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptMoneyJDD_documentation_nl" xlink:label="abc-i_ConceptMoneyJDD_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptNLzipItemType_documentation_nl" xlink:label="abc-i_ConceptNLzipItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
@@ -83,7 +85,9 @@
     <link:label id="abc-i_ConceptStringMaxLength20ItemType_documentation_nl" xlink:label="abc-i_ConceptStringMaxLength20ItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringMinExclusive20ItemType_documentation_nl" xlink:label="abc-i_ConceptStringMinExclusive20ItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringN_documentation_nl" xlink:label="abc-i_ConceptStringN_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptStringO2Page_documentation_nl" xlink:label="abc-i_ConceptStringO2Page_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringO_documentation_nl" xlink:label="abc-i_ConceptStringO_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
+    <link:label id="abc-i_ConceptStringP2Page_documentation_nl" xlink:label="abc-i_ConceptStringP2Page_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringP_documentation_nl" xlink:label="abc-i_ConceptStringP_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringWhitespaceCollapseItemType_documentation_nl" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
     <link:label id="abc-i_ConceptStringWhitespacePreserveItemType_documentation_nl" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_documentation_nl" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="nl">Documentation</link:label>
@@ -119,6 +123,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumeration1234_loc" xlink:to="abc-i_ConceptEnumeration1234_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationABCDItemType_loc" xlink:to="abc-i_ConceptEnumerationABCDItemType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="abc-i_ConceptEnumerationABCD_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationFinancialStatementType2Page_loc" xlink:to="abc-i_ConceptEnumerationFinancialStatementType2Page_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationFinancialStatementType_loc" xlink:to="abc-i_ConceptEnumerationFinancialStatementType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:to="abc-i_ConceptEnumerationYesNoItemType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptEnumeration_loc" xlink:to="abc-i_ConceptEnumeration_documentation_nl" xlink:type="arc"/>
@@ -153,6 +158,7 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyHDI_loc" xlink:to="abc-i_ConceptMoneyHDI_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyIDD_loc" xlink:to="abc-i_ConceptMoneyIDD_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyIDI_loc" xlink:to="abc-i_ConceptMoneyIDI_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyJCD2Page_loc" xlink:to="abc-i_ConceptMoneyJCD2Page_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyJCD_loc" xlink:to="abc-i_ConceptMoneyJCD_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptMoneyJDD_loc" xlink:to="abc-i_ConceptMoneyJDD_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptNLzipItemType_loc" xlink:to="abc-i_ConceptNLzipItemType_documentation_nl" xlink:type="arc"/>
@@ -170,7 +176,9 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:to="abc-i_ConceptStringMaxLength20ItemType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringMinExclusive20ItemType_loc" xlink:to="abc-i_ConceptStringMinExclusive20ItemType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringN_loc" xlink:to="abc-i_ConceptStringN_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringO2Page_loc" xlink:to="abc-i_ConceptStringO2Page_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringO_loc" xlink:to="abc-i_ConceptStringO_documentation_nl" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringP2Page_loc" xlink:to="abc-i_ConceptStringP2Page_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringP_loc" xlink:to="abc-i_ConceptStringP_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:to="abc-i_ConceptStringWhitespaceCollapseItemType_documentation_nl" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:to="abc-i_ConceptStringWhitespacePreserveItemType_documentation_nl" xlink:type="arc"/>
@@ -206,6 +214,7 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumeration1234" xlink:label="abc-i_ConceptEnumeration1234_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationABCDItemType" xlink:label="abc-i_ConceptEnumerationABCDItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationFinancialStatementType2Page" xlink:label="abc-i_ConceptEnumerationFinancialStatementType2Page_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationFinancialStatementType" xlink:label="abc-i_ConceptEnumerationFinancialStatementType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumerationYesNoItemType" xlink:label="abc-i_ConceptEnumerationYesNoItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptEnumeration" xlink:label="abc-i_ConceptEnumeration_loc" xlink:type="locator"/>
@@ -240,6 +249,7 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyHDI" xlink:label="abc-i_ConceptMoneyHDI_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyIDD" xlink:label="abc-i_ConceptMoneyIDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyIDI" xlink:label="abc-i_ConceptMoneyIDI_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyJCD2Page" xlink:label="abc-i_ConceptMoneyJCD2Page_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyJCD" xlink:label="abc-i_ConceptMoneyJCD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptMoneyJDD" xlink:label="abc-i_ConceptMoneyJDD_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptNLzipItemType" xlink:label="abc-i_ConceptNLzipItemType_loc" xlink:type="locator"/>
@@ -257,7 +267,9 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringMaxLength20ItemType" xlink:label="abc-i_ConceptStringMaxLength20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringMinExclusive20ItemType" xlink:label="abc-i_ConceptStringMinExclusive20ItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringN" xlink:label="abc-i_ConceptStringN_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringO2Page" xlink:label="abc-i_ConceptStringO2Page_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringO" xlink:label="abc-i_ConceptStringO_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringP2Page" xlink:label="abc-i_ConceptStringP2Page_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringP" xlink:label="abc-i_ConceptStringP_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespaceCollapseItemType" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespacePreserveItemType" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:type="locator"/>
