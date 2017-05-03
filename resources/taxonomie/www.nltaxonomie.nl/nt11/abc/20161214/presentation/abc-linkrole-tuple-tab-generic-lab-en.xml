@@ -11,8 +11,8 @@
   <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
-    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="kvk-table_TabelEenKolomAdimensioneelTuple_loc" xlink:to="kvk-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:type="arc"/>
-    <label:label id="kvk-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:label="kvk-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Tuple</label:label>
-    <link:loc xlink:href="abc-linkrole-tuple-tab.xml#kvk-table_TabelEenKolomAdimensioneelTuple" xlink:label="kvk-table_TabelEenKolomAdimensioneelTuple_loc" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-table_TabelEenKolomAdimensioneelTuple_loc" xlink:to="abc-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:type="arc"/>
+    <label:label id="abc-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:label="abc-table_TabelEenKolomAdimensioneelTuple_label_en" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">Tuple</label:label>
+    <link:loc xlink:href="abc-linkrole-tuple-tab.xml#abc-table_TabelEenKolomAdimensioneelTuple" xlink:label="abc-table_TabelEenKolomAdimensioneelTuple_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>
