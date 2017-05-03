@@ -2864,3 +2864,27 @@
 {"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
 {"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD minimaal één keer voorkomen met ConsolidatedMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Geconsolideerd dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met ConsolidatedMember.",}
 {"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD minimaal één keer voorkomen met SeparateMember.","to":"Wanneer de gerapporteerde waarde van ConceptEnumerationFinancialStatementType gelijk is aan Enkelvoudig dan moet ConceptMoneyJCD (huidig) minimaal één keer voorkomen met SeparateMember.",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVAPreconditionConcept_1_label_nl","to":"abc-lr_LinkroleEAtoVAPreconditionConcept2_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVACons_1_label_nl","to":"abc-lr_LinkroleEAtoVACons2_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVASep_1_label_nl","to":"abc-lr_LinkroleEAtoVASep2_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVASepString_1_label_nl","to":"abc-lr_LinkroleEAtoVASepString2_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVAConsString_1_label_nl","to":"abc-lr_LinkroleEAtoVAConsString2Page_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVAPreconditionConcept2_label_nl","to":"abc-lr_LinkroleEAtoVAPreconditionConcept2Page_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVASep2_label_nl","to":"abc-lr_LinkroleEAtoVASep2Page_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVASepString2_label_nl","to":"abc-lr_LinkroleEAtoVASepString2Page_label_nl",}
+{"type":"id-changed","from":"abc-lr_LinkroleEAtoVACons2_label_nl","to":"abc-lr_LinkroleEAtoVACons2Page_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAConsStringTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVAConsString2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAConsStringTitle_1","to":"abc-abstr_AbstractEAtoVAConsString2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVAConsStringTitle_1","to":"AbstractEAtoVAConsString2PageTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAConsTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVACons2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAConsTitle_1","to":"abc-abstr_AbstractEAtoVACons2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVAConsTitle_1","to":"AbstractEAtoVACons2PageTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAPrecondTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVAPrecond2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVAPrecondTitle_1","to":"abc-abstr_AbstractEAtoVAPrecond2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVAPrecondTitle_1","to":"AbstractEAtoVAPrecond2PageTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepStringTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVASepString2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepStringTitle_1","to":"abc-abstr_AbstractEAtoVASepString2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVASepStringTitle_1","to":"AbstractEAtoVASepString2PageTitle",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepTitle_1_label_nl","to":"abc-abstr_AbstractEAtoVASep2PageTitle_label_nl",}
+{"type":"id-changed","from":"abc-abstr_AbstractEAtoVASepTitle_1","to":"abc-abstr_AbstractEAtoVASep2PageTitle",}
+{"type":"name-mapping","from":"AbstractEAtoVASepTitle_1","to":"AbstractEAtoVASep2PageTitle",}
