@@ -21,8 +21,8 @@
     <table:breakdownTreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/breakdown-tree" xlink:from="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-x" xlink:to="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-x.1" xlink:type="arc"/>
     <table:breakdownTreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/breakdown-tree" xlink:from="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-y" xlink:to="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-y.1" xlink:type="arc"/>
     <table:conceptRelationshipNode id="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-y.1" parentChildOrder="children-first" xlink:label="abc-table_TabelEenKolomTypeJaarrekeningLinkroleEAtoVASepString-y.1" xlink:type="resource">
-      <table:relationshipSource>abc-abstr:AbstractEAtoVASepString2PageTitle</table:relationshipSource>
-      <table:linkrole>urn:abc:linkrole:linkrole-eato-vasep-string2page</table:linkrole>
+      <table:relationshipSource>abc-abstr:AbstractEAtoVASepStringTitle</table:relationshipSource>
+      <table:linkrole>urn:abc:linkrole:linkrole-eato-vasep-string</table:linkrole>
       <table:arcrole>http://www.xbrl.org/2003/arcrole/parent-child</table:arcrole>
       <table:formulaAxis>descendant</table:formulaAxis>
     </table:conceptRelationshipNode>
