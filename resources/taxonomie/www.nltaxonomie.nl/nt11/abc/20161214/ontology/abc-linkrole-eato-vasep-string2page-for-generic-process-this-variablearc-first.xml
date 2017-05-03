@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:ebpi="http://www.ebpi.nl/2015/meta-ontology" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://www.ebpi.nl/2015/meta-ontology http://www.ebpi.nl/2015/meta-ontology.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="urn:ebpi:husky:process-this-variablearc-first" xlink:href="http://www.nltaxonomie.nl/ebpi/xbrl/arcrole/custom-arcroles.xsd#ebpi-ca_process-this-variablearc-first" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <ebpi:genericValue id="varArc_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_ConceptEnumerationFinancialStatementType2Page" xlink:label="varArc_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_ConceptEnumerationFinancialStatementType2Page" xlink:type="resource">varArc_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_ConceptEnumerationFinancialStatementType2Page</ebpi:genericValue>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:process-this-variablearc-first" xlink:from="valueAssertion_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_loc" xlink:to="varArc_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_ConceptEnumerationFinancialStatementType2Page" xlink:type="arc"/>
+    <link:loc xlink:href="../validation/abc-linkrole-eato-vasep-string2page-for.xml#valueAssertion_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1" xlink:label="valueAssertion_LinkroleEAtoVASepString2Page_MsgAdimPrecondValueConcept1of2SeparateExistenceConceptsUnitDimensions1_loc" xlink:type="locator"/>
+  </gen:link>
+</link:linkbase>
