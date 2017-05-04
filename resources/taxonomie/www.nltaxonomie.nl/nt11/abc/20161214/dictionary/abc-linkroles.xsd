@@ -221,6 +221,12 @@
         <link:usedOn>link:definitionLink</link:usedOn>
         <link:usedOn>link:presentationLink</link:usedOn>
       </link:roleType>
+      <link:roleType id="abc-lr_LinkroleString3Error" roleURI="urn:abc:linkrole:linkrole-string3error">
+        <link:definition>Als ConceptEnumeration3Error = Ja dan moet ConceptStringMError wel bestaan. Als ConceptEnumerationError = Ja dan moet ConceptStringNError niet bestaan. Default ConceptEnumeration3Error = Ja.</link:definition>
+        <link:usedOn>gen:link</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
       <link:roleType id="abc-lr_LinkroleString" roleURI="urn:abc:linkrole:linkrole-string">
         <link:definition>Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</link:definition>
         <link:usedOn>gen:link</link:usedOn>

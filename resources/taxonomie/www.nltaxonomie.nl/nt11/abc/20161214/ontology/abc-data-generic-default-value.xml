@@ -25,6 +25,7 @@
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptBoolean3_loc" xlink:to="true" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptDateE_loc" xlink:to="a2017_03_22" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptDateF_loc" xlink:to="a2017_04_11" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumeration3Error_loc" xlink:to="Ja" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumeration3_loc" xlink:to="Ja" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumeration1234_loc" xlink:to="Twee" xlink:type="arc"/>
     <gen:arc xlink:arcrole="urn:ebpi:husky:default-value" xlink:from="abc-i_ConceptEnumerationABCD_loc" xlink:to="A2" xlink:type="arc"/>
@@ -38,6 +39,7 @@
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptBoolean3" xlink:label="abc-i_ConceptBoolean3_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateE" xlink:label="abc-i_ConceptDateE_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptDateF" xlink:label="abc-i_ConceptDateF_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumeration3Error" xlink:label="abc-i_ConceptEnumeration3Error_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumeration3" xlink:label="abc-i_ConceptEnumeration3_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumeration1234" xlink:label="abc-i_ConceptEnumeration1234_loc" xlink:type="locator"/>
     <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_ConceptEnumerationABCD" xlink:label="abc-i_ConceptEnumerationABCD_loc" xlink:type="locator"/>

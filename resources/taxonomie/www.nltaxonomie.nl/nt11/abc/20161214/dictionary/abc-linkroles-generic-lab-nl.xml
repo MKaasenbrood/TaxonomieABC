@@ -47,6 +47,7 @@
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleRequiredFields_loc" xlink:to="abc-lr_LinkroleRequiredFields_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2Error_loc" xlink:to="abc-lr_LinkroleString2Error_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString2_loc" xlink:to="abc-lr_LinkroleString2_label_nl" xlink:type="arc"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString3Error_loc" xlink:to="abc-lr_LinkroleString3Error_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString3_loc" xlink:to="abc-lr_LinkroleString3_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleString_loc" xlink:to="abc-lr_LinkroleString_label_nl" xlink:type="arc"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="abc-lr_LinkroleTuple_loc" xlink:to="abc-lr_LinkroleTuple_label_nl" xlink:type="arc"/>
@@ -55,6 +56,7 @@
     <label:label id="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:label="abc-lr_LinkroleAdimStringTyped_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Alleen typed dimensie met string geen losse formulas van toepassing</label:label>
     <label:label id="abc-lr_LinkroleString2Error_label_nl" xlink:label="abc-lr_LinkroleString2Error_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als Concept String K ingevuld is dan moet Concept String L ook bestaan. [ERROR]</label:label>
     <label:label id="abc-lr_LinkroleString3_label_nl" xlink:label="abc-lr_LinkroleString3_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptEnumeration3 = Ja dan moet ConceptStringM wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringN niet bestaan. Default ConceptEnumeration3 = Ja.</label:label>
+    <label:label id="abc-lr_LinkroleString3Error_label_nl" xlink:label="abc-lr_LinkroleString3Error_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptEnumeration3Error = Ja dan moet ConceptStringMError wel bestaan. Als ConceptEnumerationError = Ja dan moet ConceptStringNError niet bestaan. Default ConceptEnumeration3Error = Ja.</label:label>
     <label:label id="abc-lr_LinkroleString_label_nl" xlink:label="abc-lr_LinkroleString_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptEnumeration = Ja dan moet ConceptStringC wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringD niet bestaan.</label:label>
     <label:label id="abc-lr_LinkroleString2_label_nl" xlink:label="abc-lr_LinkroleString2_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Als ConceptStringE ingevuld is dan moet ConceptStringF ook bestaan.</label:label>
     <label:label id="abc-lr_LinkroleMovement_label_nl" xlink:label="abc-lr_LinkroleMovement_label_nl" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">Bevat drie optellingen. Over de members (alleen hoogste niveau), parentChild en StartMutatieEnd</label:label>
@@ -127,6 +129,7 @@
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleRequiredFields" xlink:label="abc-lr_LinkroleRequiredFields_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2Error" xlink:label="abc-lr_LinkroleString2Error_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString2" xlink:label="abc-lr_LinkroleString2_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString3Error" xlink:label="abc-lr_LinkroleString3Error_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString3" xlink:label="abc-lr_LinkroleString3_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleString" xlink:label="abc-lr_LinkroleString_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-linkroles.xsd#abc-lr_LinkroleTuple" xlink:label="abc-lr_LinkroleTuple_loc" xlink:type="locator"/>

@@ -3777,3 +3777,84 @@
 {"type":"id-changed","from":"abc-table_TabelTweeKolomTypeJaarrekening_label_nl","to":"abc-table_LinkroleOverviewBreakdown1_label_nl",}
 {"type":"text-mapping","from":"TabelLabelEN","to":"LinkroleOverviewBreakdown1",}
 {"type":"text-mapping","from":"TabelLabelNL","to":"LinkroleOverviewBreakdown1",}
+{"type":"id-changed","from":"abc-lr_LinkroleString3_1_label_nl","to":"abc-lr_LinkroleString3Error_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration3_1","to":"abc-i_ConceptEnumeration3Error",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration3_1_documentation_nl","to":"abc-i_ConceptEnumeration3Error_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptEnumeration3_1_label_nl","to":"abc-i_ConceptEnumeration3Error_label_nl",}
+{"type":"name-mapping","from":"ConceptEnumeration3_1","to":"ConceptEnumeration3Error",}
+{"type":"text-mapping","from":"Concept Enumeration 3","to":"Concept Enumeration 3 error",}
+{"type":"id-changed","from":"abc-i_ConceptStringM_1","to":"abc-i_ConceptStringMError",}
+{"type":"id-changed","from":"abc-i_ConceptStringM_1_label_nl","to":"abc-i_ConceptStringMError_label_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringM_1_terseLabel_nl","to":"abc-i_ConceptStringMError_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringM_1_documentation_nl","to":"abc-i_ConceptStringMError_documentation_nl",}
+{"type":"name-mapping","from":"ConceptStringM_1","to":"ConceptStringMError",}
+{"type":"text-mapping","from":"Concept String M","to":"Concept String M Error",}
+{"type":"id-changed","from":"abc-i_ConceptStringN_1","to":"abc-i_ConceptStringNError",}
+{"type":"id-changed","from":"abc-i_ConceptStringN_1_documentation_nl","to":"abc-i_ConceptStringNError_documentation_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringN_1_terseLabel_nl","to":"abc-i_ConceptStringNError_terseLabel_nl",}
+{"type":"id-changed","from":"abc-i_ConceptStringN_1_label_nl","to":"abc-i_ConceptStringNError_label_nl",}
+{"type":"name-mapping","from":"ConceptStringN_1","to":"ConceptStringNError",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString3_1","to":"abc-abstr_AbstractRootString3Error",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString3_1_label_en","to":"abc-abstr_AbstractRootString3Error_label_en",}
+{"type":"id-changed","from":"abc-abstr_AbstractRootString3_1_label_nl","to":"abc-abstr_AbstractRootString3Error_label_nl",}
+{"type":"name-mapping","from":"AbstractRootString3_1","to":"AbstractRootString3Error",}
+{"type":"id-changed","from":"abc-abstr_PHString3Title_1","to":"abc-abstr_PHString3ErrorTitle",}
+{"type":"id-changed","from":"abc-abstr_PHString3Title_1_label_nl","to":"abc-abstr_PHString3ErrorTitle_label_nl",}
+{"type":"name-mapping","from":"PHString3Title_1","to":"PHString3ErrorTitle",}
+{"type":"text-mapping","from":"Concept String N","to":"Concept String N Error",}
+{"type":"text-mapping","from":"Als ConceptEnumeration3 = Ja dan moet ConceptStringM wel bestaan. Als ConceptEnumeration = Ja dan moet ConceptStringN niet bestaan. Default ConceptEnumeration3 = Ja.","to":"Als ConceptEnumeration3Error = Ja dan moet ConceptStringMError wel bestaan. Als ConceptEnumerationError = Ja dan moet ConceptStringNError niet bestaan. Default ConceptEnumeration3Error = Ja.",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3","to":"abc-table_LinkroleString3Error",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3-x","to":"abc-table_LinkroleString3Error-x",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3_label_nl","to":"abc-table_LinkroleString3Error_label_nl",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3-y","to":"abc-table_LinkroleString3Error-y",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3-x.1","to":"abc-table_LinkroleString3Error-x.1",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3-y.1","to":"abc-table_LinkroleString3Error-y.1",}
+{"type":"id-changed","from":"abc-table_TabelEenKolomAdimensioneelString3_label_en","to":"abc-table_LinkroleString3Error_label_en",}
+{"type":"text-mapping","from":"TabelEenKolomAdimensioneelString3String3","to":"LinkroleString3Error",}
+{"type":"text-mapping","from":"TabelEenKolomAdimensioneelString3String3","to":"LinkroleString3Error",}
+{"type":"id-changed","from":"valueAssertion_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1","to":"valueAssertion_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_assertion-unsatisfied-message_EN2","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_assertion-unsatisfied-message_EN2",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_label_NL","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_label_NL",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_precondition2","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_precondition2",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_label_EN","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_label_EN",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_CoverAll2","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_CoverAll2",}
+{"type":"id-changed","from":"factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_assertion-unsatisfied-message_NL2","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_assertion-unsatisfied-message_NL2",}
+{"type":"id-changed","from":"factVariable_LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringN must not be reported.","to":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringNError must not be reported.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringN niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringN niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringN must not be reported.","to":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringNError must not be reported.",}
+{"type":"id-changed","from":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringNError",}
+{"type":"id-changed","from":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringN","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptStringNError",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringNError must not be reported.","to":"When the reported value of ConceptEnumeration3Error is equal to Ja then ConceptStringNError must not be reported.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3Error gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3Error gelijk is aan Ja dan moet ConceptStringNError niet gerapporteerd worden.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringNError must not be reported.","to":"When the reported value of ConceptEnumeration3Error is equal to Ja then ConceptStringNError must not be reported.",}
+{"type":"id-changed","from":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3","to":"LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3Error",}
+{"type":"id-changed","from":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndNoExistenceConcept1_ConceptEnumeration3Error",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3",}
+{"type":"id-changed","from":"valueAssertion_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1","to":"valueAssertion_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_precondition1","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_precondition1",}
+{"type":"id-changed","from":"factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_label_EN","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_label_EN",}
+{"type":"id-changed","from":"factVariable_LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_NL1",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_label_NL","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_label_NL",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_CoverAll1",}
+{"type":"id-changed","from":"LinkroleString3_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_assertion-unsatisfied-message_EN1",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringM must exist at least once.","to":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringMError must exist at least once.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringM minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringM minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringM must exist at least once.","to":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringMError must exist at least once.",}
+{"type":"id-changed","from":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringMError",}
+{"type":"id-changed","from":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringM","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptStringMError",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringMError must exist at least once.","to":"When the reported value of ConceptEnumeration3Error is equal to Ja then ConceptStringMError must exist at least once.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3Error gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"Wanneer de gerapporteerde waarde van ConceptEnumeration3 gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.","to":"Wanneer de gerapporteerde waarde van ConceptEnumeration3Error gelijk is aan Ja dan moet ConceptStringMError minimaal één keer voorkomen.",}
+{"type":"text-mapping","from":"When the reported value of ConceptEnumeration3 is equal to Ja then ConceptStringMError must exist at least once.","to":"When the reported value of ConceptEnumeration3Error is equal to Ja then ConceptStringMError must exist at least once.",}
+{"type":"id-changed","from":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3","to":"factVariable_LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3Error",}
+{"type":"id-changed","from":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3","to":"LinkroleString3Error_MsgPrecondValueConceptAndExistenceConcept1_ConceptEnumeration3Error",}
