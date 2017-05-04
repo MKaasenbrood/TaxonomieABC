@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>nl.taxonomie.sbr.abc.11.20161214</groupId>
 		<artifactId>instance</artifactId>
-		<version>1.1-snapshot</version>
+		<version>1.1-SNAPSHOT</version>
 	</parent>
 
 	<groupId>nl.taxonomie.sbr.abc.11.20161214.instance</groupId>
@@ -15,10 +15,10 @@
 	<name>Taxonomie ABC ${nta.version} - ${taxonomy.version} - instance - post assembly</name>
 
 	<properties>
-		<instance.validation.batavia>true</instance.validation.batavia>
+		<instance.validation.batavia>false</instance.validation.batavia>
 		<instance.validation.inuit>true</instance.validation.inuit>
-		<instance.validation.inuitformula>false</instance.validation.inuitformula>
-		<instance.validation.inuitfris>true</instance.validation.inuitfris>
+		<instance.validation.inuitformula>true</instance.validation.inuitformula>
+		<instance.validation.inuitfris>false</instance.validation.inuitfris>
 		<report.style>ebpi</report.style>
 	</properties>
 
