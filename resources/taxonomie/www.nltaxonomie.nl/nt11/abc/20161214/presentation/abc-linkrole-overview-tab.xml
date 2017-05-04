@@ -15,9 +15,9 @@
   <gen:link xlink:role="urn:abc:linkrole:linkrole-overview" xlink:type="extended">
     <link:loc xlink:href="abc-generic-parameter.xml#BasisOfPreparationParam" xlink:label="BasisOfPreparationParam_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-generic-parameter.xml#FinancialReportingPeriodCurrentEndDateParam" xlink:label="FinancialReportingPeriodCurrentEndDateParam_loc" xlink:type="locator"/>
-    <link:loc xlink:href="abc-generic-parameter.xml#FinancialReportingPeriodCurrentStartDateParam" xlink:label="FinancialReportingPeriodCurrentStartDateParam_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-generic-parameter.xml#FinancialReportingPeriodPreviousEndDateParam" xlink:label="FinancialReportingPeriodPreviousEndDateParam_loc" xlink:type="locator"/>
     <table:breakdown id="abc-table_LinkroleOverview-x" parentChildOrder="parent-first" xlink:label="abc-table_LinkroleOverview-x" xlink:type="resource"/>
-    <table:breakdown id="abc-table_LinkroleOverview-y" parentChildOrder="parent-first" xlink:label="abc-table_LinkroleOverview-y" xlink:type="resource"/>
+    <table:breakdown id="abc-table_LinkroleOverview-y" parentChildOrder="children-first" xlink:label="abc-table_LinkroleOverview-y" xlink:type="resource"/>
     <table:breakdownTreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/breakdown-tree" xlink:from="abc-table_LinkroleOverview-x" xlink:to="abc-table_LinkroleOverview-x.1" xlink:type="arc"/>
     <table:breakdownTreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/breakdown-tree" xlink:from="abc-table_LinkroleOverview-y" xlink:to="abc-table_LinkroleOverview-y.1" xlink:type="arc"/>
     <table:conceptRelationshipNode id="abc-table_LinkroleOverview-y.1" parentChildOrder="children-first" xlink:label="abc-table_LinkroleOverview-y.1" xlink:type="resource">
@@ -27,10 +27,16 @@
       <table:formulaAxis>descendant</table:formulaAxis>
     </table:conceptRelationshipNode>
     <table:definitionNodeSubtreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/definition-node-subtree" xlink:from="abc-table_LinkroleOverview-x.1.1" xlink:to="abc-table_LinkroleOverview-x.1.1.1" xlink:type="arc"/>
+    <table:definitionNodeSubtreeArc order="2" xlink:arcrole="http://xbrl.org/arcrole/2014/definition-node-subtree" xlink:from="abc-table_LinkroleOverview-x.1.1" xlink:to="abc-table_LinkroleOverview-x.1.1.2" xlink:type="arc"/>
     <table:definitionNodeSubtreeArc order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/definition-node-subtree" xlink:from="abc-table_LinkroleOverview-x.1" xlink:to="abc-table_LinkroleOverview-x.1.1" xlink:type="arc"/>
     <table:ruleNode abstract="false" id="abc-table_LinkroleOverview-x.1.1.1" merge="false" parentChildOrder="parent-first" xlink:label="abc-table_LinkroleOverview-x.1.1.1" xlink:type="resource">
       <formula:period>
-        <formula:duration end="$FinancialReportingPeriodCurrentEndDateParam" start="$FinancialReportingPeriodCurrentStartDateParam"/>
+        <formula:instant value="$FinancialReportingPeriodCurrentEndDateParam"/>
+      </formula:period>
+    </table:ruleNode>
+    <table:ruleNode abstract="false" id="abc-table_LinkroleOverview-x.1.1.2" merge="false" parentChildOrder="parent-first" xlink:label="abc-table_LinkroleOverview-x.1.1.2" xlink:type="resource">
+      <formula:period>
+        <formula:instant value="$FinancialReportingPeriodPreviousEndDateParam"/>
       </formula:period>
     </table:ruleNode>
     <table:ruleNode abstract="true" id="abc-table_LinkroleOverview-x.1.1" merge="true" parentChildOrder="parent-first" xlink:label="abc-table_LinkroleOverview-x.1.1" xlink:type="resource">
@@ -52,6 +58,6 @@
     <table:tableBreakdownArc axis="y" order="1" xlink:arcrole="http://xbrl.org/arcrole/2014/table-breakdown" xlink:from="abc-table_LinkroleOverview" xlink:to="abc-table_LinkroleOverview-y" xlink:type="arc"/>
     <table:tableParameterArc name="BasisOfPreparationParam" xlink:arcrole="http://xbrl.org/arcrole/2014/table-parameter" xlink:from="abc-table_LinkroleOverview" xlink:to="BasisOfPreparationParam_loc" xlink:type="arc"/>
     <table:tableParameterArc name="FinancialReportingPeriodCurrentEndDateParam" xlink:arcrole="http://xbrl.org/arcrole/2014/table-parameter" xlink:from="abc-table_LinkroleOverview" xlink:to="FinancialReportingPeriodCurrentEndDateParam_loc" xlink:type="arc"/>
-    <table:tableParameterArc name="FinancialReportingPeriodCurrentStartDateParam" xlink:arcrole="http://xbrl.org/arcrole/2014/table-parameter" xlink:from="abc-table_LinkroleOverview" xlink:to="FinancialReportingPeriodCurrentStartDateParam_loc" xlink:type="arc"/>
+    <table:tableParameterArc name="FinancialReportingPeriodPreviousEndDateParam" xlink:arcrole="http://xbrl.org/arcrole/2014/table-parameter" xlink:from="abc-table_LinkroleOverview" xlink:to="FinancialReportingPeriodPreviousEndDateParam_loc" xlink:type="arc"/>
   </gen:link>
 </link:linkbase>
