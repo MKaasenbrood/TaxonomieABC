@@ -433,7 +433,6 @@
   <abc-i:ConceptMoneyDCI contextRef="context64" unitRef="unit7" decimals="INF">-2111</abc-i:ConceptMoneyDCI>
   <abc-i:ConceptEnumeration contextRef="context71">Ja</abc-i:ConceptEnumeration>
   <abc-i:ConceptStringC contextRef="context71">StringC</abc-i:ConceptStringC>
-  <abc-i:ConceptStringD contextRef="context71">StringD</abc-i:ConceptStringD>
   <abc-i:ConceptStringE contextRef="context74">StringE</abc-i:ConceptStringE>
   <abc-i:ConceptStringF contextRef="context74">StringF</abc-i:ConceptStringF>
   <abc-i:ConceptStringH contextRef="context0">Hey</abc-i:ConceptStringH>
@@ -471,7 +470,7 @@
   <abc-i:ConceptAstring3FItemType contextRef="context0">abc</abc-i:ConceptAstring3FItemType>
   <abc-i:ConceptPure5_3VItemType contextRef="context0">12</abc-i:ConceptPure5_3VItemType>
   <abc-i:ConceptMonetaryTotalDigits10ItemType contextRef="context0" unitRef="unit7" decimals="INF">1234567890</abc-i:ConceptMonetaryTotalDigits10ItemType>
-  <abc-i:ConceptMonetaryMinInclusive20ItemType contextRef="context0" unitRef="unit7" decimals="INF">5</abc-i:ConceptMonetaryMinInclusive20ItemType>
+  <abc-i:ConceptMonetaryMinInclusive20ItemType contextRef="context0" unitRef="unit7" decimals="INF">20</abc-i:ConceptMonetaryMinInclusive20ItemType>
   <abc-i:ConceptMonetaryMinLength20ItemType contextRef="context0">12345678901234567890</abc-i:ConceptMonetaryMinLength20ItemType>
   <abc-i:ConceptMonetaryMaxExclusive10ItemType contextRef="context0" unitRef="unit7" decimals="INF">9</abc-i:ConceptMonetaryMaxExclusive10ItemType>
   <abc-i:ConceptMonetaryMaxInclusive10ItemType contextRef="context0" unitRef="unit7" decimals="INF">10</abc-i:ConceptMonetaryMaxInclusive10ItemType>
@@ -485,12 +484,11 @@
   <abc-i:ConceptDateG contextRef="context0">2017-02-09</abc-i:ConceptDateG>
   <abc-i:ConceptEnumeration3 contextRef="context0">Ja</abc-i:ConceptEnumeration3>
   <abc-i:ConceptStringM contextRef="context0">StringM</abc-i:ConceptStringM>
-  <abc-i:ConceptStringN contextRef="context0">StringN</abc-i:ConceptStringN>
   <abc-i:ConceptBoolean4 contextRef="context71">true</abc-i:ConceptBoolean4>
   <abc-i:ConceptBoolean4 contextRef="context127">false</abc-i:ConceptBoolean4>
   <abc-i:ConceptBoolean4 contextRef="context74">false</abc-i:ConceptBoolean4>
   <abc-i:ConceptBoolean4 contextRef="context129">false</abc-i:ConceptBoolean4>
-  <abc-i:ConceptEnumerationFinancialStatementType contextRef="context0">Geconsolideerd</abc-i:ConceptEnumerationFinancialStatementType>
+  <abc-i:ConceptEnumerationFinancialStatementType contextRef="context0">Geconsolideerd en enkelvoudig</abc-i:ConceptEnumerationFinancialStatementType>
   <abc-i:ConceptMoneyJCD contextRef="context71" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
   <abc-i:ConceptMoneyJCD contextRef="context127" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD>
   <abc-i:ConceptStringO contextRef="context71">stringO</abc-i:ConceptStringO>
@@ -499,6 +497,21 @@
   <abc-i:ConceptMoneyJCD contextRef="context129" unitRef="unit7" decimals="INF">23</abc-i:ConceptMoneyJCD>
   <abc-i:ConceptStringO contextRef="context74">StringO</abc-i:ConceptStringO>
   <abc-i:ConceptStringP contextRef="context74">StringP</abc-i:ConceptStringP>
+  
+  
+  
+  <abc-i:ConceptEnumerationFinancialStatementType2Page contextRef="context0">Geconsolideerd en enkelvoudig</abc-i:ConceptEnumerationFinancialStatementType2Page>
+  <abc-i:ConceptMoneyJCD2Page contextRef="context71" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD2Page>
+  <abc-i:ConceptStringO2Page contextRef="context71">stringO</abc-i:ConceptStringO2Page>
+  <abc-i:ConceptStringP2Page contextRef="context71">stringP</abc-i:ConceptStringP2Page>
+  <abc-i:ConceptMoneyJCD2Page contextRef="context74" unitRef="unit7" decimals="INF">123</abc-i:ConceptMoneyJCD2Page>
+  <abc-i:ConceptStringO2Page contextRef="context74">StringO</abc-i:ConceptStringO2Page>
+  <abc-i:ConceptStringP2Page contextRef="context74">StringP</abc-i:ConceptStringP2Page>
+  
+  
+  
+  
+  
   <abc-i:ConceptValuta contextRef="context0">XBA</abc-i:ConceptValuta>
   <abc-i:ConceptStringG contextRef="context0">afsdr</abc-i:ConceptStringG>
   <abc-i:ConceptDecimal1 contextRef="context0" unitRef="unit77" decimals="INF">123.345</abc-i:ConceptDecimal1>
