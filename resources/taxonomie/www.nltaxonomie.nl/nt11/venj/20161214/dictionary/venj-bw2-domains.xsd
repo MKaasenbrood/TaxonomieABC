@@ -11,6 +11,5 @@
   <xs:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xs:element abstract="true" id="venj-bw2-dm_CommercialMember" name="CommercialMember" nillable="false" substitutionGroup="sbr:domainMemberItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="venj-bw2-dm_ConsolidatedMember" name="ConsolidatedMember" nillable="false" substitutionGroup="sbr:domainMemberItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xs:element abstract="true" id="venj-bw2-dm_FiscalMember" name="FiscalMember" nillable="false" substitutionGroup="sbr:domainMemberItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="true" id="venj-bw2-dm_SeparateMember" name="SeparateMember" nillable="false" substitutionGroup="sbr:domainMemberItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
 </xs:schema>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:abc-i="http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data" xmlns:cf="http://xbrl.org/2008/filter/concept" xmlns:crf="http://xbrl.org/2010/filter/concept-relation" xmlns:df="http://xbrl.org/2008/filter/dimension" xmlns:gen="http://xbrl.org/2008/generic" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:va="http://xbrl.org/2008/assertion/value" xmlns:variable="http://xbrl.org/2008/variable" xmlns:venj-bw2-dim="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-axes" xmlns:venj-bw2-dm="http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-domains" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://xbrl.org/2008/assertion/value http://www.xbrl.org/2008/value-assertion.xsd http://xbrl.org/2008/filter/concept http://www.xbrl.org/2008/concept-filter.xsd http://xbrl.org/2008/variable http://www.xbrl.org/2008/variable.xsd http://xbrl.org/2008/filter/dimension http://www.xbrl.org/2008/dimension-filter.xsd http://xbrl.org/2010/filter/concept-relation http://www.xbrl.org/2010/concept-relation-filter.xsd http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-domains ../../../venj/20161214/dictionary/venj-bw2-domains.xsd http://www.nltaxonomie.nl/nt11/venj/20161214/dictionary/venj-bw2-axes ../../../venj/20161214/dictionary/venj-bw2-axes.xsd http://www.nltaxonomie.nl/nt11/abc/20161214/dictionary/abc-data ../dictionary/abc-data.xsd">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-overview-breakdown2" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleOverviewBreakdown2" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-filter" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-filter" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/variable-set" xlink:href="http://www.xbrl.org/2008/variable.xsd#variable-set" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:href="http://www.xbrl.org/2016/assertion-severity.xsd#assertion-unsatisfied-severity" xlink:type="simple"/>
+  <gen:link xlink:role="urn:abc:linkrole:linkrole-overview-breakdown2" xlink:type="extended">
+    <cf:conceptBalance balance="credit" id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceCredit1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceCredit1" xlink:type="resource"/>
+    <cf:conceptBalance balance="debit" id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceDebit1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceDebit1" xlink:type="resource"/>
+    <cf:conceptBalance balance="debit" id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceParentDebit1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceParentDebit1" xlink:type="resource"/>
+    <cf:conceptName id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:type="resource">
+      <cf:concept>
+        <cf:qname>abc-i:MoneyOverview2DD</cf:qname>
+      </cf:concept>
+    </cf:conceptName>
+    <crf:conceptRelation id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDCredit" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDCredit" xlink:type="resource">
+      <crf:qname>abc-i:MoneyOverview2DD</crf:qname>
+      <crf:linkrole>urn:abc:linkrole:linkrole-overview-breakdown2</crf:linkrole>
+      <crf:arcrole>http://www.xbrl.org/2003/arcrole/parent-child</crf:arcrole>
+      <crf:axis>child</crf:axis>
+    </crf:conceptRelation>
+    <crf:conceptRelation id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDDebit" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDDebit" xlink:type="resource">
+      <crf:qname>abc-i:MoneyOverview2DD</crf:qname>
+      <crf:linkrole>urn:abc:linkrole:linkrole-overview-breakdown2</crf:linkrole>
+      <crf:arcrole>http://www.xbrl.org/2003/arcrole/parent-child</crf:arcrole>
+      <crf:axis>child</crf:axis>
+    </crf:conceptRelation>
+    <df:explicitDimension id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter1FinancialStatementTypeSeparate1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter1FinancialStatementTypeSeparate1" xlink:type="resource">
+      <df:dimension>
+        <df:qname>venj-bw2-dim:FinancialStatementsTypeAxis</df:qname>
+      </df:dimension>
+      <df:member>
+        <df:qname>venj-bw2-dm:SeparateMember</df:qname>
+      </df:member>
+    </df:explicitDimension>
+    <df:explicitDimension id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter2FinancialStatementTypeSeparate1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter2FinancialStatementTypeSeparate1" xlink:type="resource">
+      <df:dimension>
+        <df:qname>venj-bw2-dim:FinancialStatementsTypeAxis</df:qname>
+      </df:dimension>
+      <df:member>
+        <df:qname>venj-bw2-dm:SeparateMember</df:qname>
+      </df:member>
+    </df:explicitDimension>
+    <df:explicitDimension id="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_FilterFinancialStatementTypeSeparate1" xlink:label="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_FilterFinancialStatementTypeSeparate1" xlink:type="resource">
+      <df:dimension>
+        <df:qname>venj-bw2-dim:FinancialStatementsTypeAxis</df:qname>
+      </df:dimension>
+      <df:member>
+        <df:qname>venj-bw2-dm:SeparateMember</df:qname>
+      </df:member>
+    </df:explicitDimension>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2016/assertion-unsatisfied-severity" xlink:from="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" xlink:to="WARNING_loc" xlink:type="arc"/>
+    <link:loc xlink:href="http://www.xbrl.org/2016/severities.xml#WARNING" xlink:label="WARNING_loc" xlink:type="locator"/>
+    <va:valueAssertion aspectModel="dimensional" id="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" implicitFiltering="true" test=" $MoneyOverview2DD = - sum($varArc_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit)+ sum($varArc_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit)" xlink:label="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="true" fallbackValue="0" id="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" matches="false" nils="false" xlink:label="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="true" fallbackValue="0" id="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" matches="false" nils="false" xlink:label="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" xlink:type="resource"/>
+    <variable:factVariable bindAsSequence="false" id="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" matches="false" nils="false" xlink:label="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:type="resource"/>
+    <variable:variableArc name="MoneyOverview2DD" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" xlink:to="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:type="arc"/>
+    <variable:variableArc name="varArc_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" order="2" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" xlink:to="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" xlink:type="arc"/>
+    <variable:variableArc name="varArc_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" order="2" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-set" xlink:from="valueAssertion_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1" xlink:to="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceCredit1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDCredit" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="2" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDCredit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter1FinancialStatementTypeSeparate1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceDebit1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_RelationMoneyOverview2DDDebit" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="2" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ChildrenOfMoneyOverview2DDDebit" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_Filter2FinancialStatementTypeSeparate1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_ConceptBalanceParentDebit1" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="1" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:type="arc"/>
+    <variable:variableFilterArc complement="false" cover="true" order="2" priority="0" xlink:arcrole="http://xbrl.org/arcrole/2008/variable-filter" xlink:from="factVariable_LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_MoneyOverview2DD" xlink:to="LinkroleOverviewBreakdown2_MsgSeparateSumOfChildrenParentDebit1_FilterFinancialStatementTypeSeparate1" xlink:type="arc"/>
+  </gen:link>
+</link:linkbase>

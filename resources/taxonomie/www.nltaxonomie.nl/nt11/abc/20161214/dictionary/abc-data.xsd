@@ -130,5 +130,12 @@
   <xs:element abstract="false" id="abc-i_ConceptTuple4" name="ConceptTuple4" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptTuple5" name="ConceptTuple5" nillable="false" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_ConceptValuta" name="ConceptValuta" nillable="false" substitutionGroup="xbrli:item" type="iso4217-enum-sbr:isoCurrencyCodes4217ItemType" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview1DD" name="MoneyOverview1DD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview2DD" name="MoneyOverview2DD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview3DC" name="MoneyOverview3DC" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview21DC" name="MoneyOverview21DC" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview22DC" name="MoneyOverview22DC" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview31DC" name="MoneyOverview31DC" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="credit" xbrli:periodType="duration"/>
+  <xs:element abstract="false" id="abc-i_MoneyOverview32DD" name="MoneyOverview32DD" nillable="false" substitutionGroup="xbrli:item" type="nl-types:monetaryNoDecimals20ItemType" xbrli:balance="debit" xbrli:periodType="duration"/>
   <xs:element abstract="false" id="abc-i_TypedMemberPresentationOrder" name="TypedMemberPresentationOrder" nillable="false" substitutionGroup="xbrli:item" type="nl-types:nonNegativeDecimalItemType" xbrli:periodType="duration"/>
 </xs:schema>

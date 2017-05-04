@@ -42,6 +42,13 @@
     <link:label id="abc-i_ConceptStringWhitespacePreserveItemType_label_en" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">ConceptStringWhiteSpacePreserveItemType</link:label>
     <link:label id="abc-i_ConceptStringWhitespaceCollapseItemType_label_en" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">ConceptStringWhitespaceCollapseItemType</link:label>
     <link:label id="abc-i_ConceptStringWhitespaceReplaceItemType_label_en" xlink:label="abc-i_ConceptStringWhitespaceReplaceItemType_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">ConceptStringWhitespaceReplaceItemType</link:label>
+    <link:label id="abc-i_MoneyOverview1DD_label_en" xlink:label="abc-i_MoneyOverview1DD_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview1DD</link:label>
+    <link:label id="abc-i_MoneyOverview2DD_label_en" xlink:label="abc-i_MoneyOverview2DD_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview2</link:label>
+    <link:label id="abc-i_MoneyOverview3DC_label_en" xlink:label="abc-i_MoneyOverview3DC_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview3DC</link:label>
+    <link:label id="abc-i_MoneyOverview21DC_label_en" xlink:label="abc-i_MoneyOverview21DC_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview21DC</link:label>
+    <link:label id="abc-i_MoneyOverview22DC_label_en" xlink:label="abc-i_MoneyOverview22DC_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview22DC</link:label>
+    <link:label id="abc-i_MoneyOverview31DC_label_en" xlink:label="abc-i_MoneyOverview31DC_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview31DC</link:label>
+    <link:label id="abc-i_MoneyOverview32DD_label_en" xlink:label="abc-i_MoneyOverview32DD_label_en" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">MoneyOverview32DD</link:label>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptAstring3FItemType_loc" xlink:to="abc-i_ConceptAstring3FItemType_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:to="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptDecimal1_loc" xlink:to="abc-i_ConceptDecimal1_label_en" xlink:type="arc"/>
@@ -76,6 +83,13 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:to="abc-i_ConceptStringWhitespaceCollapseItemType_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:to="abc-i_ConceptStringWhitespacePreserveItemType_label_en" xlink:type="arc"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_ConceptStringWhitespaceReplaceItemType_loc" xlink:to="abc-i_ConceptStringWhitespaceReplaceItemType_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview1DD_loc" xlink:to="abc-i_MoneyOverview1DD_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview2DD_loc" xlink:to="abc-i_MoneyOverview2DD_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview3DC_loc" xlink:to="abc-i_MoneyOverview3DC_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview21DC_loc" xlink:to="abc-i_MoneyOverview21DC_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview22DC_loc" xlink:to="abc-i_MoneyOverview22DC_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview31DC_loc" xlink:to="abc-i_MoneyOverview31DC_label_en" xlink:type="arc"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="abc-i_MoneyOverview32DD_loc" xlink:to="abc-i_MoneyOverview32DD_label_en" xlink:type="arc"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptAstring3FItemType" xlink:label="abc-i_ConceptAstring3FItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptChamberOfCommerceRegistrationNumberItemType" xlink:label="abc-i_ConceptChamberOfCommerceRegistrationNumberItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptDecimal1" xlink:label="abc-i_ConceptDecimal1_loc" xlink:type="locator"/>
@@ -110,5 +124,12 @@
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespaceCollapseItemType" xlink:label="abc-i_ConceptStringWhitespaceCollapseItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespacePreserveItemType" xlink:label="abc-i_ConceptStringWhitespacePreserveItemType_loc" xlink:type="locator"/>
     <link:loc xlink:href="abc-data.xsd#abc-i_ConceptStringWhitespaceReplaceItemType" xlink:label="abc-i_ConceptStringWhitespaceReplaceItemType_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview1DD" xlink:label="abc-i_MoneyOverview1DD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview2DD" xlink:label="abc-i_MoneyOverview2DD_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview3DC" xlink:label="abc-i_MoneyOverview3DC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview21DC" xlink:label="abc-i_MoneyOverview21DC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview22DC" xlink:label="abc-i_MoneyOverview22DC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview31DC" xlink:label="abc-i_MoneyOverview31DC_loc" xlink:type="locator"/>
+    <link:loc xlink:href="abc-data.xsd#abc-i_MoneyOverview32DD" xlink:label="abc-i_MoneyOverview32DD_loc" xlink:type="locator"/>
   </link:labelLink>
 </link:linkbase>

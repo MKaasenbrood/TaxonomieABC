@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  This file is part of the Dutch Taxonomy (Nederlandse Taxonomie; NT)
+  Intellectual Property of the State of the Netherlands
+  Architecture: NT11
+  Version: 20161214
+  Release date: Wed Dec 14 09:00:00 2016
+-->
+<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="urn:abc:linkrole:linkrole-overview-breakdown1" xlink:href="../dictionary/abc-linkroles.xsd#abc-lr_LinkroleOverviewBreakdown1" xlink:type="simple"/>
+  <link:presentationLink xlink:role="urn:abc:linkrole:linkrole-overview-breakdown1" xlink:type="extended">
+    <link:loc xlink:href="abc-abstracts.xsd#abc-abstr_AbstractLinkroleOverviewBreakdown1Title" xlink:label="abc-abstr_AbstractLinkroleOverviewBreakdown1Title_loc" xlink:type="locator"/>
+    <link:loc xlink:href="../dictionary/abc-data.xsd#abc-i_MoneyOverview1DD" xlink:label="abc-i_MoneyOverview1DD_loc" xlink:type="locator"/>
+    <link:presentationArc order="1" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="abc-abstr_AbstractLinkroleOverviewBreakdown1Title_loc" xlink:to="abc-i_MoneyOverview1DD_loc" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>
