@@ -12,7 +12,7 @@
   <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
   <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="valueAssertion_LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_loc" xlink:to="LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_label_NL" xlink:type="arc"/>
-    <label:label id="LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_label_NL" xlink:label="LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_label_NL" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">LinkroleOverviewBreakdown3 moet gelijk zijn aan de sommatie van de onderliggende waarden.</label:label>
+    <label:label id="LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_label_NL" xlink:label="LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_label_NL" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="nl">MoneyOverview3DC moet gelijk zijn aan de sommatie van de onderliggende waarden.</label:label>
     <link:loc xlink:href="abc-linkrole-overview-breakdown3-for.xml#valueAssertion_LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1" xlink:label="valueAssertion_LinkroleOverviewBreakdown3_MsgSeparateSumOfChildrenParentCredit1_loc" xlink:type="locator"/>
   </gen:link>
 </link:linkbase>
