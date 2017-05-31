@@ -20,6 +20,12 @@
 
 	<profiles>
 		<profile>
+			<id>Assembly</id>
+			<modules>
+				<module>assembly</module>
+			</modules>
+		</profile>
+		<profile>
 			<id>Instance</id>
 			<modules>
 				<module>assembly</module>

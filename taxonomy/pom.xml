@@ -20,6 +20,12 @@
 
 	<profiles>
 		<profile>
+			<id>Assembly</id>
+			<modules>
+				<module>assemblyrelease</module>
+			</modules>
+		</profile>
+		<profile>
 			<id>Taxonomy</id>
 			<modules>
 				<module>assemblyrelease</module>

@@ -3,11 +3,13 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
+	<!--
 	<parent>
 		<groupId>nl.taxonomie</groupId>
 		<artifactId>global</artifactId>
 		<version>2.4.7</version>
 	</parent>
+	-->
 
 	<groupId>nl.taxonomie.sbr.abc.11</groupId>
 	<artifactId>20161214</artifactId>
@@ -15,6 +17,10 @@
 	<packaging>pom</packaging>
 	<name>Taxonomie ABC ${nta.version} - ${taxonomy.version}</name>
 
+	<prerequisites>
+		<maven>2.2.1</maven>
+	</prerequisites>
+	
 	<properties>
 		<nta.version>nt11</nta.version>
 		<taxonomy.version>20161214</taxonomy.version>
@@ -33,6 +39,175 @@
 	</dependencyManagement>
 
 	<profiles>
+		<profile>
+			<id>Assembly</id>
+			<modules>
+				<module>taxonomy</module>
+				<module>instance</module>
+			</modules>
+
+	<properties>
+		<flavour></flavour>	
+		<sha.file>${project.build.directory}/${project.artifactId}-${project.version}-assembly${flavour}.zip.sha256</sha.file>
+	</properties>
+
+		
+	<build>
+		<pluginManagement>
+			<plugins>			
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-install-plugin</artifactId>
+					<version>2.5.1</version>
+				</plugin>
+				<plugin>
+					<groupId>com.google.code.sortpom</groupId>
+					<artifactId>maven-sortpom-plugin</artifactId>
+					<version>2.3.0</version>
+					<configuration>
+						<createBackupFile>false</createBackupFile>
+						<encoding>${project.build.sourceEncoding}</encoding>
+						<lineSeparator>\n</lineSeparator>
+						<nrOfIndentSpace>-1</nrOfIndentSpace>
+						<predefinedSortOrder>recommended_2008_06</predefinedSortOrder>
+						<sortDependencies>groupId,artifactId</sortDependencies>
+						<sortPlugins></sortPlugins>
+						<sortProperties>true</sortProperties>
+						<keepBlankLines>true</keepBlankLines>
+					</configuration>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-assembly-plugin</artifactId>
+					<version>2.4</version>
+					<executions>
+						<execution>
+							<id>make-assembly</id>
+							<goals>
+								<goal>single</goal>
+							</goals>
+							<phase>package</phase>
+							<configuration>
+								<descriptors>
+									<descriptor>assembly.xml</descriptor>
+								</descriptors>
+								<encoding>UTF-8</encoding>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-clean-plugin</artifactId>
+					<version>2.5</version>
+				</plugin>				
+				<plugin>
+					<groupId>org.codehaus.mojo</groupId>
+					<artifactId>build-helper-maven-plugin</artifactId>
+					<version>1.9.1</version>
+					<executions>
+						<execution>
+							<id>regex-property</id>
+							<goals>
+								<goal>regex-property</goal>
+							</goals>
+							<!--phase to be used: 'test'-->
+							<phase>none</phase>
+							<configuration>
+								<name>portalontology.version</name>
+								<value>${nl.taxonomie.portalontology:assembly:zip:assembly}</value>
+								<regex>.+(\\|\/)(.+)(\\|\/)[^(\\|\/)]+$</regex>
+								<replacement>$2</replacement>
+							</configuration>
+						</execution>
+						<execution>
+							<id>attach-artifacts</id>
+							<goals>
+								<goal>attach-artifact</goal>
+							</goals>
+							<!--phase to be used: 'verify'-->
+							<phase>none</phase>
+							<configuration>
+								<artifacts>
+									<artifact>
+										<file>${sha.file}</file>
+										<type>sha256.txt</type>
+									</artifact>
+								</artifacts>
+							</configuration>
+						</execution>
+						<execution>
+							<id>attach-dar</id>
+							<goals>
+								<goal>attach-artifact</goal>
+							</goals>
+							<!--phase to be used: 'package'-->
+							<phase>none</phase>
+							<configuration>
+								<artifacts>
+									<artifact>
+										<file>${project.build.directory}/xldeploy${flavour}-${project.version}.dar</file>
+										<type>dar</type>
+									</artifact>
+								</artifacts>
+							</configuration>
+						</execution>
+						<execution>
+							<id>attach-dar-nltax</id>
+							<goals>
+								<goal>attach-artifact</goal>
+							</goals>
+							<!--phase to be used: 'package'-->
+							<phase>none</phase>
+							<configuration>
+								<artifacts>
+									<artifact>
+										<file>${project.build.directory}/xldeploynltax-${project.version}.dar</file>
+										<type>dar</type>
+									</artifact>
+								</artifacts>
+							</configuration>
+						</execution>
+						<execution>
+							<id>attach-dar-husky</id>
+							<goals>
+								<goal>attach-artifact</goal>
+							</goals>
+							<!--phase to be used: 'package'-->
+							<phase>none</phase>
+							<configuration>
+								<artifacts>
+									<artifact>
+										<file>${project.build.directory}/xldeploy-${project.version}.dar</file>
+										<type>dar</type>
+									</artifact>
+								</artifacts>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+				<plugin>
+					<groupId>net.ju-n.maven.plugins</groupId>
+					<artifactId>checksum-maven-plugin</artifactId>
+					<version>1.2</version>
+					<configuration>
+						<algorithms>
+							<algorithm>SHA-256</algorithm>
+						</algorithms>
+					</configuration>
+					<executions>
+						<execution>
+							<goals>
+								<goal>artifacts</goal>
+							</goals>
+							<phase>pre-integration-test</phase>
+						</execution>
+					</executions>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>				
+		</profile>
 		<profile>
 			<id>Taxonomy</id>
 			<modules>
