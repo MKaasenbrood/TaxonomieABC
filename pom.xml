@@ -3,13 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<!--
-	<parent>
-		<groupId>nl.taxonomie</groupId>
-		<artifactId>global</artifactId>
-		<version>2.4.7</version>
-	</parent>
-	-->
+
 
 	<groupId>nl.taxonomie.sbr.abc.11</groupId>
 	<artifactId>20161214</artifactId>
@@ -25,18 +19,6 @@
 		<nta.version>nt11</nta.version>
 		<taxonomy.version>20161214</taxonomy.version>
 	</properties>
-
-	<dependencyManagement>
-		<dependencies>
-			<dependency>
-				<groupId>nl.taxonomie</groupId>
-				<artifactId>dependencies</artifactId>
-				<version>2.5.5</version>
-				<type>pom</type>
-				<scope>import</scope>
-			</dependency>
-		</dependencies>
-	</dependencyManagement>
 
 	<profiles>
 		<profile>
